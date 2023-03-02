@@ -1,0 +1,47 @@
+EventId,EventTemplate,Occurrences
+75aa868a,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>  user=root,2127
+07159a74,<*> password for <*> from <*> port <*> ssh2,2245
+c926c7d9,Did not receive identification string from <*>,14
+ea4aa83d,Disconnecting: Too many authentication failures for root [preauth],567
+2dd88708,PAM service(sshd) ignoring max retries; 6 > 3,564
+2491ca3e,Connection closed by <*> [preauth],1005
+6b674ff1,input_userauth_request: invalid user <*> [preauth],238
+d207b4f5,PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>  user=root,580
+c5704dd9,Received disconnect from <*>: 11: Bye Bye [preauth],694
+0849a7d0,pam_unix(sshd:auth): check pass; user unknown,305
+ca409192,Failed <*> for invalid user <*> from <*> port <*> ssh2,286
+b542638e,message repeated <*> times: [ Failed password for root from <*> port <*> ssh2],568
+9302fad4,Invalid user <*> from <*>,200
+73f7593b,PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>  user=root,3
+e2315f39,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,230
+d9e4440b,reverse mapping checking getaddrinfo for <*>.vultr.com [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!,2
+5441775c,reverse mapping checking getaddrinfo for . [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!,124
+43979032,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>  user=git,5
+f7fe7f88,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!,36
+1d431a97,reverse mapping checking getaddrinfo for static.<*>.<*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!,4
+3e662e18,PAM service(sshd) ignoring max retries; 5 > 3,12
+b449c4e9,reverse mapping checking getaddrinfo for <*>.<*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!,87
+a998e480,fatal: Read from socket failed: Connection reset by peer [preauth],11
+0c7b42d8,"Address <*> maps to <*>, but this does not map back to the address - POSSIBLE BREAK-IN ATTEMPT!",15
+92ffcac4,Disconnecting: Too many authentication failures for admin [preauth],13
+d7242a1b,error: Received disconnect from <*>: 14: No more user authentication methods available. [preauth],12
+d72fd2a1,PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,5
+8bb6393b,Received disconnect from <*>: 11: disconnect [preauth],3
+a625beb4,Received disconnect from <*>: 11:  [preauth],2
+e2e22af4,Received disconnect from <*>: 11: Closed due to user request. [preauth],11
+7937f351,PAM 1 more authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>  user=root,2
+3a82a99b,Received disconnect from <*>: 11: Client disconnecting normally [preauth],2
+34de06f2,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>  user=uucp,1
+3a7285d3,error: Received disconnect from <*>: 3: <*>: Auth fail [preauth],2
+1a4f6a29,pam_unix(sshd:session): session closed for user curi,2
+1048a82a,PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,6
+e93b7b61,pam_unix(sshd:session): session closed for user jmzhu,1
+5fa30d4a,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>  user=mysql,3
+ef943b70,reverse mapping checking getaddrinfo for no-data [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!,1
+caa7cd9d,reverse mapping checking getaddrinfo for lvhqgeek.com-1486436562555-512mb-fra1-01 [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!,2
+517c9c6f,PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>  user=root,2
+7f8d7ef8,PAM 1 more authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,4
+c1bd902a,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>  user=zachary,1
+81dbc451,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>  user=ftp,1
+4ca88b08,pam_unix(sshd:session): session opened for user fztu by (uid=0),1
+b1966d13,pam_unix(sshd:session): session opened for user hxu by (uid=0),1

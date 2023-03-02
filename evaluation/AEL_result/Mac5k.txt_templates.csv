@@ -1,0 +1,350 @@
+EventId,EventTemplate,Occurrences
+b7a2d271,en0::IO80211Interface::postMessage bssid changed,25
+60a574ff,CCFile::captureLog Received Capture notice id: <*> reason = <*>,36
+f1885a0f,CCFile::captureLogRun Skipping current file Dir file <*> Current File <*>,62
+e3d70e64,<*> <*> | I | VoipWrapper | DAVEngineImpl.cpp:1400:Close | close video chat. llFriendUIN = <*>,11
+de1b8e5e,AirPort: Link Up on <*>,32
+703d433b,ARPT: <*> wl0: <*> <*> <*> <*>,69
+bb15d06c,Sandbox: <*> deny(1) <*> <*>,73
+fea8a7f7,IOThunderboltSwitch<0>(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = <*> unplug = 0,68
+01660cbd,ARPT: <*> AirPort_Brcm43xx::platformWoWEnable: <*>,47
+ca501184,send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.,94
+a91f5e42,ARPT: <*> wl0: setup_keepalive: Local port: <*> Remote port: <*>,14
+4a019d20,CCFile::captureLog,39
+9cf261a8,ARPT: <*> wlc_dump_aggfifo:,16
+5d3b8c8e,AppleCamIn::handleWakeEvent_gated,26
+19147422,<*> deny network-outbound /private/var/run/mDNSResponder,57
+7437a69c,en0: 802.11d country code set to <*>,21
+879f9d34,Wake reason: <*> <*>,19
+13635c18,<*> - <*> = <*>,129
+e3190f64,"bitmap_size 0x7f0fc, previewSize 0x4028, writing 455779 pages @ 0x97144",1
+b9b132a2,"Path not allowed in target domain: type = pid, path = /System/Library/StagedFrameworks/Safari/SafariShared.framework/Versions/A/XPCServices/<*>/Contents/MacOS/<*> error = 147: The specified service did not ship in the requestor's bundle, origin = /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/<*>",42
+2fe4ad5c,CCIOReporterFormatter::addRegistryChildToChannelDictionary streams 7,13
+a2f00a21,<*> (Fig) signalled <*>,2
+13c2a597,ARPT: <*> wl0: wl_update_tcpkeep_seq: Original Seq: <*> Ack: <*> Win size: 4096,15
+ecd68958,en0: <*> changed to <*>,125
+8274cb77,"network_reachability_changed : network is not reachable, netbiosd is shutting down",9
+54c05f44,tcp_connection_handle_connect_conditions_bad <*> failed: 3 - No network route,33
+b4bf6097,<*> : BTLE scanner Powered <*>,33
+2d0d617f,CCFile::captureLogRun() Exiting CCFile::captureLogRun,59
+9a054d77,-[NETClientConnection effectiveBundleID] using process name <*> as bundle ID (this is expected for daemons without bundle ID,37
+b9ada29c,"[CardDAVPlugin-ERROR] -getPrincipalInfo:[_controller supportsRequestCompressionAtURL:https://xpc_ben%40163.com@<*>/principals/users/558548ec28fbd965ade28995b355b70d/] Error Domain=NSURLErrorDomain Code=-1001 ""The request timed out."" UserInfo={NSUnderlyingError=0x7fe2bb671620 {Error Domain=kCFErrorDomainCFNetwork Code=-1001 ""The request timed out."" UserInfo={NSErrorFailingURLStringKey=https://xpc_ben%40163.com@<*>/principals/users/558548ec28fbd965ade28995b355b70d/, NSErrorFailingURLKey=https://xpc_ben%40163.com@<*>/principals/users/558548ec28fbd965ade28995b355b70d/, _kCFStreamErrorCodeKey=-2102, _kCFStreamErrorDomainKey=4, NSLocalizedDescription=The request timed out.}}, NSErrorFailingURLStringKey=https://xpc_ben%40163.com@<*>/principals/users/558548ec28fbd965ade28995b355b70d/, NSErrorFailingURLKey=https://xpc_ben%40163.com@<*>/principals/users/558548ec28fbd965ade28995b355b70d/, _kCFStreamErrorDomainKey=4, _kCFStreamErrorCodeKey=-2102, NSLocalizedDescription=The request timed out.}",1
+4cedf359,Unable to simultaneously satisfy constraints:,13
+b55176d9,jemmytest,25
+612f3a4f,ARPT: 784388.461503: wl0: wl_update_tcpkeep_seq: mDNSOffloadUserClient::GetKeepaliveData failed,1
+b7aaf5db,Thermal pressure state: <*> Memory pressure state: 0,88
+83801e0d,ASSERTION FAILED: dvcAddrRef != ((void *)0) -[DriverServices getDeviceAddress:] line: 2789,8
+6a6d7984,IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from <*> to <*>,48
+a5714044,AppleThunderboltGenericHAL::earlyWake - complete - took <*> milliseconds,39
+fe0771c3,dnssd_clientstub ConnectToServer: connect()-> No of tries: <*>,88
+b7844740,-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: <*>,27
+f1b7493a,(DiskStore.Normal:2382) 4001 1.014334,1
+99b87c94,ARPT: <*> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.,18
+a0672ef8,"ARPT: <*> wl0: setup_keepalive: interval <*> retry_interval 30, retry_count 10",16
+aad31e72,"PBRequester failed with Error Error Domain=NSURLErrorDomain Code=-1009 ""The Internet connection appears to be offline."" <*> {Error Domain=kCFErrorDomainCFNetwork Code=-1009 ""The Internet connection appears to be offline."" <*> <*> _kCFStreamErrorCodeKey=8, _kCFStreamErrorDomainKey=12, NSLocalizedDescription=The Internet connection appears to be offline.}}, <*> <*> _kCFStreamErrorDomainKey=12, _kCFStreamErrorCodeKey=8, NSLocalizedDescription=The Internet connection appears to be offline.}",6
+8c3389f0,"<*>: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.",301
+3a1142a3,Cocoa scripting error for <*> four character codes must be four characters long.,154
+c98b00da,<*> : BTLE scanning <*>,11
+2874a578,RTC: Maintenance <*> <*> sleep <*> <*>,7
+0753c14d,ARPT: <*> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq <*> Ack <*> Win size <*>,24
+04f0e432,AppleThunderboltNHIType2::prePCIWake - power up complete - took <*> us,48
+d8cfefd6,<*> <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification,37
+6995a7cd,[HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: <*> <*>,32
+1bf3d457,"USBMSC Identifier (non-unique): 000000000820 0x5ac 0x8406 0x820, 3",24
+d9e7a914,<*> FigAgglomeratorSetObjectForKey signalled err=-16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/<*>/Sources/CoreMedia/<*>/Prototypes/LegibleOutput/FigAgglomerator.c line 92,40
+a12012c8,"NETWORK: requery, 0, 0, 0, 0, <*> items, fQueryRetries, <*> fLastRetryTimestamp, <*>",38
+016decae,AppleCamIn::wakeEventHandlerThread,51
+941e57f4,Session 101835 destroyed,1
+5d93f388,"device_generate_lock_screen_screenshot: authw <*> 0, <*> <*> shield <*> dev [1440,900]",10
+cb6d7ba7,-[UABestAppSuggestionManager notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) UASuggestedActionType=0 (null)/(null) opts=(null) <*> <*> +0000 confidence=1 from=(null)/(null) (UABestAppSuggestionManager.m #319),23
+cb0394ee,network changed: <*> <*> <*> Proxy SMB,19
+90685372,<IMMacNotificationCenterManager: <*> <*> <*> <*>,6
+793e6b56,<IMMacNotificationCenterManager: <*> notification observer: <*> notification: __CFNotification <*> {name = <*>,7
+4279d8f0,<*> : Discoverable mode changed to Off,3
+43af8606,<IMMacNotificationCenterManager: <*> Updating enabled: NO (Topics: (,4
+c95f4a44,<*> <*> signalled err=-12785 (kFigBaseObjectError_Invalidated) (invalidated) at /Library/Caches/<*>/Sources/CoreMedia/<*>/Prototypes/Player/FigPlayer_Async.c line <*>,16
+92121a91,IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL,12
+c535438a,<*> : Purged contact hashes,8
+e7d4d8a6,"<*>://DB05755C-483D-44B7-B93B-ED06E57FF420/ExchangePrincipal/p13: scheduler returned false; however, this job is 1 seconds overdue. Running anyway.",4
+a507ad97,<*> dealloc,33
+3f143fab,Received Capture Event,37
+19ae0400,"<*> Owner: <*>, Name: <*>",10
+8640a5a0,"ARPT: <*> IOPMPowerSource Information: <*> SleepType: Normal Sleep, 'ExternalConnected': <*> 'TimeRemaining': <*>",35
+0c7af280,<*> : Starting AirDrop server for user 501 on wake,5
+37c8aee1,"CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data",5
+53faf4a2,Wake reason: <*>,11
+917783b9,ARPT: <*> AQM agg params 0xfc0 maxlen hi/lo 0x0 0xffff minlen 0x0 adjlen 0x0,14
+b8b74f3f,CCFile::copyFile fileName is <*> source <*> dest <*>,76
+91ae3b89,ARPT: <*> framerdy 0x0 bmccmd <*> framecnt 1024,18
+8dc94ec9,doSaveChannels@286: Will write to: <*> - <*>,22
+bbfca46f,en0: Supported channels 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161 165,9
+7a123c93,KeychainGetICDPStatus: status: off,35
+8f8ef862,ARPT: <*> AirPort_Brcm43xx::syncPowerState: WWEN[enabled],21
+f09b7e9d,nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from <*> to <*>,16
+1b7a983d,dnssd_clientstub ConnectToServer: connect() failed path:/var/run/mDNSResponder Socket:4 Err:-1 Errno:1 Operation not permitted,39
+61cb43e6,"SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error Domain=<*> Code=1035 ""Account identity not set"" UserInfo={NSDescription=Account identity not set}",18
+7562e40d,KeychainGetICDPStatus: keychain: -25300,28
+55561498,ARPT: <*> wl0: MDNS: IPV6 Addr: <*>,52
+7c9ca2b5,"IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, enterQuietMode(true)",19
+98fe7210,network changed: <*> <*> <*> SMB,11
+33b587ef,ARPT: <*> wl0: setup_keepalive: Seq: <*> Ack: <*> Win size: 4096,19
+086cf4fa,__42-[NETClientConnection evaluateCrazyIvan46]_block_invoke CI46 - Hit by torpedo! <*> <*> <*>,18
+7fac0d01,Telling CSI to <*> low power.,5
+8d0bbd5d,"ARPT: <*> wl0: MDNS: 0 SRV Recs, 0 TXT Recs",13
+0e95d8cb,06:35:10.515 : BTLE discovered device with hash <01341a00 00000000 0000>,1
+0c138af4,<*> <*> <*> [lvl=2] main() ksfetch done fetching.,2
+91eeaa24,setting hostname to <*>,12
+c405e5b2,tcp_connection_destination_perform_socket_connect <*> connectx to <*> failed: <*> Network is <*>,14
+3da9e2dc,Previous <*> cause: <*>,30
+3e741421,hibernate_page_list_setall(preflight <*> start,5
+8501e33e,ARPT: <*> AQM agg results 0x8001 len hi/lo: 0x0 <*> BAbitmap(0-3) 0 0 0 0,21
+e611702a,en0 EAP-PEAP: successfully authenticated,1
+df7d7c2a,in6_unlink_ifa: IPv6 address <*> has no prefix,32
+9243e37f,CGXDisplayDidWakeNotification <*> posting kCGSDisplayDidWake,8
+e61842f1,ARPT: <*> AirPort_Brcm43xx::powerChange: System Sleep,29
+f6b506b5,Unable to start NetBIOS name service:,3
+c158ae63,hibernate_flush_memory: buffer_cache_gc freed up <*> wired pages,2
+9815ad44,[BluetoothHIDDeviceController] <*>,11
+cace4a18,Captive: [CNInfoNetworkActive:1748] en0: SSID <*> making interface primary (cache indicates network not captive),8
+1d197826,INSTALLED:<*> <*>(7.55) <__NSConcreteUUID 0x7f841bd28540> 8E580667-F95B-41CA-A5BD-A4054564687C /Applications/Skype.app/Contents/PlugIns/<*>,1
+42e9195d,############################## _getSysMsgList,14
+209c69a9,-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.,37
+5a5f25d8,extension <*> -> (null),2
+8b905e1d,-[NETClientConnection evaluateCrazyIvan46] CI46 - Perform CrazyIvan46! <*> <*> <*>,13
+c86dfdd9,Bluetooth -- LE is supported - Disable LE meta event,24
+b58d6d06,Saw change in network reachability <*>,10
+eb93d1fc,"[<*>] [Account refresh failed with error: Error Domain=NSURLErrorDomain Code=-1009 ""似乎已断开与互联网的连接。"" UserInfo={AccountName=163, CalDAVErrFromRefresh=YES, NSUnderlyingError=0x7fa11ac306b0 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 ""似乎已断开与互联网的连接。"" UserInfo={NSErrorFailingURLStringKey=https://xpc_ben%40163.com@<*>/caldav/principals/users/xpc_ben%40163.com/, NSErrorFailingURLKey=https://xpc_ben%40163.com@<*>/caldav/principals/users/xpc_ben%40163.com/, _kCFStreamErrorCodeKey=8, _kCFStreamErrorDomainKey=12, NSLocalizedDescription=似乎已断开与互联网的连接。}}, NSErrorFailingURLKey=https://xpc_ben%40163.com@<*>/caldav/principals/users/xpc_ben%40163.com/, NSLocalizedDescription=似乎已断开与互联网的连接。, _kCFStreamErrorDomainKey=12, NSErrorFailingURLStringKey=https://xpc_ben%40163.com@<*>/caldav/principals/users/xpc_ben%40163.com/, _kCFStreamErrorCodeKey=8}]",1
+4d69df78,Error returned from iconservicesagent: (null),24
+a097cfec,<*> <<<< CRABS >>>> crabsFlumeHostAvailable: [0x7f961cf08cf0] Byte flume reports host available again.,18
+e17e31e5,Error in <*> -1856,6
+832283b9,Captive: CNPluginHandler en0: <*>,22
+2bd47c8f,<*> took <*> ms,7
+1ca51907,__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2,25
+cdd7b18f,"hibernate_alloc_pages act <*> inact <*> anon <*> throt 0, spec <*> wire <*> wireinit 39927",3
+ddd4422f,NSAllowAppKitWeakReferences=YES,1
+0581bc42,network changed: <*> DNS- Proxy-,10
+5dbf992a,device_generate_desktop_screenshot: authw <*> shield <*>,6
+72355470,"2017-07-08 06:26:32.151 GoogleSoftwareUpdateAgent[39159/0x7000002a0000] [lvl=2] +[KSCodeSigningVerification verifyBundle:applicationId:error:] KSCodeSigningVerification verifying code signing for '/Users/xpc/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/GoogleSoftwareUpdateDaemon' with the requirement 'anchor apple generic and certificate 1[<*>] exists and certificate leaf[<*>] exists and certificate leaf[subject.OU]=""EQHXZ8M8AV"" and (identifier=""<*>"")'",1
+6acacd5e,ChromeExistion main <*> = <*>,11
+75353338,Unrecognized attribute value: t:AbchPersonItemType,18
+d8e2131a,[<*>] [Refusing to parse response to PROPPATCH because of content-type: [text/html; charset=UTF-8].],18
+baf947c6,Session 101741 created,1
+5faf7ee1,button report: <*>,24
+c6d1845b,PM response took <*> ms <*> <*>,24
+48b0490d,"hostControllerOnline - Number of Paired devices = 1, List of Paired devices = (",7
+a734f3ad,**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- Connected to the transport successfully -- 0x5fd0 -- 0x9a00 -- <*> ****,5
+e53fcc69,<*> <*> <*> [lvl=2] -[KSUpdateCheckAction performAction] KSUpdateCheckAction starting update check for ticket(s): {(,2
+b5dd3697,ASL Sender Statistics,28
+98709a6a,Daemon connection invalidated!,1
+fa8cbcc5,CCProfileMonitor::profileCallback Entered token:1,3
+fddcfc77,"Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0",17
+6802d2e8,"Unexpected payload found for message 9, dataLen 0",10
+005b6de9,AirPort: Link Down on awdl0. Reason 1 (Unspecified).,24
+98cfb00f,ARPT: <*> ARPT: Wake Reason: Wake on <*> <*>,16
+6b5077f3,"<*> <*> <*> [lvl=2] -[KSAgentApp performSelfUpdateWithEngine:] This process may be killed if self-update is necessary. In such cases, sub-processes may still be running to complete the self-update.",2
+5d52b3d1,tcp_connection_tls_session_error_callback_imp <*> __tcp_connection_tls_session_callback_write_block_invoke.434 error 22,10
+3813df52,Location icon should now be in state <*>,56
+883aa790,ARPT: <*> AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake,21
+e67adb5b,<*> <*> <*> [lvl=2] -[FetchDelegate fetcher:finishedWithData:] Fetcher downloaded successfully data of length: 0,6
+cae97e7c,[ChromeExistion Version:<*>],4
+d8f43a7c,<*> <<<< CRABS >>>> crabsFlumeHostUnavailable: [0x7f961cf08cf0] Byte flume reports host unavailable.,8
+48b41a73,"securityd_xpc_dictionary_handler cloudd[326] copy_matching Error Domain=NSOSStatusErrorDomain Code=-50 ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}",8
+20289b42,-[WebSocketNetWork webSocket:didReceiveMessage:],1
+b94b8842,Surface test allowed updates after <*> attempts <*> ms),2
+c967316d,[IOBluetoothFamily][staticBluetoothTransportShowsUp] -- Received Bluetooth Controller register service notification -- <*>,2
+71b9734e,Got an XPC error: Connection invalid,2
+0b29f176,<*> Entered,11
+31fcada6,AppleThunderboltNHIType2::waitForOk2Go2Sx - intel_rp = 1 dlla_reporting_supported = 0,12
+a3ed931c,"Service ""<*>"" tried to hijack endpoint ""<*>"" from owner: <*>",3
+7ad80bd1,"[Accounts] Current connection, <NSXPCConnection: <*> connection from pid <*> doesn't have account access.",4
+ea92f231,CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions,20
+96561156,"ARPT: <*> IOPMPowerSource Information: onWake, SleepType: Standby, 'ExternalConnected': <*> 'TimeRemaining': <*>",3
+02855caa,"CFPasteboardCopyDataReturn __CFPasteboardCopyData(CFPasteboardRef, CFIndex, CFIndex, CFStringRef, Boolean, Boolean) : Lock timeout",2
+038257e5,hibernate_page_list_setall found pageCount <*>,4
+478b61a8,enabling pid=30298 for plug-in <*>(1.0) <*> <*>,6
+ca177a76,"polled file major 1, minor 0, blocksize 4096, pollers 5",6
+57ec2813,AirPort: Link Down on en0. Reason 8 (Disassociated because station leaving).,6
+825f7d86,[00:29:02.193] <<<< CRABS >>>> crabsWaitForLoad: [0x7fbc7ac683a0] Wait time out - -1001 (msRequestTimeout -1),1
+229f2521,"Google Chrome <*> triggered unnest of range 0x7fff93c00000->0x7fff93e00000 of DYLD shared region in VM map <*> While not abnormal for debuggers, this increases system memory footprint until the target exits.",5
+8f5dffe0,"ARPT: <*> wl0: Roamed or switched channel, reason <*> bssid <*> last RSSI <*>",10
+a07a1cd5,"[11:30:33.236] <<< FigDiskCacheRepository >>> fdcr_GetFileStats: stat failed for /private/var/folders/nt/fvzdv1fn7n1d5bpgqb_wcfxh0000gn/T/<*>/WebKit/MediaCache/CachedMedia-li09pH, err = 2",1
+7771bb1b,<*> manager is not powered on,8
+a65ff77f,<*> Frequent transitions for interface <*> <*>,17
+a69bc4df,"ignored is_io_service_close(0x100000420,IOHIDParamUserClient)",4
+bf4fb486,"blued: unable to relinquishBluetoothPagingLockAndReply Error Domain=<*> Code=8 ""(null)""",1
+02c53fa6,<*> completed - took <*> msecs,4
+3788e169,<*> <*> <*> [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher start fetch from URL: <*>,2
+4b8095ea,en0: Supported channels 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161,15
+477f5228,-[SFLListManager(ServiceReplyProtocol) notifyChanges:toListWithIdentifier:] Notified of item changes to list with identifier <*>,2
+0ed530b9,"tcp_connection_destination_write_setup_notsent_lowat 79497 disabling low latency, setsockopt TCP_NOTSENT_LOWAT to 16384 on fd 18 failed: [22] Invalid argument, dumping backtrace:",1
+b063161e,full wake request (reason 2) <*> ms,2
+86eb41bb,2017-07-05 10:52:16.975 GoogleSoftwareUpdateAgent[35861/0x700000323000] [lvl=2] -[KSUpdateCheckAction(PrivateMethods) finishAction] KSUpdateCheckAction found updates: {( )},1
+40077747,encryptStart 14020,6
+492d7cf0,Configuration Notice:,5
+3c318f9e,<*> fragManifold_PushBytes signalled err=-16046 (kFigManifoldError_UnexpectedInitData) (Second 'ftyp' atom encountered) at /Library/Caches/<*>/Sources/CoreMedia/<*>/Prototypes/FormatHandlers/Movie/FigMovieFragmentManifold.c line 1680,2
+c17f6d5d,INIT -- Host controller is published,5
+7b8bc33b,"hibernate_machine_init: state 2, image pages <*> sum was <*> imageSize <*> image1Size <*> conflictCount <*> nextFree <*>",2
+47bc472f,<*> Failed to read DnsConfig.,4
+8f7d765f,kern_open_file_for_direct_io(0),3
+8efa77b8,WARNING: hibernate_page_list_setall skipped <*> xpmapped pages,8
+44545874,TBT W (2): 0x0040 [x],18
+daaf6f11,"hibernate_teardown: wired_pages <*> free_pages <*> active_pages 40000, inactive_pages 0, speculative_pages 0, cleaned_pages 0, compressor_pages <*>",4
+5af3164a,StopHardwareStream,1
+154095df,2017-07-06 <*> <*> [lvl=2] KSHelperReceiveAllData() KSHelperTool read <*> bytes from stdin.,2
+1b3b24d2,"NETWORK: no response from server, reachability, 2, queryRetries, <*>",2
+c6c6ddc6,<*> parser:didStartElement:namespaceURI:qualifiedName:attributes:] Type not found in EWSItemType for ExchangePersonIdGuid (t:ExchangePersonIdGuid),20
+4362eb23,QQ(10018) deny mach-lookup <*>,3
+515677b7,CFNetwork SSLHandshake failed <*>,4
+0c1adb93,Error: [AppleBluetoothHIDDeviceGen2][_setEventService:]Couldn't copy BD_ADDR,6
+da7ac207,[IOBluetoothHostController::setConfigState] calling registerService,4
+c5de5950,RTC: PowerByCalendarDate setting ignored,9
+484f6a8a,<IMMacNotificationCenterManager: <*> NC Disabled: NO,4
+597a1069,"2017-07-03 20:25:14.622 GoogleSoftwareUpdateAgent[33847/0x7000002a0000] [lvl=2] -[KSAgentApp uploadStats:] Successfully uploaded stats <KSStatsCollection:0x1005305f0 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/Stats/Keystone.stats"", count=5, stats={",1
+4b4d8b6f,<*> done: last_valid_compact_indx <*>,6
+9464abfc,**** [IOBluetoothHostControllerUSBTransport][start] -- completed -- result = TRUE -- <*> ****,4
+838d61b0,en0: DAD complete for <*> - duplicate found.,3
+f7ef02dd,Opened file <*> size <*> extents <*> maxio 2000000 ssd 1,5
+1efe32ce,network changed: DNS* Proxy,7
+ac18d0cb,tcp_connection_destination_handle_tls_close_notify <*> closing socket due to TLS CLOSE_NOTIFY alert,5
+c35492ee,efi pagecount 72,2
+d79ad80b,"IOHibernatePollerOpen, ml_get_interrupts_enabled 0",2
+6ecadd3f,"IOPMrootDomain: idle cancel, state 1",5
+34e4e02b,<*> <*> <*> [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperDidTerminate:] KSOutOfProcessFetcher fetch ended for URL: <*>,4
+af56cadc,Stream <*> is sending an event before being opened,3
+22a6004b,2017-07-07 17:01:58.397 ksfetch[38376/0x7fff79824000] [lvl=2] main() Fetcher received a request: <NSMutableURLRequest: 0x10300dd00> { URL: https://<*>/service/update2?cup2hreq=a8d8196e660b430335eb3f61d1367522edc058815760dd5dad99614fdeca135b&cup2key=7:3758763715 },1
+e4d725b2,<*> started,5
+c33b47fd,[HID] [MT] <*> entered,8
+db8fe793,Failed to stop a scan - central is not powered on: 4,6
+62c7be01,Service exited due to signal: Killed: 9,1
+bceb4345,"SecOSStatusWith error:[-50] Error Domain=NSOSStatusErrorDomain Code=-50 ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}",5
+de24e21c,hibernate_teardown completed - discarded <*>,4
+baac63ed,CCProfileMonitor::setStreamEventHandler,2
+8fc06651,Sandbox: QQ(10018) deny(1) mach-lookup <*>,5
+5ede7912,no sleep images for WillPowerOffWithImages,2
+9f6d6604,<*> <<<< IQ-CA >>>> piqca_setUsePreQueue: <*> rejecting report of layer being serviced - IQ has not yet begun to update,7
+fb325160,"2017-07-04 15:03:52.936 GoogleSoftwareUpdateAgent[35018/0x7000002a0000] [lvl=2] -[KSUpdateEngine updateProductID:] KSUpdateEngine updating product ID: ""<*>""",1
+8c17a9e3,2017-07-05 <*> <*> [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) launchedHelperTaskForToolPath:error:] KSOutOfProcessFetcher launched '/Users/xpc/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/ksfetch' with process id: <*>,2
+dae21c25,2017-07-03 20:25:14.361 GoogleSoftwareUpdateAgent[33847/0x7000002a0000] [lvl=2] -[KSUpdateCheckAction performAction] KSUpdateCheckAction running KSServerUpdateRequest: <KSOmahaServerUpdateRequest:0x100633210,1
+86ca42be,Failed to start scanning,2
+2f8c8050,[<*>] [Coalescing failed operation [<CalDAVAccountRefreshQueueableOperation: 0x7fa11d3a0c60; Sequence: 0>]],1
+be4dd718,"02:07:59.927 : SDWormholeServer::failedToStartScanningWithError Error Domain=NSMachErrorDomain Code=8 ""(os/kern) no access"" UserInfo={NSLocalizedDescription=wirelessproxd can't start scanning at this time.}",1
+20465e59,CGSConnectionByID: 0 is not a valid connection ID.,2
+f513d77c,storeaccountd(345) deny file-write-create /Users/xpc/Library/Caches/<*>,1
+89ab26bf,AppleCameraGetProperties: SetPropertyNotificationPort status=0xffffffff,1
+b1d02dee,url host = <*>,3
+648aba2d,2017-07-04 23:27:42.069 GoogleSoftwareUpdateAgent[35425/0x7000002a0000] [lvl=2] -[KSMultiUpdateAction performAction] KSPromptAction had no updates to apply.,1
+a4cddf09,PMStats: Hibernate read took <*> ms,4
+24508ac9,plugin <*> invalidated,6
+aea9c57e,Failed to obtain sandbox extension for path=/Users/xpc/Library/Caches/<*>. Errno:1,1
+cef8f6b1,2017-07-07 <*> <*> [lvl=2] -[KSAgentApp(KeystoneDelegate) updateEngineFinishedWithErrors:] Keystone finished: errors=0,2
+96315708,"<<<< FigByteStream >>>> FigByteStreamStatsLogOneRead: ByteStream read of <*> bytes @ <*> took <*> <*> to complete, <*> reads >= <*> sec.",4
+3b5e5eaf,"VDCAssistant:  Found a camera (0x1430000005ac8290) , but was not able to start it up (0x0 -- (os/kern) successful)",5
+b0ae159c,[HID] [ATC] [Error] AppleDeviceManagementHIDEventService::start Could not make a string from out <*> notification key,5
+feb55f06,DB Path: /Users/xpc/Library/Containers/<*>/Data/Documents/contents/916639562/QQ.db,1
+404af4a7,[HID] [MT] MTActuatorManagement::getActuatorRef Calling MTActuatorOpen() outside of MTTrackpadHIDManager.,5
+8d60a944,Checking iCDP status for DSID 874161398 (checkWithServer=0),2
+1e98a618,IOBluetoothUSBDFU::probe,4
+820d392f,hciControllerOnline; HID devices? 0,3
+04bb0c62,**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- calling IOBluetoothFamily's registerService() -- 0x5fd0 -- 0x9a00 -- <*> ****,2
+8b8c97a5,"hibernate_teardown: mark_as_unneeded_pages 4096, 55973, 34655",1
+5442533a,<*> <*> <*> [lvl=2] main() Fetcher is exiting.,4
+c26f8a37,AppleActuatorHIDEventDriver: message service is terminated,5
+ea2598d6,SecTaskLoadEntitlements failed error=22,1
+94349d5a,sigio_handler: sigio_handler_active != <*>,10
+c12348be,"In -[NSApplication(NSQuietSafeQuit) _updateCanQuitQuietlyAndSafely], _LSSetApplicationInformationItem(NSCanQuitQuietlyAndSafely) returned error -50",1
+1074638d,**** [BroadcomBluetoothHostController][SetupController] -- Delay HCI Reset by 300ms  ****,1
+85875cf3,SysAdmChk: Throttling activity execution. memFlags:0x0 thermalLevel:0x1,2
+b1ad7755,<<<< MediaValidator >>>> mv_ValidateRFC4281CodecId: Unrecognized codec 1.(null). Failed codec specific check.,1
+1528f364,->  DNSServiceQueryRecord      0x0000D000  0 <*>. (PTR) PID[53](),1
+88448d34,-[NETPowerManager powerPolicyForTimeslot:workload:] failed to find policy for workload 6937556 timeslot 1 / 5,1
+e5d5eae1,en0: manual intervention required!,2
+b91d9fe3,Actually performing action revisions for 22589429328,1
+b2a94231,hibernate image path: /var/vm/sleepimage,2
+28d32c2e,2017-07-03 10:40:43.044 GoogleSoftwareUpdateAgent[33263/0x700000323000] [lvl=2] -[KSAgentUploader fetcher:finishedWithData:] Successfully uploaded stats to <NSMutableURLRequest: 0x10063b350> { URL: https://<*>/service/update2 },1
+661c0753,<INFO> RQD: create user info for daily using,2
+15c00a19,2017-07-02 20:50:48.622 GoogleSoftwareUpdateAgent[32775/0x7000002a0000] [lvl=2] -[KSUpdateEngine(PrivateMethods) updateFinish] KSUpdateEngine update processing complete.,1
+4a5e91d8,wake time set +0.808006 s,1
+e4ff6143,en0 START uid 501 gid 20,1
+d0b48203,handle_will_sleep_auth_and_shield_windows: Deferring.,2
+a9d25eb5,"CoreAnimation: warning, deleted thread with uncommitted CATransaction; set CA_DEBUG_TRANSACTIONS=1 in environment to log backtraces.",1
+62a029a2,[BluetoothHIDDeviceController]ERROR: Could not find the disconnected object,7
+f2cc75aa,<*> ERROR: 177: timed out after 15.000s (0 0); mMajorChangePending=0,3
+d344a80d,"2017-07-01 19:43:30.789, 30311, 3512df40, [LogMessageLogging]: [aid-types_14000] - Request to send LogMessages of count (6) failed with Error: Error Domain=NSURLErrorDomain Code=-1009 ""The Internet connection appears to be offline."" UserInfo={NSUnderlyingError=0x7fe1351498d0 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 ""The Internet connection appears to be offline."" UserInfo={NSErrorFailingURLStringKey=https://<*>/a/v2/use, NSErrorFailingURLKey=https://<*>/a/v2/use, _kCFStreamErrorCodeKey=8, _kCFStreamErrorDomainKey=12, NSLocalizedDescription=The Internet connection appears to be offline.}}, NSErrorFailingURLStringKey=https://<*>/a/v2/use, NSErrorFailingURLKey=https://<*>/a/v2/use, _kCFStreamErrorDomainKey=12, _kCFStreamErrorCodeKey=8, NSLocalizedDescription=The Internet connection appears to be offline.}",1
+84296ac1,-[ABAddressBook save] failed. (<ABAddressBook: <*>,2
+5bf14de8,"[QL] No sandbox token for thumbnail request file:///private/var/log/SleepWakeStacks.bin, it will probably fail",1
+164db6d5,hibernate_machine_init reading,2
+826f708a,"booter start at 1241 ms smc 0 ms, [18, 0, 0] total 353 ms, dsply 0, 0 ms, tramp 1011 ms",1
+118b2bf7,WARNING: Type1 font data isn't in the correct format required by the Adobe Type 1 Font Format specification.,1
+2691913f,AIDA Notification plugin running,2
+cb8d5eeb,<*> : Discoverable mode changed to Contacts Only,4
+ecf18144,hibernate_page_list_setall time: <*> ms,3
+34f6cd94,IOBluetoothUSBDFU::probe avoid Bluetooth automatic firmware update because USB Bluetooth active,1
+cc50f92a,<*> : Scanning mode Contacts Only,9
+2dd9503a,2017-07-07 17:02:00.627 GoogleSoftwareUpdateAgent[38375/0x7000002a0000] [lvl=2] -[KSAgentApp(KeystoneThread) runKeystonesInThreadWithArg:] Finished with engine thread,1
+692ec28f,Service only ran for 3 seconds. Pushing respawn out by 7 seconds.,1
+e9d100cb,"<*> <*> <*> [lvl=2] -[KSAgentApp updateProductWithProductID:usingEngine:] Done checking for updates for '""<*>""' using engine <*>",3
+6f8a284b,2017-07-07 17:01:58.397 ksfetch[38376/0x7fff79824000] [lvl=2] main() ksfetch fetching URL (<NSMutableURLRequest: 0x10300dd00> { URL: https://<*>/service/update2?cup2hreq=a8d8196e660b430335eb3f61d1367522edc058815760dd5dad99614fdeca135b&cup2key=7:3758763715 }) to folder:/tmp/KSOutOfProcessFetcher.jIW3U0AQ3B/download,1
+d57cf32c,"hibernate_machine_init pagesDone <*> sum2 <*> time: <*> ms, disk(0x20000) <*> Mb/s, comp bytes: <*> time: <*> ms <*> Mb/s, crypt bytes: <*> time: <*> ms <*> Mb/s",3
+4db5cdfb,Failed to connect (view) outlet from (NSApplication) to (NSColorPickerGridView): missing setter or instance variable,2
+4cce1026,<*> <*> <*> [lvl=2] -[KSAgentApp(KeystoneThread) runKeystonesInThreadWithArg:] Starting engine thread,2
+aa4f0880,"[CardDAVPlugin-ERROR] -getPrincipalInfo:[_controller supportsRequestCompressionAtURL:https://xpc_ben%40163.com@<*>/principals/users/558548ec28fbd965ade28995b355b70d/] Error Domain=NSURLErrorDomain Code=-1009 ""The Internet connection appears to be offline."" UserInfo={NSUnderlyingError=0x7f94cda010f0 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 ""The Internet connection appears to be offline."" UserInfo={NSErrorFailingURLStringKey=https://xpc_ben%40163.com@<*>/principals/users/558548ec28fbd965ade28995b355b70d/, NSErrorFailingURLKey=https://xpc_ben%40163.com@<*>/principals/users/558548ec28fbd965ade28995b355b70d/, _kCFStreamErrorCodeKey=8, _kCFStreamErrorDomainKey=12, NSLocalizedDescription=The Internet connection appears to be offline.}}, NSErrorFailingURLStringKey=https://xpc_ben%40163.com@<*>/principals/users/558548ec28fbd965ade28995b355b70d/, NSErrorFailingURLKey=https://xpc_ben%40163.com@<*>/principals/users/558548ec28fbd965ade28995b355b70d/, _kCFStreamErrorDomainKey=12, _kCFStreamErrorCodeKey=8, NSLocalizedDescription=The Internet connection appears to be offline.}",1
+17e9f046,2017-07-04 09:42:58.135 GoogleSoftwareUpdateAgent[34603/0x700000323000] [lvl=2] -[KSAgentApp performSelfUpdateWithEngine:] Finished self update check.,1
+de7860f0,"hibernate_newruntime_map time: 0 ms, IOPolledFilePollersOpen(), ml_get_interrupts_enabled 0",1
+2e7a9140,(ImportBailout.Error:1331) Asked to exit for Diskarb,2
+bca0128e,*** Break on _NSLockError() to debug.,1
+500d64c5,IOPolledFilePollersOpen(0) 5 ms,1
+616e93b1,[<*>] [WARNING: CalDAVAccountRefreshQueueableOperation :: <*> refresh failed],2
+0a37267f,.sdef warning for argument '' of command 'preset textured' in suite 'Drawing Suite': '4034' is not a valid type name.,1
+c7c92531,<*> <*> <*> [lvl=2] -[KSAgentApp performSelfUpdateWithEngine:] Checking for self update with Engine: <*>,2
+0c4cfbde,[<*>] [Failed to refresh <CalManagedSubscriptionInfo: 0x7fa11fe58130> (entity: SubscriptionInfo; id: 0x401eeb <x-coredata://DB05755C-483D-44B7-B93B-ED06E57FF420/SubscriptionInfo/p1> ; data: {,1
+e194959f,IOHibernatePollerOpen(0),1
+adf6af98,"NSURLSession/NSURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9806)",1
+5e29688c,2017-07-06 09:24:13.423 ksfetch[36727/0x7fff79824000] [lvl=2] main() Fetcher received a download path: /tmp/KSOutOfProcessFetcher.8gWqUun8M3/download,1
+3b440594,XPC Activity invoked with state=2,1
+60cca9be,Captive: en0: Not probing 'CalVisitor' (cache indicates not captive),3
+f79959b4,after trim url = https://<*>/_/chrome/newtab?rlz=1C5CHFA_enHK732HK732&espv=2&ie=UTF-8,1
+1fd9e4d5,"2017-07-05 23:51:01.099 GoogleSoftwareUpdateAgent[36436/0x7000002a0000] [lvl=2] +[KSCodeSigningVerification verifyBundle:applicationId:error:] KSCodeSigningVerification verifying code signing for '/Users/xpc/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/GoogleSoftwareUpdateDaemon' with the requirement 'anchor apple generic and certificate 1[<*>] exists and certificate leaf[<*>] exists and certificate leaf[subject.OU]=""EQHXZ8M8AV"" and (identifier=""<*>"")'",1
+fef4db13,<<<< MediaValidator >>>> mv_LookupCodecSupport: Unrecognized codec 1,1
+08c206dc,Uncommited CATransaction. Set CA_DEBUG_TRANSACTIONS=1 in environment to debug.,1
+c989df5c,<*> ERROR: >aq> 3177: AQBuffer * <*> has enqueue count of 1,2
+ee8ee29b,CCXPCService::setStreamEventHandler Registered for notification callback.,1
+02317811,"2017-07-03 20:25:13.626 GoogleSoftwareUpdateAgent[33847/0x7000002a0000] [lvl=2] +[KSCodeSigningVerification verifyBundle:applicationId:error:] KSCodeSigningVerification verifying code signing for '/Applications/Google Chrome.app' with the requirement 'anchor apple generic and certificate 1[<*>] exists and certificate leaf[<*>] exists and certificate leaf[subject.OU]=""EQHXZ8M8AV"" and (identifier=""<*>"")'",1
+9ca7e0fb,<*> <*> signalled <*> (err) (FigScheduledReadRequestRead failed) at /Library/Caches/<*>/Sources/CoreMedia/<*>/Prototypes/FormatHandlers/SampleGeneratorForFormatReader.c line <*>,2
+27669af0,Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): <*>,1
+846f3d0d,FrameReceiverMessageCallback: KernelFrameDropNotification (Frames are dropping).  The firmware is not returning buffers quickly enough.,2
+49a3bab2,Internal name did not resolve to internal address!,1
+81c06335,"2017-07-05 10:52:15.997 GoogleSoftwareUpdateAgent[35861/0x700000323000] [lvl=2] -[KSUpdateEngine updateAllExceptProduct:] KSUpdateEngine updating all installed products, except:'<*>'.",1
+94f37b2f,assertion failed: 15G1510: <*> + 38574 [10D2E324-788C-30CC-A749-55AE67AEC7BC]: 0x7fc235807b90,1
+d3218a0d,Sandbox: <*>: WebKit(co98m.ap54) plede.WebKny(1)i file-reat(d-data98 /priv54) ate/etc/hosts,1
+3740e832,<*>(9854) deny file-read-data /private/etc/hosts,1
+3a4651a0,2017-07-01 19:46:26.138 GoogleSoftwareUpdateAgent[31702/0x7000002a0000] [lvl=2] -[KSCheckAction performAction] KSCheckAction checking 1 ticket(s).,1
+514ab797,2017-07-05 10:52:15.633 GoogleSoftwareUpdateAgent[35861/0x7fff79824000] [lvl=2] -[KSAgentApp setupLoggerOutput] Agent settings: <KSAgentSettings:0x10022ffb0 bundleID=<*> lastCheck=2017-07-05 06:27:44 +0000 checkInterval=18000.000000 uiDisplayInterval=604800.000000 sleepInterval=1800.000000 jitterInterval=900 maxRunInterval=0.000000 isConsoleUser=1 ticketStorePath=/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore runMode=3 daemonUpdateEngineBrokerServiceName=<*> daemonAdministrationServiceName=<*> logEverything=0 logBufferSize=2048 alwaysPromptForUpdates=0 productIDToUpdate=(null) lastUIDisplayed=(null) alwaysShowStatusItem=0 updateCheckTag=(null) printResults=NO userInitiated=NO>,1
+27748d1e,"no application identifier provided, can't use provisioning profiles [pid=35086]",1
+19758c41,**** [BroadcomBluetoothHostControllerUSBTransport][start] -- Completed (matched on Device) -- 0xd000 ****,1
+0eeaba1d,Invalid Connection ID 0,1
+8e94c473,the url = http://weibo.com/1394698394/EzMYpnGoE?type=comment,1
+899c593f,Sandbox: SpotlightNetHelp(352) deny(1) file-read-data /Users/xpc/Library/Input Methods,1
+48d570da,"dynamic_cast error 2: One or more of the following type_info's  has hidden visibility.  They should all have public visibility.   N11OfficeSpace11IDataSourceE, N3Art30NativeExecuteActionControlUserE, 22CMsoGalleryUserDefault.",1
+9ac7bbe1,could discard act 242131 inact 107014 purgeable 254830 spec 128285 cleaned 0,1
+84c12fd5,vm_compressor_flush - starting,1
+bb029c6f,"[Accounts] Failed to update account with identifier 74159F5F-8823-439C-86D9-F3A67B109E2B, error: Error Domain=ABAddressBookErrorDomain Code=1002 ""(null)""",2
+1eb58c04,"pages <*> wire <*> act <*> inact 3, cleaned 0 spec <*> zf <*> throt 0, compr <*> xpmapped 40000",2
+68ed8e8f,2017-07-03 10:40:44.181 GoogleSoftwareUpdateAgent[33263/0x7fff79824000] [lvl=2] -[KSAgentApp checkForUpdates] Finished update check.,1
+e0f0bdda,objc[35391]: Class TSUDurationLocaleSpecificStorage is implemented in both /Library/QuickLook/iWork.qlgenerator/Contents/MacOS/iWork and /System/Library/PrivateFrameworks/OfficeImport.framework/Versions/A/OfficeImport. One of the two will be used. Which one is undefined.,1
+dac3e9fe,"[CardDAVPlugin-ERROR] -getPrincipalInfo:[_controller supportsRequestCompressionAtURL:https://xpc_ben%40163.com@<*>/principals/users/558548ec28fbd965ade28995b355b70d/] Error Domain=NSURLErrorDomain Code=-1009 ""The Internet connection appears to be offline."" UserInfo={NSUnderlyingError=0x7f8de2305090 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 ""The Internet connection appears to be offline."" UserInfo={NSErrorFailingURLStringKey=https://xpc_ben%40163.com@<*>/principals/users/558548ec28fbd965ade28995b355b70d/, NSErrorFailingURLKey=https://xpc_ben%40163.com@<*>/principals/users/558548ec28fbd965ade28995b355b70d/, _kCFStreamErrorCodeKey=8, _kCFStreamErrorDomainKey=12, NSLocalizedDescription=The Internet connection appears to be offline.}}, NSErrorFailingURLStringKey=https://xpc_ben%40163.com@<*>/principals/users/558548ec28fbd965ade28995b355b70d/, NSErrorFailingURLKey=https://xpc_ben%40163.com@<*>/principals/users/558548ec28fbd965ade28995b355b70d/, _kCFStreamErrorDomainKey=12, _kCFStreamErrorCodeKey=8, NSLocalizedDescription=The Internet connection appears to be offline.}",1
+75040252,"Page bounds {{0, 0}, {400, 400}}",1
+24563d44,host connection <NSXPCConnection: <*> connection from pid 30298 invalidated,2
+f81e9894,Host controller terminated,1
+a821084e,"2017-07-07 01:47:39.873 GoogleSoftwareUpdateAgent[37644/0x7000002a0000] [lvl=2] -[KSAgentApp updateProductWithProductID:usingEngine:] Checking for updates for ""<*>"" using engine <KSUpdateEngine:0x10053c8d0",1
+2fee169d,***** Received request to scan at 30ms/60ms *****,1
+67d51351,[23:50:57.528] FigAtomStreamAdvanceToNextAtomWithType signalled err=-12894 (kFigAtomStream_BadLengthInAtom) (Atom had a bogus length) at /Library/Caches/<*>/Sources/CoreMedia_frameworks/<*>/Sources/Utilities/FigAtomStream.c line 703,1
+4f082f09,<*> FigFormatReaderCreateForStreamReturningMatchingContainerLabelType signalled err=-12847 (kFigFormatReaderError_FileNotRecognized) (Unrecognized content) at /Library/Caches/<*>/Sources/CoreMedia/<*>/Prototypes/FormatHandlers/FigFormatReader_Common.c line 2158,2
+af9e631f,Error -60005 creating authorization,1
+ce68b075,[00:30:04.543] FigDCP_GetCacheFileVersion signalled err=-12540 (kFigDiskCacheProviderError_InvalidCacheFile) (unsupported file version) at /Library/Caches/<*>/Sources/CoreMedia/<*>/Prototypes/FigByteStreamPrototypes/FigLimitedDiskCacheProvider.c line 384,1
+b8fc6993,69: Could not write data to client PID[11203](Mail) because of error - aborting connection,1
+8d0e9f0c,[15:45:00.924] figHttpRequestDidReceiveResponseCallback signalled err=-12660 (kFigHTTPError_Forbidden) (403 Forbidden) at /Library/Caches/<*>/Sources/CoreMedia/<*>/Prototypes/FigHTTP/FigHTTPRequestCFURLConnection.c line 2110,1
+31f2cc88,<INFO> RQD: Persist userinfo data with count 0,1
+d960bc67,BuildActDeviceEntry exit,1
+8ddbef9a,2017-07-07 10:54:41.860 GoogleSoftwareUpdateAgent[37924/0x7000002a0000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperErrorAvailable:] KSOutOfProcessFetcher helper tool raw STDERR:,1
+62836a4a,[21:23:10.828] mv_LowLevelCheckIfVideoPlayableUsingDecoder signalled err=-12956 (kFigMediaValidatorError_VideoCodecNotSupported) (video codec 1) at  line 1921,1
+3660ea84,vm_compressor_record_warmup (711798 - 722124),1

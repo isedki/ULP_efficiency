@@ -1,0 +1,4 @@
+Dataset,size,Parse_time
+Spark,5k,3.1120717525482178
+Spark,10k,3.199626922607422
+Spark,20k,3.171532154083252

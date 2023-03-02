@@ -1,0 +1,37 @@
+EventId,EventTemplate,Occurrences
+509a487f,Disconnecting: Too many authentication failures for <*> [preauth],4522
+54a90e3c,PAM <*> more authentication <*> logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> user=root,4516
+066b4d3e,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= <*> <*>,17006
+b542638e,message repeated <*> times: [ Failed password for root from <*> port <*> ssh2],4501
+2817a946,Received disconnect from <*>: 11: <*> <*> <*>,5673
+f831cb6d,Failed password for <*> from <*> port <*> ssh2,17370
+9302fad4,Invalid user <*> from <*>,1845
+2491ca3e,Connection closed by <*> [preauth],8428
+191426cb,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= <*>,1731
+0849a7d0,pam_unix(sshd:auth): check pass; user unknown,2471
+00a684b8,PAM service(sshd) ignoring max retries; <*> > 3,4678
+f7fe7f88,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!,2328
+6b674ff1,input_userauth_request: invalid user <*> [preauth],1744
+21bb6d0e,Failed password for invalid user <*> from <*> port <*> ssh2,2399
+e2e22af4,Received disconnect from <*>: 11: Closed due to user request. [preauth],75
+3a7285d3,error: Received disconnect from <*>: 3: <*>: Auth fail [preauth],23
+6ff8b88b,PAM <*> more authentication <*> logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,154
+d7242a1b,error: Received disconnect from <*>: 14: No more user authentication methods available. [preauth],121
+a998e480,fatal: Read from socket failed: Connection reset by peer [preauth],106
+2702de18,Failed none for invalid user <*> from <*> port <*> ssh2,57
+b5660ce6,Address <*> maps to <*> but this does not map back to the address - POSSIBLE BREAK-IN ATTEMPT!,61
+c926c7d9,Did not receive identification string from <*>,86
+ac22ce5f,pam_unix(sshd:session): session closed for user <*>,21
+b7a32072,pam_unix(sshd:session): session opened for user <*> by (uid=0),13
+62784b9d,"Received disconnect from <*>: 11: Normal Shutdown, Thank you for playing [preauth]",16
+0a1f9bbf,Received disconnect from <*>: 11: [preauth],15
+fb624da8,Accepted password for <*> from <*> port <*> ssh2,14
+3a82a99b,Received disconnect from <*>: 11: Client disconnecting normally [preauth],9
+8bb6393b,Received disconnect from <*>: 11: disconnect [preauth],7
+bdc60fd2,error: connect_to <*> port 22: failed.,2
+656c9596,Invalid user from <*>,2
+9087d995,Bad protocol version identification 'GET <*> HTTP/1.1' from <*> port <*>,2
+43fcd7d6,Failed password for invalid user from <*> port 36266 ssh2,1
+83d1a06f,Bad packet length 1819045217. [preauth],1
+67bab5c1,input_userauth_request: invalid user [preauth],1
+fac9c6bd,Failed none for invalid user from <*> port 52876 ssh2,1

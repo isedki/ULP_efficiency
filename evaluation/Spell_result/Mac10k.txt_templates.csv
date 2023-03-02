@@ -1,0 +1,677 @@
+EventId,EventTemplate,Occurrences
+66c2744c,CCIOReporterFormatter addRegistryChildToChannelDictionary streams 7,38
+5915fdf3,PM response took <*> ms (54 powerd),49
+ee92b1b4,kern_open_file_for_direct_io took <*> ms,15
+324e9f27,tcp_connection_handle_connect_conditions_bad <*> failed 3 - No network route,77
+1101bdb4,hibernate_teardown wired_pages <*> free_pages <*> active_pages <*> inactive_pages <*> speculative_pages 0 cleaned_pages 0 compressor_pages <*>,5
+3e741421,hibernate_page_list_setall(preflight <*> start,8
+1137695c,.sdef warning for <*> <*> of <*> <*> <*> <*> <*> in suite <*> <*> Suite' <*> is not a valid type name.,8
+0952590f,en0 Supported channels 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161,38
+bb8e78cb,AppleCamIn wakeEventHandlerThread,102
+b0ee5e51,<*> 42 <*> Purged contact hashes,2
+a6622136,ARPT <*> wl0 <*> <*> Seq <*> Ack <*> Win size 4096,76
+e74ce4d4,KeychainGetICDPStatus keychain -25300,48
+f7ef02dd,Opened file <*> size <*> extents <*> maxio 2000000 ssd 1,20
+db81b272,dnssd_clientstub ConnectToServer connect()-> No of tries <*>,214
+031aa8ae,Path not allowed in target domain type pid path /System/Library/StagedFrameworks/Safari/SafariShared.framework/Versions/A/XPCServices/<*>/Contents/MacOS/<*> error 147 The specified service did not ship in the requestor's bundle origin /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/<*>,76
+57652ad5,ARPT <*> AirPort_Brcm43xx powerChange System <*>,34
+f16d6f35,RTC PowerByCalendarDate setting ignored,24
+c910c040,AppleThunderboltGenericHAL earlyWake - complete - took <*> milliseconds,89
+b963e0e1,ARPT <*> wl0 leaveModulePoweredForOffloads Wi-Fi will stay on.,35
+19147422,<*> deny network-outbound /private/var/run/mDNSResponder,89
+3a1142a3,Cocoa scripting error for <*> four character codes must be four characters long.,344
+874503b1,ARPT <*> IOPMPowerSource Information <*> SleepType <*> <*> 'ExternalConnected' No 'TimeRemaining' <*>,47
+757a5cf0,FA||Url||taskID[2019353204] dealloc,1
+141be128,KeychainGetICDPStatus status off,61
+79938720,-[NetworkAnalyticsEngine _writeJournalRecord fromCellFingerprint key atLOI ofKind lqm isFaulty ] Hashing of the primary key failed. Dropping the journal record.,59
+5c16703e,CCFile captureLogRun() Exiting CCFile captureLogRun,112
+834f698c,ARPT <*> AQM agg params 0xfc0 maxlen hi/lo 0x0 0xffff minlen 0x0 adjlen 0x0,46
+22367607,AppleThunderboltNHIType2 prePCIWake - power up complete - took <*> us,113
+472fca7d,2017-07-04 15 03 52.927 GoogleSoftwareUpdateAgent[35018/0x7fff79824000] [lvl 2] -[KSAgentApp checkForUpdates] Starting update check.,1
+b55176d9,jemmytest,35
+6c2b572f,dnssd_clientstub ConnectToServer connect() failed path /var/run/mDNSResponder Socket 4 Err -1 Errno 1 Operation not permitted,66
+f5e03d3c,<*> <*> <*> <*> <*> [lvl 2] -[KSAgentUploader fetcher finishedWithData ] Successfully uploaded stats to <NSMutableURLRequest <*> { URL https //<*>/service/update2 },3
+74ccb6be,Sandbox <*> deny(1) network-outbound /private/var/run/mDNSResponder,152
+71ed56f2,AppleCamIn systemWakeCall - messageType <*>,244
+71a3183a,en0 channel changed to <*>,123
+4f92bfaa,2017-07-08 06 26 <*> <*> [lvl 2] main() Fetcher is exiting.,2
+b7d8cb2d,IO80211AWDLPeerManager setAwdlOperatingMode Setting the AWDL operation mode from SUSPENDED to AUTO,88
+0ba459b3,GVA warning addNewReferenceEntry_MMCO mmcoFunc1 not found requested 8 curr 11,1
+abca1de8,ARPT <*> wl0 MDNS IPV6 Addr <*> <*> <*> <*> c6b3 1ff fecd 467f,52
+8fe35238,<*> <*> <*> <*> | I | VoipWrapper | DAVEngineImpl.cpp 1400 Close | close video chat. llFriendUIN <*>,33
+c86dfdd9,Bluetooth -- LE is supported - Disable LE meta event,45
+7fcc70a2,IOPolledFilePollersOpen(0) <*> ms,5
+43827e0b,AirPort Link Up on <*>,63
+9a054d77,-[NETClientConnection effectiveBundleID] using process name <*> as bundle ID (this is expected for daemons without bundle ID,68
+6f2d56cf,NETWORK requery 0 0 0 0 <*> items fQueryRetries 0 fLastRetryTimestamp <*>,62
+9ad697fb,sigio_handler sigio_handler_active ! <*>,15
+623c864d,-[NETClientConnection evaluateCrazyIvan46] CI46 - Perform CrazyIvan46! <*> <*> <*> <*>,31
+7e19bd46,ARPT <*> wl0 MDNS IPV4 Addr <*>,39
+3a944541,AirPort Link Down on awdl0. Reason 1 (Unspecified).,49
+2bfe9c86,13 <*> <*> BTLE scanner Powered On,4
+0beffda3,CCFile copyFile fileName is [2017-07-07_13 <*> <*> source path /var/log/CoreCapture/<*>/IO80211AWDLPeerManager//[2017-07-07_13 <*> <*> dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-07_13 <*> <*> AuthFail sts 5_rsn 0/IO80211AWDLPeerManager//[2017-07-07_13 <*>,3
+7cc905aa,polled file major 1 minor 0 blocksize 4096 pollers 5,15
+e4ce7749,ARPT <*> wl0 MDNS 0 SRV Recs 0 TXT Recs,46
+c25cc5f9,IOThunderboltSwitch<0>(0x0) listenerCallback - Thunderbolt HPD packet for route 0x0 port <*> unplug 0,152
+9722e0bd,Configuration Notice,11
+172b1ab5,ARPT <*> wl0 setup_keepalive Local port <*> Remote port <*>,46
+d4385c20,"SOSAccountThisDeviceCanSyncWithCircle sync with device failure Error Domain <*> Code 1035 ""Account identity not set"" UserInfo {NSDescription Account identity not set}",47
+b5dd3697,ASL Sender Statistics,50
+1e8278a2,QLStephen Could not determine attribtues of file file ///private/var/vm/sleepimage,1
+a4767cd8,IO80211AWDLPeerManager setAwdlAutoMode Resuming AWDL,34
+b0fdb576,-[SOAPParser <*> parser didStartElement namespaceURI qualifiedName attributes ] Type not found in EWSItemType for ExchangePersonIdGuid (t ExchangePersonIdGuid),27
+1c74b0a2,<*> <*> <*> <<<< Boss >>>> figPlaybackBossPrerollCompleted unexpected preroll-complete notification,81
+9deb43f7,ARPT <*> ARPT Wake Reason Wake on Scan offload,22
+cfb4d076,IO80211AWDLPeerManager setAwdlSuspendedMode() Suspending AWDL enterQuietMode(true),48
+3dd7812c,ARPT <*> wl0 setup_keepalive interval <*> retry_interval 30 retry_count 10,37
+6cd259ed,USBMSC Identifier (non-unique) 000000000820 0x5ac 0x8406 0x820 3,48
+737f318e,in6_unlink_ifa IPv6 address <*> has no prefix,59
+5855e579,ARPT <*> AQM agg results 0x8001 len hi/lo 0x0 <*> BAbitmap(0-3) 0 0 0 0,29
+42d78019,CCFile copyFile fileName is [2017-07-05_16 24 <*> source path <*> 24 <*> dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-05_16 24 <*> <*> sts 5_rsn <*> 24 <*>,2
+babfbd65,FA||Url||taskID[2019353546] dealloc,1
+3813df52,Location icon should now be in state <*>,121
+82949200,en0 BSSID changed to 5c 50 15 <*>,84
+ee849cb5,ARPT <*> AirPort_Brcm43xx powerChange System Wake - Full Wake/ Dark Wake / Maintenance wake,51
+22f380e7,nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from 0x8000000000000000 to 0x4,43
+819a413c,ARPT <*> AirPort_Brcm43xx platformWoWEnable <*>,90
+ce70ef54,CCFile captureLogRun Skipping current file Dir file <*> <*> <*> Current File <*>,92
+f2b51c2a,-[ABAddressBook save] failed. (<ABAddressBook <*>,4
+29bf3ccb,<IMMacNotificationCenterManager <*> DND Enabled <*>,12
+8228c835,ARPT <*> AirPort_Brcm43xx syncPowerState WWEN[enabled],38
+59d5bf23,ARPT <*> wl0 setup_keepalive <*> IP <*>,72
+062ccb4c,tcp_connection_destination_perform_socket_connect <*> connectx to <*> <*> failed <*> Network is <*>,24
+59a3c80d,[00 20 <*> (Fig) signalled err -1001,2
+20494596,AppleThunderboltNHIType2 waitForOk2Go2Sx - <*>,88
+49a3bab2,Internal name did not resolve to internal address!,4
+957c9551,ARPT <*> framerdy 0x0 bmccmd <*> framecnt 1024,42
+8754ba52,Unrecognized attribute value t AbchPersonItemType,35
+1e24561b,[HID] [MT] <*> <*> entered,16
+5195b03c,CFPasteboardRef CFPasteboardCreate(CFAllocatorRef CFStringRef) failed to create global data,8
+4d1c02bf,en0 IO80211Interface postMessage bssid changed,51
+c9993ecf,"<*> <*> <*> <*> <*> [lvl 2] -[KSOutOfProcessFetcher(PrivateMethods) helperDidTerminate ] KSOutOfProcessFetcher fetch ended for URL ""https //<*>/service/update2?cup2hreq <*> 7 <*>",4
+fe1081b8,CFPasteboardCopyDataReturn __CFPasteboardCopyData(CFPasteboardRef CFIndex CFIndex CFStringRef Boolean Boolean) Lock timeout,6
+f55981fa,send_datagram_available_ping pid 445 failed to act on a ping it dequeued before timing out.,127
+ce2b0e13,<*> scheduler_evaluate_activity told me to run this job; however but the start time isn't for <*> seconds. Ignoring.,669
+e1026f6a,Could not signal service <*> 113 Could not find specified service,1
+9243e37f,CGXDisplayDidWakeNotification <*> posting kCGSDisplayDidWake,11
+0c546325,-[ISGenerateImageOp generateImageWithCompletion ] Failed to composit image for descriptor <ISBindingImageDescriptor <*>,48
+41cc71b5,CCFile captureLog <*>,66
+adc2e4b9,doSaveChannels@286 Will write to <*> <*> <*> - RoamFail sts 1_rsn <*>,2
+837147aa,<*> <*> <*> <*> <*> [lvl 2] -[KSAgentApp setupLoggerOutput] Agent settings <KSAgentSettings <*> bundleID <*> lastCheck <*> <*> <*> <*> +0000 checkInterval 18000.000000 uiDisplayInterval 604800.000000 sleepInterval 1800.000000 jitterInterval 900 maxRunInterval 0.000000 isConsoleUser 1 ticketStorePath /Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore runMode 3 daemonUpdateEngineBrokerServiceName <*> daemonAdministrationServiceName <*> logEverything 0 logBufferSize 2048 alwaysPromptForUpdates 0 productIDToUpdate (null) lastUIDisplayed (null) alwaysShowStatusItem 0 updateCheckTag (null) printResults NO userInitiated NO>,5
+7077d2b1,"2017-07-06 14 15 54.217 30311 336691c0 [CountryConfiguration] Could not determine current country code Error Domain NSURLErrorDomain Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSUnderlyingError 0x7fe13542a9c0 {Error Domain kCFErrorDomainCFNetwork Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSErrorFailingURLStringKey https //<*>/pep/gcc NSErrorFailingURLKey https //<*>/pep/gcc _kCFStreamErrorCodeKey 8 _kCFStreamErrorDomainKey 12 NSLocalizedDescription The Internet connection appears to be offline.}} NSErrorFailingURLStringKey https //<*>/pep/gcc NSErrorFailingURLKey https //<*>/pep/gcc _kCFStreamErrorDomainKey 12 _kCFStreamErrorCodeKey 8 NSLocalizedDescription The Internet connection appears to be offline.}",1
+686ae547,Captive CNPluginHandler en0 <*>,44
+d6be475c,network changed DNS* Proxy,14
+bda42e5a,doSaveChannels@286 Will write to <*> <*> <*> - AuthFail sts <*> 0.xml,38
+82156a81,2017-07-02 <*> <*> <*> <*> [lvl 2] -[KSAgentApp(KeystoneThread) runKeystonesInThreadWithArg ] Finished with engine thread,2
+3ed7dc66,"<*> <*> <*> Error Domain NSOSStatusErrorDomain Code -50 ""query missing class name"" (paramErr error in user parameter list) UserInfo {NSDescription query missing class name}",51
+519fd9bd,device_generate_desktop_screenshot authw <*> shield <*>,13
+4122f8ed,<*> WARNING dns_config_service_posix.cc(306)] Failed to read DnsConfig.,21
+c05b41d2,CCFile copyFile fileName is [2017-07-03_16 25 <*> source path <*> 25 <*> dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-03_16 25 <*> AuthFail sts 5_rsn <*> 25 <*>,3
+e17e31e5,Error in <*> -1856,9
+aaf79c0c,[BluetoothHIDDeviceController] EventServiceDisconnectedCallback,8
+32a8bd62,ARPT <*> wlc_dump_aggfifo,38
+246a8684,Unexpected payload found for message <*> dataLen <*>,21
+6688d8b1,Thermal pressure state 0 Memory pressure state 0,168
+0e2b4d38,<*> 20 <*> <*> <*> [lvl 2] main() Fetcher received a download path <*>,3
+05a751d1,FA||Url||taskID[2019353742] dealloc,1
+40c4381f,Unable to simultaneously satisfy constraints,22
+591758ae,en0 802.11d country code set to <*>,41
+c3d2751b,<*> <*> <*> FigAgglomeratorSetObjectForKey signalled err -16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/<*>/Sources/CoreMedia/<*>/Prototypes/LegibleOutput/FigAgglomerator.c line 92,70
+dc438aa1,CoreAnimation warning deleted thread with uncommitted CATransaction; set CA_DEBUG_TRANSACTIONS 1 in environment to log backtraces.,7
+90e20638,ARPT <*> wl0 wl_update_tcpkeep_seq Updated seq/ack/win from UserClient Seq <*> Ack <*> Win size <*>,40
+91eeaa24,setting hostname to <*>,30
+17d3da16,hibernate_teardown_pmap_structs done last_valid_compact_indx <*>,7
+8e5e7a2d,CCProfileMonitor profileCallback Entered token 1,5
+3f143fab,Received Capture Event,77
+ca6a38de,[14 44 29.031] <<< FigDiskCacheRepository >>> fdcr_GetFileStats stat failed for <*> err 2,3
+0549e759,en0 BSSID changed to 88 75 56 a0 <*>,3
+282349c2,<<<< MediaValidator >>>> <*> Unrecognized codec 1,6
+0ec38005,CCFile copyFile fileName is [2017-07-07_18 09 42.341150]-CCIOReporter-002.xml source path /var/log/CoreCapture/<*>/OneStats//[2017-07-07_18 09 42.341150]-CCIOReporter-002.xml dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-07_18 09 46.007522] AuthFail sts 2_rsn 0/OneStats//[2017-07-07_18 09 42.341150]-CCIOReporter-002.xml,1
+8148599e,tcp_connection_tls_session_error_callback_imp <*> __tcp_connection_tls_session_callback_write_block_invoke.434 error <*>,22
+b1bd1afd,IOPMrootDomain idle cancel state 1,8
+2f9cca89,<IMMacNotificationCenterManager <*> NC Disabled NO,15
+1f4bfd0d,<*> deny mach-lookup <*>,14
+26dd62f2,[HID] [ATC] [Error] AppleDeviceManagementHIDEventService start Could not make a string from out <*> notification key,13
+b2490040,Failed to connect <*> outlet from <*> to <*> missing setter or instance variable,6
+587123fd,Error returned from iconservicesagent (null),61
+e44ffbe4,<*> url https //<*>/_/chrome/newtab?rlz 1C5CHFA_enHK732HK732&espv 2&ie UTF-8,3
+105e43f3,button report <*>,54
+f27d7671,"<*> <*> <*> <*> <*> [lvl 2] +[KSCodeSigningVerification verifyBundle applicationId error ] KSCodeSigningVerification verifying code signing for <*> with the requirement 'anchor apple generic and certificate 1[<*>] exists and certificate leaf[<*>] exists and certificate leaf[subject.OU] ""EQHXZ8M8AV"" and (identifier ""<*>"")'",2
+41ad868d,CCIOReporterFormatter refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions,23
+9e85569c,__42-[NETClientConnection evaluateCrazyIvan46]_block_invoke CI46 - Hit by torpedo! <*> <*>,51
+8f5c7772,mDNS_RegisterInterface Frequent transitions for interface <*>,16
+3009024c,[HID] [ATC] AppleDeviceManagementHIDEventService processWakeReason Wake reason <*>,52
+a37d574b,Captive <*> <*> en0 <*> <*> <*> <*> <*> (cache indicates <*> not captive),37
+3e675808,00 43 09.558 Scanning mode Contacts Only,1
+07b04f30,<*> profileRemoved Owner <*> Name <*>,21
+03bd8bcc,Wake reason <*>,39
+a0627c3b,Setting BTCoex Config enable_2G 1 profile_2g 0 enable_5G 1 profile_5G 0,31
+49452d1f,[BluetoothHIDDeviceController]ERROR Could not find the disconnected object,13
+515677b7,CFNetwork SSLHandshake failed <*>,13
+0dd07e16,01 <*> <*> BTLE scanning stopped,2
+be3436d1,ASSERTION FAILED dvcAddrRef ! ((void *)0) -[DriverServices getDeviceAddress ] line 2789,17
+6425f809,mDNS_DeregisterInterface Frequent transitions for interface en0 <*>,15
+b7061aaf,AirPort Link Down on en0. Reason <*> (Disassociated <*>,25
+6308042c,__73-[NetworkAnalyticsEngine observeValueForKeyPath ofObject change context ]_block_invoke unexpected switch value 2,52
+ee2a5419,03 <*> <*> BTLE scanner Powered On,2
+b23f2c6b,Previous sleep cause 5,27
+40077747,encryptStart 14020,4
+d9b08204,AppleActuatorDeviceUserClient <*> Entered,10
+c6bf8ec3,CCProfileMonitor freeResources done,5
+27a93bac,ARPT <*> IOPMPowerSource Information <*> SleepType Normal Sleep 'ExternalConnected' Yes 'TimeRemaining' 0,40
+cc554abc,<*> <*> <*> <*> <*> [lvl 2] KSHelperReceiveAllData() KSHelperTool read 1926 bytes from stdin.,2
+f9bca6e0,CCFile captureLog Received Capture notice id <*> reason <*> sts <*>,69
+4cc35762,booter start at <*> ms smc 0 ms [18 0 0] total <*> ms dsply 0 0 ms tramp <*> ms,5
+45bdfd7d,FA||Url||taskID[2019353178] dealloc,1
+0067341e,IOHibernatePollerOpen ml_get_interrupts_enabled 0,4
+acc7ba0e,<IMMacNotificationCenterManager <*> Updating enabled <*> (Topics (,17
+1ac195e9,<*> <*> <*> <<<< CRABS >>>> crabsFlumeHostAvailable [0x7f961cf08cf0] Byte flume reports host available again.,23
+c967316d,[IOBluetoothFamily][staticBluetoothTransportShowsUp] -- Received Bluetooth Controller register service notification -- <*>,7
+fa6c64fc,Previous shutdown cause 3,9
+d9f12bcd,<*> 09 <*> BTLE scanning stopped,3
+9f745623,IOBluetoothUSBDFU probe,6
+4583d1ee,<*> <*> <*> ERROR 177 timed out after 15.000s (0 0); mMajorChangePending 0,4
+8aff1fc7,hibernate_teardown started,3
+ab83a05b,-[UABestAppSuggestionManager notifyBestAppChanged type options bundleIdentifier activityType dynamicIdentifier when confidence deviceName deviceIdentifier deviceType ] (null) UASuggestedActionType 0 (null)/(null) opts (null) when <*> <*> <*> <*> +0000 confidence 1 from (null)/(null) (UABestAppSuggestionManager.m #319),45
+77cc45cb,CCFile copyFile fileName is [2017-07-06_16 29 <*> source path <*> 29 <*> dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-06_16 29 47.405713] AuthFail sts 2_rsn <*> 29 <*>,2
+b9190464,CCFile copyFile fileName is [2017-07-05_14 04 <*> source path <*> 04 <*> dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-05_14 04 <*> AuthFail sts 5_rsn <*> 04 <*>,9
+2eb1eb9d,<*> <*> <*> <<<< IQ-CA >>>> piqca_setUsePreQueue <*> rejecting report of layer being serviced - IQ has not yet begun to update,13
+522db5fd,assertion failed 15G1510 <*> + 38574 [10D2E324-788C-30CC-A749-55AE67AEC7BC] 0x7fc235807b90,5
+a63e19f5,objc[35448] Class <*> is implemented in both /Library/QuickLook/iWork.qlgenerator/Contents/MacOS/iWork and /System/Library/PrivateFrameworks/OfficeImport.framework/Versions/A/OfficeImport. One of the two will be used. Which one is undefined.,2
+be0ab304,ARPT 683075.782271 wl0 Roamed or switched channel reason #8 bssid f8 4f 57 bc 07 7c last RSSI -68,1
+880b031b,hibernate_rebuild_pmap_structs done last_valid_compact_indx <*>,5
+418ee1df,[00 28 42.193] videoMentorThreadCreateSampleBuffer signalled err -12871 (err) (FigSampleGeneratorCreateSampleBufferAtCursor failed) at /Library/Caches/<*>/Sources/CoreMedia/<*>/Prototypes/FormatHandlers/VideoMentor.c line 1332,1
+61b79e8f,<*> 17 <*> BTLE scanner Powered On,2
+a18c802c,network changed <*> 2607 f140 6000 8 c6b3 1ff fecd 467f) <*>,32
+af1be7f5,hibernate_newruntime_map time 0 ms IOPolledFilePollersOpen() ml_get_interrupts_enabled 0,6
+248579d5,TBT W (2) 0x0040 [x],35
+10ad87ac,en0 BSSID changed to f8 c2 88 fc 8b 63,1
+9a0d99d9,<*> <*> <*> Discoverable mode changed to Contacts Only,8
+0c140d8e,<*> <*> scheduler returned false; however this job is 1 seconds overdue. Running anyway.,4
+3f6b70ff,FA||Url||taskID[2019353442] dealloc,1
+af56cadc,Stream <*> is sending an event before being opened,10
+91f655d2,**** [IOBluetoothHostControllerUSBTransport][start] -- completed -- result TRUE -- <*> ****,4
+fc6a7b55,AppleActuatorHIDEventDriver stop,3
+a23f56bb,"[<*>] [CalOperationQueue (x-coredata //DB05755C-483D-44B7-B93B-ED06E57FF420/ExchangePrincipal/p13) <*> <*> failed with error Error Domain NSURLErrorDomain Code -1009 ""<NASCII>"" UserInfo {NSUnderlyingError <*> {Error Domain kCFErrorDomainCFNetwork Code -1009 ""(null)"" UserInfo <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> _kCFStreamErrorDomainKey <*> NSErrorFailingURLStringKey https //1155092212%<*>@<*>/EWS/Exchange.asmx NSErrorFailingURLKey https //1155092212%<*>@<*>/EWS/Exchange.asmx _kCFStreamErrorDomainKey <*> _kCFStreamErrorCodeKey <*> NSLocalizedDescription <NASCII>}.]",3
+42e9195d,############################## _getSysMsgList,24
+ca8b2452,<*> <*> <*> <*> <*> [lvl 2] -[KSOmahaServer updateInfosForUpdateResponse updateRequest infoStore upToDateTickets updatedTickets events errors ] Response passed CUP validation.,3
+e4a23c7a,tcp_connection_destination_perform_socket_connect <*> connectx to <*> <*> failed [65] No route to host,4
+ee733e08,2017-07-07 01 <*> <*> <*> [lvl 2] -[KSAgentApp updateProductWithProductID usingEngine ] Checking for updates for <*> <*> using engine <KSUpdateEngine <*>,2
+c5e4fa9e,hibernate_page_list_setall preflight pageCount <*> est comp <*> setfile <*> min 1073741824,4
+5612c34c,AppleCamIn handleWakeEvent_gated,62
+53b3d58b,WARNING hibernate_page_list_setall skipped <*> xpmapped pages,9
+8b7c4464,11 58 27.471 BTLE scanner Powered On,1
+09e73a4e,2017-07-07 10 54 <*> ksfetch[37926/0x7fff79824000] [lvl 2] main() Fetcher <*>,2
+5dc704bd,hibernate_page_list_setall time <*> ms,8
+e194959f,IOHibernatePollerOpen(0),3
+23320c25,[BluetoothHIDDeviceController] EventServiceConnectedCallback,11
+904fee67,Connecting to Dropbox on '<*>',1
+efa7fb31,hibernate_machine_init pagesDone 508482 sum2 5b34bf21 time 195 ms disk(0x20000) 802 Mb/s comp bytes 45608960 time 31 ms 1383 Mb/s crypt bytes 158490624 time 37 ms 4022 Mb/s,1
+8f7d765f,kern_open_file_for_direct_io(0),8
+3f55cd79,Sandbox SpotlightNetHelp(352) deny(1) ipc-posix-shm-read-data CFPBS 186A7,9
+582f4a26,hibernate_machine_init pagesDone 432738 sum2 726fb902 time 193 ms disk(0x20000) 812 Mb/s comp bytes 47370240 time 32 ms 1377 Mb/s crypt bytes 158535680 time 37 ms 3998 Mb/s,1
+829ea564,hibernate_machine_init state 2 image pages <*> sum was <*> imageSize <*> image1Size <*> conflictCount <*> nextFree <*>,5
+f356f9c1,hibernate_rebuild started,5
+1fbe9f5c,18 <*> <*> BTLE scanner Powered Off,4
+e4776cef,en0 BSSID changed to 00 a2 ee <*>,3
+f9eb4869,08 <*> <*> Scanning mode Contacts Only,2
+4c8e31fd,FA||Url||taskID[2019353429] dealloc,1
+3c16b6e8,FA||Url||taskID[2019353083] dealloc,1
+15b1ec6e,network changed <*> <*>) v6(en0 2607 f140 6000 8 <*> <*> <*> <*> DNS! Proxy SMB,14
+7771bb1b,<*> manager is not powered on,19
+77d466ea,"2017-07-08 06 26 <*> GoogleSoftwareUpdateAgent[39159/0x7000002a0000] [lvl 2] -[KSOutOfProcessFetcher beginFetchWithDelegate ] KSOutOfProcessFetcher <*> <*> from URL ""https //<*>/service/update2?cup2hreq <*> 7 <*>",2
+94b6eb68,CCFile copyFile fileName is [2017-07-06_12 <*> <*> source path /var/log/CoreCapture/<*>/DriverLogs//[2017-07-06_12 <*> <*> dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-06_12 <*> <*> AuthFail sts 5_rsn 0/DriverLogs//[2017-07-06_12 <*>,4
+d38a3fac,FA||Url||taskID[2019353493] dealloc,1
+164db6d5,hibernate_machine_init reading,7
+d18dc5d4,<*> <*> <*> <<<< CRABS >>>> crabsFlumeHostUnavailable <*> Byte flume reports host unavailable.,20
+98709a6a,Daemon connection invalidated!,5
+1f1a515e,extension <*> -> <*>,4
+775149d5,FA||Url||taskID[2019353522] dealloc,1
+9bf40a88,nw_path_query_lqm Tried to query LQM on path with no interfaces,1
+c8cf49ac,AppleActuatorDevice <*> Entered,10
+109c6b61,[<*>] [Refusing to parse response to PROPPATCH because of content-type [text/html; charset UTF-8].],20
+598d7cc2,handle_will_sleep_auth_and_shield_windows Ordering out authw 0x7fa82419cc00(2000) shield 0x7fa825a1f000(2001) (lock state 2),1
+f14eb343,pages <*> wire <*> act <*> inact 0 cleaned 0 spec <*> zf <*> throt 0 compr <*> xpmapped 40000,8
+b35055fa,wake time set <*> s,6
+7fac0d01,Telling CSI to <*> low power.,15
+9120e009,doSaveChannels@286 Will write to <*> <*> <*> - AssocFail sts <*> 0.xml,5
+55f7e451,ARPT <*> wl0 MDNS IPV6 Addr 2607 f140 6000 8 <*>,48
+5ad46c1f,<*> Frequent transitions for interface awdl0 (FE80 0000 0000 0000 D8A5 90FF FEF5 7FFF),11
+375fcf93,network changed v4(en0! <*>) DNS+ Proxy+ SMB,6
+a53d63ce,<*> 06 <*> BTLE scanner Powered On,3
+bb0b3882,handle_will_sleep_auth_and_shield_windows Reordering authw <*> (lock state 3),2
+a734f3ad,**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- Connected to the transport successfully -- 0x5fd0 -- 0x9a00 -- <*> ****,8
+5ede7912,no sleep images for WillPowerOffWithImages,3
+bfb40326,<*> <*> <*> Starting AirDrop server for user 501 on wake,6
+ea6d973b,hostControllerOnline - Number of Paired devices 1 List of Paired devices (,6
+ef95a242,Running daily periodic task.,2
+1062761a,23 35 17.383 Scanning mode Contacts Only,1
+f00407bf,"PBRequester failed with Error Error Domain NSURLErrorDomain Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSUnderlyingError 0x7fe13361b8b0 {Error Domain kCFErrorDomainCFNetwork Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSErrorFailingURLStringKey https //<*>/a/v2/use NSErrorFailingURLKey https //<*>/a/v2/use _kCFStreamErrorCodeKey 8 _kCFStreamErrorDomainKey 12 NSLocalizedDescription The Internet connection appears to be offline.}} NSErrorFailingURLStringKey https //<*>/a/v2/use NSErrorFailingURLKey https //<*>/a/v2/use _kCFStreamErrorDomainKey 12 _kCFStreamErrorCodeKey 8 NSLocalizedDescription The Internet connection appears to be offline.}",1
+d4c3092c,Saw change in network reachability (isReachable <*>,34
+81e11855,NSURLSession/NSURLConnection HTTP load failed (kCFStreamErrorDomainSSL -9802),3
+7b703537,CCProfileMonitor setStreamEventHandler,3
+0f0be094,hibernate_flush_memory buffer_cache_gc freed up <*> wired pages,7
+dd816c9e,<*> <*> <*> Discoverable mode changed to Off,10
+038257e5,hibernate_page_list_setall found pageCount <*>,7
+7a670a04,<*> <*> <*> <*> <*> [lvl 2] -[KSMultiUpdateAction performAction] <*> had no updates to apply.,7
+3edf453a,<IMMacNotificationCenterManager <*> notification observer <*> notification __CFNotification <*> {name <*>,20
+56671921,CCFile copyFile fileName is [2017-07-07_16 24 <*> source path <*> 24 <*> dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-07_16 24 <*> AssocFail sts 2_rsn <*> 24 <*>,3
+9d043034,"[Accounts] Failed to update account with identifier 76FE6715-3D27-4F21-AA35-C88C1EA820E8 error Error Domain ABAddressBookErrorDomain Code 1002 ""(null)""",1
+cff4c195,"09 21 25.144 SDWormholeServer failedToStartScanningWithError Error Domain NSMachErrorDomain Code 8 ""(os/kern) no access"" UserInfo {NSLocalizedDescription wirelessproxd can't start scanning at this time.}",1
+fbfe22e1,CCFile copyFile fileName is [2017-07-05_00 17 49.995060]-io80211Family-001.pcapng source path /var/log/CoreCapture/<*>/IO80211AWDLPeerManager//[2017-07-05_00 17 49.995060]-io80211Family-001.pcapng dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-05_00 17 48.837874] AssocFail sts 2_rsn 0/IO80211AWDLPeerManager//[2017-07-05_00 17 49.995060]-io80211Family-001.pcapng,1
+6d6c82a7,ARPT <*> wl0 Roamed or switched channel reason <*> bssid 5c 50 15 <*> <*> <*> last RSSI <*>,8
+bca2baaf,FrameReceiverMessageCallback KernelFrameDropNotification (Frames are dropping). The firmware is not returning buffers quickly enough.,4
+ab6ed25f,mDNS_RegisterInterface Frequent transitions for interface en0 (FE80 0000 0000 0000 C6B3 01FF FECD 467F),9
+a2a4d2de,network_reachability_changed network is not reachable netbiosd is shutting down,17
+6e2d95a4,12 12 55.986 BTLE scanner Powered Off,1
+67dbad95,FA||Url||taskID[2019353184] dealloc,1
+341ec391,-> DNSServiceQueryRecord 0x0000D000 0 <*>. (PTR) PID[53](),3
+80707f40,ignored is_io_service_close(0x100000420 IOHIDParamUserClient),1
+09c4ecd7,CCFile copyFile fileName is [2017-07-03_19 04 <*> source path <*> 04 <*> dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-03_19 04 <*> AuthFail sts 5_rsn <*> 04 <*>,2
+96dab61c,CCXPCService setStreamEventHandler Registered for notification callback.,5
+fcb9a35f,PMStats Hibernate read took <*> ms,5
+ae0cc18e,[CardDAVPlugin-ERROR] -getHomeInfo [_controller containersAtURLs {(,3
+a93df961,<*> <*> <*> <*> <*> [lvl 2] main() Fetcher received a request <NSMutableURLRequest <*> { URL https //<*>/service/update2?cup2hreq <*> 7 <*> },3
+ae2b6398,18 <*> <*> BTLE scanner Powered On,3
+e21b7c00,"XPC Error while checking if iCDP is enabled for DSID 874161398 Error Domain NSCocoaErrorDomain Code 4099 ""The connection to service named <*> was invalidated."" UserInfo {NSDebugDescription The connection to service named <*> was invalidated.}",4
+911332f6,FA||Url||taskID[2019353474] dealloc,1
+c5e1670c,<*> <*> Host controller <*>,15
+446fa9f3,FA||Url||taskID[2019353450] dealloc,1
+d22eb749,[IOBluetoothHostController setConfigState] calling registerService,4
+c887ecf4,15 <*> <*> BTLE scanner Powered Off,3
+dfd2f7f2,FA||Url||taskID[2019353622] dealloc,1
+04bb0c62,**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- calling IOBluetoothFamily's registerService() -- 0x5fd0 -- 0x9a00 -- <*> ****,3
+24508ac9,plugin <*> invalidated,8
+9f5d01b3,"[<*>] [Sync report for calendar home iCloud failed with error Error Domain NSURLErrorDomain Code -1009 ""<NASCII>"" UserInfo {NSUnderlyingError 0x7fa11fde8050 {Error Domain kCFErrorDomainCFNetwork Code -1009 ""<NASCII>"" UserInfo {NSErrorFailingURLStringKey https //13957525385%40163.com@<*>/874161398/calendars/ NSErrorFailingURLKey https //13957525385%40163.com@<*>/874161398/calendars/ _kCFStreamErrorCodeKey 57 _kCFStreamErrorDomainKey 1 NSLocalizedDescription <NASCII>}} NSErrorFailingURLStringKey https //13957525385%40163.com@<*>/874161398/calendars/ NSErrorFailingURLKey https //13957525385%40163.com@<*>/874161398/calendars/ _kCFStreamErrorDomainKey 1 _kCFStreamErrorCodeKey 57 NSLocalizedDescription <NASCII>}]",1
+8b8b94a7,Google Chrome <*> triggered unnest of range 0x7fff93c00000->0x7fff93e00000 of DYLD shared region in VM map <*> While not abnormal for debuggers this increases system memory footprint until the target exits.,10
+20532798,en0 BSSID changed to f8 4f 57 3b <*>,2
+97f8c1a7,10 58 44.033 BTLE scanning stopped,1
+5b21b754,"[00 <*> <*> <<<< FigFile >>>> FigFileForkOpenMainByCFURL opening url ""file ///private/var/folders/nt/fvzdv1fn7n1d5bpgqb_wcfxh0000gn/T/<*>/WebKit/MediaCache/CachedMedia-AF9ZZJ"" path ""/private/var/folders/nt/fvzdv1fn7n1d5bpgqb_wcfxh0000gn/T/<*>/WebKit/MediaCache/CachedMedia-AF9ZZJ"" options 0x00000480 failed errno 35 Resource temporarily unavailable",2
+93ccf765,hibernate_setup(0) took <*> ms,8
+dfa0475c,en0 STOP,1
+367169ab,FA||Url||taskID[2019353186] dealloc,1
+522d8a33,Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in() <*>,6
+202ad77b,<*> <*> <*> FigFileForkOpenMainByCFURL signalled err 35 (errno) (open failed) at /Library/Caches/<*>/Sources/CoreMedia_frameworks/<*>/Sources/Platform/Darwin/DarwinFile.c line 456,3
+c8dcd7d0,FA||Url||taskID[2019353866] dealloc,1
+1532988f,2017-07-07 10 54 41.167 GoogleSoftwareUpdateAgent[37924/0x7fff79824000] [lvl 2] -[KSAgentApp checkForUpdates] Starting update check.,1
+99a38dd3,RTC Maintenance 2017/7/6 00 15 46 sleep 2017/7/6 00 03 16,1
+87c39774,notify name <*> has been registered <*> times - this may be a leak,2
+c6ada93e,RTC Maintenance 2017/7/3 15 59 57 sleep 2017/7/3 15 57 44,1
+c0fbb4e2,2017-07-07 10 54 41.167 GoogleSoftwareUpdateAgent[37924/0x7000002a0000] [lvl 2] -[KSAgentApp(KeystoneThread) runKeystonesInThreadWithArg ] Starting engine thread,1
+c48603ee,07 27 <*> ERROR 177 timed out after 0.012s (27042 27042); mMajorChangePending 0,2
+0c960e24,12 <*> <*> Scanning mode Contacts Only,3
+052e0ad2,<*> <*> <*> <*> signalled err -12785 (kFigBaseObjectError_Invalidated) (invalidated) at /Library/Caches/<*>/Sources/CoreMedia/<*>/Prototypes/Player/FigPlayer_Async.c line <*>,22
+bcfb5e69,en0 BSSID changed to 0c 68 03 <*>,8
+9f845962,10 31 19.875 BTLE scanning started,1
+0eeaba1d,Invalid Connection ID 0,3
+e0b62db4,<*> <*> <*> <*> <*> [lvl 2] -[FetchDelegate fetcher finishedWithData ] Fetcher downloaded successfully data of length 0,3
+6bca6b6b,FA||Url||taskID[2019353662] dealloc,1
+73520fa9,WARNING Type1 font data isn't in the correct format required by the Adobe Type 1 Font Format specification.,4
+5d12aa01,ChromeExistion main <*> 1,5
+84c12fd5,vm_compressor_flush - starting,4
+773e06a3,BuildActDeviceEntry enter,4
+03c280f9,<*> <*> <*> <*> <*> [lvl 2] -[KSAgentApp(KeystoneDelegate) updateEngineFinishedWithErrors ] Keystone finished errors 0,2
+814e9471,**** [BroadcomBluetoothHostControllerUSBTransport][start] -- Completed (matched on Device) -- <*> ****,3
+a4d13268,[<*>] [Adding [<CalDAVAccountRefreshQueueableOperation <*> Sequence 0>] to failed operations.],4
+1a822579,"ChromeExistion main strSendMsg {""websitekey"" false ""commandkey"" true ""browserkey"" true}",5
+9600d7a3,"<*> <*> <*> <*> <*> error Error Domain NSURLErrorDomain Code <*> ""<NASCII>"" UserInfo <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> https <*> <*> <*> <*> <*> <*> <*> <*> NSLocalizedDescription <*> <*> <*> <*> <*> <NASCII> <*> <*> NSErrorFailingURLStringKey https <*>",5
+b92f5ba3,[20 53 44.529] (Fig) signalled err -12871,1
+5dc81e96,[23 50 <*> FigAtomStreamAdvanceToNextAtomWithType signalled err -12894 (kFigAtomStream_BadLengthInAtom) (Atom had a bogus length) at /Library/Caches/<*>/Sources/CoreMedia_frameworks/<*>/Sources/Utilities/FigAtomStream.c line 703,2
+f16990d7,(ImportBailout.Error 1331) Asked to exit for Diskarb,5
+32682d3f,Service exited with abnormal code 1,1
+0b9cd793,NETWORK no response from server reachability 2 queryRetries <*>,5
+48ea9589,could discard act <*> inact <*> purgeable <*> spec <*> cleaned 0,3
+bdefd2d0,<*> <*> <*> <*> <*> [lvl 2] -[KSUpdateCheckAction performAction] KSUpdateCheckAction starting update check for ticket(s) {(,4
+3ff9dca4,FA||Url||taskID[2019353599] dealloc,1
+c945bfe2,network changed <*> <*> v6(en0! 2607 f140 6000 8 <*> <*> <*> <*> DNS Proxy SMB,2
+0c7ee639,ARPT <*> ARPT Wake Reason Wake on TCP Timeout,12
+02c53fa6,<*> completed - took <*> msecs,11
+099c1c2e,[Accounts] Current connection <NSXPCConnection <*> connection from pid <*> doesn't have account access.,7
+aec92e86,02 18 38.005 BTLE scanning stopped,1
+93ce4c8f,"BUG in libdispatch client kevent[EVFILT_MEMORYSTATUS] add ""Operation not supported"" - 0x2d",1
+72958329,<*> <*> <*> <*> <*> [lvl 2] main() ksfetch fetching URL (<NSMutableURLRequest <*> { URL https //<*>/service/update2?cup2hreq <*> 7 <*> }) to folder <*>,7
+0b2080a5,ARPT 728312.821876 wl0 Beacon Loss Event last RSSI[-85],1
+528f9e51,<*> <*>(9854) <*> file-read-data /private/etc/hosts,5
+1e37653c,Could not find access page in directory /Applications/PyCharm CE.app/Contents/Resources/PY.help,1
+e3b3ab5d,CCFile copyFile fileName is [2017-07-07_06 48 <*> source path /var/log/CoreCapture/<*>/DriverLogs//[2017-07-07_06 48 <*> dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-07_06 <*> <*> AuthFail sts 5_rsn 0/DriverLogs//[2017-07-07_06 48 <*>,2
+2691913f,AIDA Notification plugin running,4
+bb185769,FA||Url||taskID[2019353857] dealloc,1
+1532e331,CCFile copyFile fileName is [2017-07-03_16 <*> <*> source path <*> <*> <*> dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-03_16 07 <*> AuthFail sts 5_rsn <*>,4
+52084755,05 <*> <*> BTLE scanning started,2
+07864f87,[ChromeExistion Version <*>],7
+ff4ea3e6,10 57 00.321 BTLE scanner Powered Off,1
+cf717c65,Failed to stop a scan - central is not powered on 4,9
+8c60e944,FA||Url||taskID[2019353367] dealloc,1
+7719edbb,ChromeExistion main isUndetectWebsite 0,4
+3648da5d,moduleFromLegacyDefaults <ScreenSaverDefaults 0x7ffcb0730c10>,1
+16aefadb,01 57 59.002 Purged contact hashes,1
+50386fd5,hibernate_alloc_pages act <*> inact <*> anon <*> throt 0 spec <*> wire <*> wireinit 39927,7
+4da356a7,host connection <NSXPCConnection <*> connection from pid <*> invalidated,12
+c35492ee,efi pagecount 72,8
+4eb6053d,<*> <*> <*> <*> <*> [lvl 2] -[KSUpdateCheckAction(KSServerUpdateRequestDelegate) serverRequest fetchedWithResponse ] KSUpdateCheckAction received KSServerUpdateResponse <KSOmahaServerUpdateResponse <*>,3
+12aaa72b,no application identifier provided can't use provisioning profiles [pid 36198],1
+45ae7181,"<*> <*> <*> <*> <*> [lvl 2] -[KSOutOfProcessFetcher beginFetchWithDelegate ] KSOutOfProcessFetcher fetching from URL ""https //<*>/service/update2?cup2hreq <*> 7 <*>",4
+d1e63f14,childFrame with no value <_SOAPParserFrame <*> EWSMailboxTypeTypeDefinition __NSCFString (Inlined Arrays (null)),2
+e3135676,2017-07-07 01 <*> <*> <*> [lvl 2] -[KSAgentApp performSelfUpdateWithEngine ] This process may be killed if self-update is necessary. In such cases sub-processes may still be running to complete the self-update.,2
+6b836b6e,CCFile copyFile fileName is [2017-07-05_11 01 10.503386]-AirPortBrcm4360_Logs-003.txt source path /var/log/CoreCapture/<*>/DriverLogs//[2017-07-05_11 01 10.503386]-AirPortBrcm4360_Logs-003.txt dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-05_11 01 13.671293] AuthFail sts 5_rsn 0/DriverLogs//[2017-07-05_11 01 10.503386]-AirPortBrcm4360_Logs-003.txt,1
+484373e8,FA||Url||taskID[2019353582] dealloc,1
+de2b6b15,FA||Url||taskID[2019353296] dealloc,1
+c4fe29c6,FA||Url||taskID[2019353286] dealloc,1
+d960bc67,BuildActDeviceEntry exit,5
+b00f153d,VDCAssistant Found a camera (0x1430000005ac8290) but was not able to start it up (0x0 -- (os/kern) successful),8
+9b326005,"PBRequester failed with Error Error Domain NSURLErrorDomain Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSUnderlyingError 0x7fe133701110 {Error Domain kCFErrorDomainCFNetwork Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSErrorFailingURLStringKey https //<*>/dispatcher.arpc NSErrorFailingURLKey https //<*>/dispatcher.arpc _kCFStreamErrorCodeKey 8 _kCFStreamErrorDomainKey 12 NSLocalizedDescription The Internet connection appears to be offline.}} NSErrorFailingURLStringKey https //<*>/dispatcher.arpc NSErrorFailingURLKey https //<*>/dispatcher.arpc _kCFStreamErrorDomainKey 12 _kCFStreamErrorCodeKey 8 NSLocalizedDescription The Internet connection appears to be offline.}",1
+847b32ef,<*> url <*> <*> <*>,3
+de24e21c,hibernate_teardown completed - discarded <*>,3
+ce31d375,ARPT <*> wl0 MDNS IPV6 Addr 2607 f140 400 a01b <*>,17
+7bb233c9,Couldn't find a requirement string for masquerading client <*>,1
+cb78249b,FA||Url||taskID[2019353771] dealloc,1
+f804e10f,<<<< FigByteStream >>>> FigByteStreamStatsLogOneRead ByteStream read of <*> bytes @ <*> took <*> <*> to complete <*> reads > <*> sec.,7
+b0671938,hibernate image path /var/vm/sleepimage,2
+82ee4248,ARPT 784287.937605 wl0 wl_update_tcpkeep_seq Original Seq 3670439732 Ack 1558025947 Win size 4093,1
+f98f529d,06 09 46.388 BTLE scanning started,1
+b496dc96,FA||Url||taskID[2019353596] dealloc,1
+792aec6e,22 24 31.108 BTLE scanning started,1
+2fee169d,***** Received request to scan at 30ms/60ms *****,1
+820d392f,hciControllerOnline; HID devices? 0,7
+8512dd04,FA||Url||taskID[2019353685] dealloc,1
+b063161e,full wake request (reason 2) <*> ms,4
+f10849e1,CCFile copyFile fileName is [2017-07-06_14 <*> <*> source path <*> <*> <*> dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-06_14 15 <*> AuthFail sts 5_rsn <*>,2
+12b27459,PM response took 128 ms (25654 <*>),1
+961c81fc,FA||Url||taskID[2019353552] dealloc,1
+99f81d02,"PBRequester failed with Error Error Domain NSURLErrorDomain Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSUnderlyingError 0x7fb7eb51ee30 {Error Domain kCFErrorDomainCFNetwork Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSErrorFailingURLStringKey https //<*>/clls/wloc NSErrorFailingURLKey https //<*>/clls/wloc _kCFStreamErrorCodeKey 8 _kCFStreamErrorDomainKey 12 NSLocalizedDescription The Internet connection appears to be offline.}} NSErrorFailingURLStringKey https //<*>/clls/wloc NSErrorFailingURLKey https //<*>/clls/wloc _kCFStreamErrorDomainKey 12 _kCFStreamErrorCodeKey 8 NSLocalizedDescription The Internet connection appears to be offline.}",1
+d4f710c2,2017-07-01 19 46 27.306 ksfetch[31704/0x7fff79824000] [lvl 2] KSHelperReceiveAllData() KSHelperTool read 1989 bytes from stdin.,1
+3c9097db,FA||Url||taskID[2019353343] dealloc,1
+f17e64e0,CCFile copyFile fileName is [2017-07-07_13 <*> <*> source path /var/log/CoreCapture/<*>/DriverLogs//[2017-07-07_13 <*> <*> dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-07_13 <*> <*> AuthFail sts 5_rsn 0/DriverLogs//[2017-07-07_13 <*>,6
+6cb99711,2017-07-07 17 02 00.792 GoogleSoftwareUpdateAgent[38375/0x7fff79824000] [lvl 2] -[KSAgentApp checkForUpdates] Finished update check.,1
+b9acfd82,FA||Url||taskID[2019353300] dealloc,1
+5058a190,18 <*> <*> Scanning mode Contacts Only,2
+7820357c,FA||Url||taskID[2019353223] dealloc,1
+3b45fb2e,13 54 18.704 Purged contact hashes,1
+deb5d591,en0 BSSID changed to f4 7f 35 f7 81 ac,1
+c1b20d9d,FA||Url||taskID[2019353854] dealloc,1
+456fd491,00 03 37.301 BTLE discovered device with hash <011bcf00 00000000 0000>,1
+d6868aea,did discard act <*> inact <*> purgeable <*> spec <*> cleaned 0,5
+ac18d0cb,tcp_connection_destination_handle_tls_close_notify <*> closing socket due to TLS CLOSE_NOTIFY alert,4
+4fd6c19f,doSaveChannels@286 Will write to /Library/Logs/CrashReporter/CoreCapture/IOReporters/[2017-07-04_11 29 09.551635] - DeauthInd sts 0_rsn 7.xml,1
+353c2945,bitmap_size 0x7f0fc previewSize <*> writing <*> pages @ <*>,3
+ed8f6de5,ERROR | -[LWBuiltInScreenLockAuthLion closeAuthAndReset ] | Attempted to remove an observer when not observing,3
+3a241ffe,ChromeExistion main linkUrl (null),5
+47cea6e1,Service exited due to signal Killed 9,1
+6d6756e7,No items found in keychain,1
+aa3f59b7,FA||Url||taskID[2019353220] dealloc,1
+1af29524,<*> <*> <*> <*> <*> [lvl 2] -[KSUpdateEngine(PrivateMethods) updateFinish] KSUpdateEngine update processing complete.,2
+9ba03bc5,AppleActuatorHIDEventDriver message service is terminated,1
+beb2a8e8,ARPT <*> ARPT Wake Reason Wake on Scan offload; Disconnect reason Disassociated due to inactivity,2
+da36ce29,handle_will_sleep_auth_and_shield_windows err 0x0,1
+2f83c425,"[00 29 <*> <<< CFByteFlume >>> FigCFHTTPReadResponse [0x7fbc7af12f80] New network problem detected error Error Domain kCFErrorDomainCFNetwork Code -1009 ""?????????????"" UserInfo {NSErrorFailingURLStringKey http //<*>/<*>/stream/5wPghFxoaDQBdZdgIHMvgaFw2huL8GeX.mp4?yx &refer weibo_app&Expires 1499243237&ssig 34o4iEpRBW&KID unistore video NSErrorFailingURLKey http //<*>/<*>/stream/5wPghFxoaDQBdZdgIHMvgaFw2huL8GeX.mp4?yx &refer weibo_app&Expires 1499243237&ssig 34o4iEpRBW&KID unistore video _kCFStreamErrorCodeKey 50 _kCFStreamErrorDomainKey 1 NSLocalizedDescription ?????????????}",2
+423a7380,[<*>] [Failed to refresh <CalManagedSubscriptionInfo 0x7fa11d67f340> (entity SubscriptionInfo; id 0x401eeb <x-coredata //DB05755C-483D-44B7-B93B-ED06E57FF420/SubscriptionInfo/p1> ; data {,1
+780cffa6,"2017-07-04 23 27 41.811 GoogleSoftwareUpdateAgent[35425/0x7000002a0000] [lvl 2] -[KSUpdateEngine updateProductID ] KSUpdateEngine updating product ID ""<*>""",1
+b2019eed,Unable to start NetBIOS name service,3
+86ca42be,Failed to start scanning,1
+4fd28a52,-[SFLListManager(ServiceReplyProtocol) notifyChanges toListWithIdentifier ] Notified of item changes to list with identifier <*>,3
+1b41f82a,UNINSTALLED <*> <*>(7.55) 0A7D0520-B9F7-44FD-9BDA-076567784CDD /Applications/Skype.app/Contents/PlugIns/<*>,1
+811cba1d,FA||Url||taskID[2019353514] dealloc,1
+295ab30b,enabling pid 30298 for plug-in <*>(1.0) <*>,4
+d9f15fb8,FA||Url||taskID[2019353344] dealloc,1
+c13f20c1,CCFile copyFile fileName is [2017-07-07_13 <*> <*> source path /var/log/CoreCapture/<*>/OneStats//[2017-07-07_13 <*> <*> dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-07_13 <*> <*> AuthFail sts 5_rsn 0/OneStats//[2017-07-07_13 <*>,4
+910c95f0,<*> <*> <*> <*> <*> [lvl 2] -[KSUpdateCheckAction(PrivateMethods) finishAction] KSUpdateCheckAction found updates {( )},3
+2ba67d97,device_generate_lock_screen_screenshot authw <*> 0 <*> <*> shield <*> dev [1440 900],12
+06d3bccf,CCFile copyFile fileName is [2017-07-03_16 <*> <*> source path /var/log/CoreCapture/<*>/OneStats//[2017-07-03_16 <*> <*> dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-03_16 <*> <*> <*> sts 5_rsn 0/OneStats//[2017-07-03_16 <*>,3
+99037d2b,"2017-07-05 18 20 00.156 30311 33405200 [CountryConfiguration] Could not determine current country code Error Domain NSURLErrorDomain Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSUnderlyingError 0x7fe1353137c0 {Error Domain kCFErrorDomainCFNetwork Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSErrorFailingURLStringKey https //<*>/pep/gcc NSErrorFailingURLKey https //<*>/pep/gcc _kCFStreamErrorCodeKey 8 _kCFStreamErrorDomainKey 12 NSLocalizedDescription The Internet connection appears to be offline.}} NSErrorFailingURLStringKey https //<*>/pep/gcc NSErrorFailingURLKey https //<*>/pep/gcc _kCFStreamErrorDomainKey 12 _kCFStreamErrorCodeKey 8 NSLocalizedDescription The Internet connection appears to be offline.}",1
+52150f50,CCFile copyFile fileName is [2017-07-03_13 50 15.582203]-AirPortBrcm4360_Logs-005.txt source path /var/log/CoreCapture/<*>/DriverLogs//[2017-07-03_13 50 15.582203]-AirPortBrcm4360_Logs-005.txt dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-03_13 51 09.069210] RoamFail sts 1_rsn 1/DriverLogs//[2017-07-03_13 50 15.582203]-AirPortBrcm4360_Logs-005.txt,1
+1f387605,2017-07-06 14 57 15.523 GoogleSoftwareUpdateAgent[37059/0x7000002a0000] [lvl 2] -[KSUpdateEngine updateAllExceptProduct ] KSUpdateEngine updating all installed products except '<*>'.,1
+06260868,RTC Maintenance 2017/7/4 18 42 11 sleep 2017/7/4 18 29 23,1
+65712973,SysAdmChk Throttling activity execution. memFlags 0x0 thermalLevel 0x1,2
+23bacf3a,06 35 10.611 Adding my hashes manually,1
+fd0bed0e,01 30 30.388 BTLE scanning started,1
+1d500097,FA||Url||taskID[2019353106] dealloc,1
+aab4b701,"2017-07-06 12 05 07.153 30311 35429ed0 [CountryConfiguration] Could not determine current country code Error Domain NSURLErrorDomain Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSUnderlyingError 0x7fe1352170e0 {Error Domain kCFErrorDomainCFNetwork Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSErrorFailingURLStringKey https //<*>/pep/gcc NSErrorFailingURLKey https //<*>/pep/gcc _kCFStreamErrorCodeKey 8 _kCFStreamErrorDomainKey 12 NSLocalizedDescription The Internet connection appears to be offline.}} NSErrorFailingURLStringKey https //<*>/pep/gcc NSErrorFailingURLKey https //<*>/pep/gcc _kCFStreamErrorDomainKey 12 _kCFStreamErrorCodeKey 8 NSLocalizedDescription The Internet connection appears to be offline.}",1
+0c74de3b,<*> 13 <*> Scanning mode Contacts Only,3
+54a15710,FA||Url||taskID[2019353731] dealloc,1
+35d6acf4,<*> <*> <*> <*> <*> [lvl 2] -[KSOutOfProcessFetcher(PrivateMethods) launchedHelperTaskForToolPath error ] KSOutOfProcessFetcher launched '/Users/xpc/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/ksfetch' with process id <*>,2
+44ca5fe6,12 29 04.115 BTLE scanning started,1
+e4676cd5,FA||Url||taskID[2019353849] dealloc,1
+269badb7,[<*>] [Coalescing failed operation [<CalDAVAccountRefreshQueueableOperation <*> Sequence 0>]],2
+ed8f219b,CCFile copyFile fileName is [2017-07-03_16 27 <*> source path <*> 27 <*> dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-03_16 27 <*> AuthFail sts 5_rsn <*> 27 <*>,4
+b740306e,Sandbox QuickLookSatelli(38418) deny(1) file-issue-extension /Users/xpc/Library/Caches/<*>,1
+9ddf8e56,CCFile copyFile fileName is [2017-07-06_12 <*> <*> source path /var/log/CoreCapture/<*>/OneStats//[2017-07-06_12 <*> <*> dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-06_12 <*> <*> <*> sts 5_rsn 0/OneStats//[2017-07-06_12 <*>,2
+7291d5cf,CCFile copyFile fileName is [2017-07-06_16 29 43.711519]-CCIOReporter-001.xml source path /var/log/CoreCapture/<*>/OneStats//[2017-07-06_16 29 43.711519]-CCIOReporter-001.xml dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-06_16 29 42.708684] DeauthInd sts 0_rsn 7/OneStats//[2017-07-06_16 29 43.711519]-CCIOReporter-001.xml,1
+af9e631f,Error -60005 creating authorization,1
+08025a9c,FA||Url||taskID[2019353263] dealloc,1
+de485dbd,CCFile copyFile fileName is [2017-07-06_12 03 12.435042]-io80211Family-042.pcapng source path /var/log/CoreCapture/<*>/IO80211AWDLPeerManager//[2017-07-06_12 03 12.435042]-io80211Family-042.pcapng dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-06_12 03 12.509921] RoamFail sts 1_rsn 4/IO80211AWDLPeerManager//[2017-07-06_12 03 12.435042]-io80211Family-042.pcapng,1
+d48cd741,FA||Url||taskID[2019353099] dealloc,1
+20f10b5d,Sandbox <*> deny(1) mach-lookup <*>,4
+623b4bb5,(Volume.Normal 2464) volume 0x7fe11e0bf000 ********** Bootstrapped Creating a default store 0 SpotLoc (null) SpotVerLoc (null) occlude 0 /Volumes/Recovery HD,1
+1a6bd43e,FA||Url||taskID[2019353830] dealloc,1
+c7d049a5,Removed expired problem report file ///Library/Logs/DiagnosticReports/<*>,1
+d0ea5450,15 33 55.459 Scanning mode Contacts Only,1
+51fa98b1,RTC Maintenance 2017/7/7 17 31 21 sleep 2017/7/7 17 18 49,1
+a98ec2ca,CCFile copyFile fileName is [2017-07-05_00 29 26.770816]-CCIOReporter-001.xml source path /var/log/CoreCapture/<*>/OneStats//[2017-07-05_00 29 26.770816]-CCIOReporter-001.xml dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-05_00 29 25.769076] AssocFail sts 5_rsn 0/OneStats//[2017-07-05_00 29 26.770816]-CCIOReporter-001.xml,1
+bba06241,after trim url http <*>,2
+e49b03a8,Error [AppleBluetoothHIDDeviceGen2][_setEventService ]Couldn't copy BD_ADDR,8
+c6d9bae6,FA||Url||taskID[2019353831] dealloc,1
+90465b72,"PBRequester failed with Error Error Domain NSURLErrorDomain Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSUnderlyingError 0x7fe135308980 {Error Domain kCFErrorDomainCFNetwork Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSErrorFailingURLStringKey https //<*>/dispatcher.arpc NSErrorFailingURLKey https //<*>/dispatcher.arpc _kCFStreamErrorCodeKey 57 _kCFStreamErrorDomainKey 1 NSLocalizedDescription The Internet connection appears to be offline.}} NSErrorFailingURLStringKey https //<*>/dispatcher.arpc NSErrorFailingURLKey https //<*>/dispatcher.arpc _kCFStreamErrorDomainKey 1 _kCFStreamErrorCodeKey 57 NSLocalizedDescription The Internet connection appears to be offline.}",1
+fd39d2ff,_CGXRemoveWindowFromWindowMovementGroup window 0x6caf is not attached to window 0x6f10,1
+2f0f03ad,<*> 31 <*> BTLE scanner Powered On,2
+93724a52,2017-07-04 23 27 44.321 GoogleSoftwareUpdateAgent[35425/0x7fff79824000] [lvl 2] -[KSAgentApp checkForUpdates] Finished update check.,1
+53611d09,01 42 45.019 Scanning mode Contacts Only,1
+a6b684c2,<*> <*> <*> <*> <*> [lvl 2] main() Setting up download file handles...,7
+5b385f51,"[23 50 <*> <<< FFR_Common >>> FigFormatReaderCreateForStreamReturningMatchingContainerLabelType *** Could not find format reader for URL ""file ///Users/xpc/Desktop/%5BKamigami%5D%20Sword%20Art%20Online%20%5BBDrip%201920x1080%20x264%20FLAC%20MKV%20Sub(Chs <*> path ""/Users/xpc/Desktop/[Kamigami] Sword Art Online [BDrip 1920x1080 x264 FLAC MKV Sub(Chs Jap)]/[Kamigami] Sword Art Online - <*> [BDrip 1920x1080 x264 FLAC].mkv"" extension ""mkv"" FileType '' MIMETYPE ""(null)"" SuggFileName ""(null)"" SuggNameExtension ""(null)""",2
+c3bc0783,IOBluetoothUSBDFU probe avoid Bluetooth automatic firmware update because USB Bluetooth active,2
+8373d4cd,INSTALLED <*> <*>(7.55) <__NSConcreteUUID <*> <*> /Applications/Skype.app/Contents/PlugIns/<*>,2
+7bd9060d,21 Could not write data to client PID[77](apsd) because of error - aborting connection,1
+7f9b641f,2017-07-05 <*> <*> <*> PM [AirPlayUIAgent] BecomingInactive NSWorkspaceWillSleepNotification,2
+92eece74,PM response took 262 ms (445 softwareupdated),1
+e6dd76a0,Got an XPC error Connection invalid,3
+dd2fcb0b,FA||Url||taskID[2019353738] dealloc,1
+96af9adf,en0 BSSID changed to 18 33 9d 8c 9a cc,1
+00f106dd,15 32 34.071 Purged contact hashes,1
+7cbde08a,FA||Url||taskID[2019353435] dealloc,1
+47f4ea3f,2017-07-04 <*> <*> <*> <*> [lvl 2] -[KSCheckAction performAction] KSCheckAction checking 1 ticket(s).,2
+c2e7bdc4,en0 BSSID changed to 64 d9 89 <*>,2
+d57cc19a,FA||Url||taskID[2019353690] dealloc,1
+0ab3f0aa,FA||Url||taskID[2019353769] dealloc,1
+d8414465,FA||Url||taskID[2019353150] dealloc,1
+b94b8842,Surface test allowed updates after <*> attempts <*> ms),2
+452fdffd,FA||Url||taskID[2019353433] dealloc,1
+28a8b37d,Metadata.framework [Error] void _MDItemMarkAsUsedForPath(CFStringRef) was called with a NULL path,1
+96699f63,00 03 06.244 Finished generating hashes,1
+a520d75d,<INFO> RQD Persist userinfo data with count 0,2
+3a4fef5a,hibernate_machine_init pagesDone 455920 sum2 81cafc41 time 185 ms disk(0x20000) 847 Mb/s comp bytes 47288320 time 32 ms 1369 Mb/s crypt bytes 158441472 time 38 ms 3973 Mb/s,1
+305aeaf0,CCFile copyFile fileName is [2017-07-02_13 12 09.723345]-CCIOReporter-003.xml source path /var/log/CoreCapture/<*>/OneStats//[2017-07-02_13 12 09.723345]-CCIOReporter-003.xml dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-02_13 13 23.887893] AssocFail sts 5_rsn 0/OneStats//[2017-07-02_13 12 09.723345]-CCIOReporter-003.xml,1
+ba5246a9,Page bounds {{0 0} {400 400}},3
+c79c7a8a,CCFile copyFile fileName is [2017-07-02_13 01 38.467942]-AirPortBrcm4360_Logs-003.txt source path /var/log/CoreCapture/<*>/DriverLogs//[2017-07-02_13 01 38.467942]-AirPortBrcm4360_Logs-003.txt dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-02_13 01 37.343593] AuthFail sts 5_rsn 0/DriverLogs//[2017-07-02_13 01 38.467942]-AirPortBrcm4360_Logs-003.txt,1
+7ded2567,05 <*> <*> BTLE scanning stopped,2
+8108ce29,en0 BSSID changed to 00 00 00 00 00 00,1
+7a860ace,FA||Url||taskID[2019353540] dealloc,1
+e75f5cb7,20 38 12.107 BTLE scanner Powered On,1
+d5a7abfd,(DiskStore.Normal 2382) c001 1.000023,1
+35c69372,FA||Url||taskID[2019353625] dealloc,1
+aaccd80c,FA||Url||taskID[2019353067] dealloc,1
+017b01ef,20 <*> <*> ERROR >aq> 3177 AQBuffer * <*> has enqueue count of 1,2
+dfb5789b,FA||Url||taskID[2019353492] dealloc,1
+841b046a,FA||Url||taskID[2019353216] dealloc,1
+82a56f9f,FA||Url||taskID[2019353828] dealloc,1
+2a214a39,2017-07-04 09 43 01.171 ksfetch[34606/0x7fff79824000] [lvl 2] main() ksfetch done fetching.,1
+dce388d4,09 <*> <*> BTLE scanner Powered On,3
+e9688048,handle_will_sleep_auth_and_shield_windows Deferring.,4
+7437464a,"[CardDAVPlugin-ERROR] -_handleAddsOrModifies https //xpcben%40gmail.com@<*>/carddav/v1/principals/xpcben%40gmail.com/lists/default/ Error Domain NSURLErrorDomain Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSUnderlyingError 0x7fa1dc509290 {Error Domain kCFErrorDomainCFNetwork Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSErrorFailingURLStringKey https //xpcben%40gmail.com@<*>/carddav/v1/principals/xpcben%40gmail.com/lists/default/ NSErrorFailingURLKey https //xpcben%40gmail.com@<*>/carddav/v1/principals/xpcben%40gmail.com/lists/default/ _kCFStreamErrorCodeKey 57 _kCFStreamErrorDomainKey 1 NSLocalizedDescription The Internet connection appears to be offline.}} NSErrorFailingURLStringKey https //xpcben%40gmail.com@<*>/carddav/v1/principals/xpcben%40gmail.com/lists/default/ NSErrorFailingURLKey https //xpcben%40gmail.com@<*>/carddav/v1/principals/xpcben%40gmail.com/lists/default/ _kCFStreamErrorDomainKey 1 _kCFStreamErrorCodeKey 57 NSLocalizedDescription The Internet connection appears to be offline.}",1
+d7042072,RTC Maintenance 2017/7/5 03 09 57 sleep 2017/7/5 02 57 36,1
+b9d16f75,FA||Url||taskID[2019353680] dealloc,1
+e232b73f,Surface testing disallowed updates for 10 sequential attempts...,2
+00c4fb97,FA||Url||taskID[2019353518] dealloc,1
+455e216b,CCFile copyFile fileName is [2017-07-07_12 24 <*> source path <*> 24 <*> dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-07_12 24 <*> AuthFail sts 5_rsn <*> 24 <*>,2
+f513d77c,storeaccountd(345) deny file-write-create /Users/xpc/Library/Caches/<*>,1
+e2375fd2,"PBRequester failed with Error Error Domain NSURLErrorDomain Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSUnderlyingError 0x7fb7ed65dd70 {Error Domain kCFErrorDomainCFNetwork Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSErrorFailingURLStringKey https //<*>/clls/wloc NSErrorFailingURLKey https //<*>/clls/wloc _kCFStreamErrorCodeKey 8 _kCFStreamErrorDomainKey 12 NSLocalizedDescription The Internet connection appears to be offline.}} NSErrorFailingURLStringKey https //<*>/clls/wloc NSErrorFailingURLKey https //<*>/clls/wloc _kCFStreamErrorDomainKey 12 _kCFStreamErrorCodeKey 8 NSLocalizedDescription The Internet connection appears to be offline.}",1
+cadfdc49,<*> <*> <*> <*> <*> [lvl 2] -[KSPrefetchAction performAction] KSPrefetchAction no updates to prefetch.,2
+f1b99220,tcp_connection_destination_perform_socket_connect 25132 connectx to <*> 80@0 failed [49] Can't assign requested address,1
+bbc825ec,2017-07-04 09 42 57.976 GoogleSoftwareUpdateAgent[34603/0x700000323000] [lvl 2] -[KSUpdateCheckAction performAction] KSUpdateCheckAction running KSServerUpdateRequest <KSOmahaServerUpdateRequest 0x100536fe0,1
+78f3f287,CCFile copyFile fileName is [2017-07-05_16 05 05.109022]-AirPortBrcm4360_Logs-008.txt source path /var/log/CoreCapture/<*>/DriverLogs//[2017-07-05_16 05 05.109022]-AirPortBrcm4360_Logs-008.txt dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-05_16 06 03.492254] RoamFail sts 1_rsn 1/DriverLogs//[2017-07-05_16 05 05.109022]-AirPortBrcm4360_Logs-008.txt,1
+b0d77a2a,"PBRequester failed with Error Error Domain NSURLErrorDomain Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSUnderlyingError 0x7fe1336685c0 {Error Domain kCFErrorDomainCFNetwork Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSErrorFailingURLStringKey https //<*>/dispatcher.arpc NSErrorFailingURLKey https //<*>/dispatcher.arpc _kCFStreamErrorCodeKey 8 _kCFStreamErrorDomainKey 12 NSLocalizedDescription The Internet connection appears to be offline.}} NSErrorFailingURLStringKey https //<*>/dispatcher.arpc NSErrorFailingURLKey https //<*>/dispatcher.arpc _kCFStreamErrorDomainKey 12 _kCFStreamErrorCodeKey 8 NSLocalizedDescription The Internet connection appears to be offline.}",1
+184ad157,"[CardDAVPlugin-ERROR] Exception caught while running sync with server Error Domain CoreDAVErrorDomain Code 1 ""(null)""",1
+4f62ef08,SecTaskLoadEntitlements failed error 3,1
+1fc0059e,FA||Url||taskID[2019353463] dealloc,1
+3d88db85,-deviceDeltaY is deprecated for NSScrollWheel. Please use -scrollingDeltaY.,1
+e091ba24,RTC Maintenance 2017/7/1 21 52 00 sleep 2017/7/1 21 39 51,1
+c093bd01,2017-07-04 09 42 58.135 GoogleSoftwareUpdateAgent[34603/0x700000323000] [lvl 2] -[KSAgentApp(KeystoneThread) runKeystonesInThreadWithArg ] About to run checks for any other apps.,1
+7c63adbc,FA||Url||taskID[2019353057] dealloc,1
+18ffac97,CCFile copyFile fileName is [2017-07-06_12 <*> <*> source path /var/log/CoreCapture/<*>/IO80211AWDLPeerManager//[2017-07-06_12 <*> <*> dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-06_12 <*> <*> AuthFail sts 5_rsn 0/IO80211AWDLPeerManager//[2017-07-06_12 <*>,2
+155d2ea9,CCFile copyFile fileName is [2017-07-07_13 38 24.371339]-CCIOReporter-019.xml source path /var/log/CoreCapture/<*>/OneStats//[2017-07-07_13 38 24.371339]-CCIOReporter-019.xml dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-07_13 38 24.812426] AssocFail sts 2_rsn 0/OneStats//[2017-07-07_13 38 24.371339]-CCIOReporter-019.xml,1
+c4ed7985,DB Query select * from tb_c2cMsg_2909288299 where flag 1 and type ! 109 and bubbleid > 0 order by time desc msgRelatedFlag asc msgId desc limit 1,2
+ddc2b3e9,FA||Url||taskID[2019353032] dealloc,1
+b84d4af9,02 43 59.096 BTLE scanner Powered On,1
+5be01aee,FA||Url||taskID[2019353702] dealloc,1
+fc3c73eb,CCFile copyFile fileName is [2017-07-02_22 24 <*> source path /var/log/CoreCapture/<*>/IO80211AWDLPeerManager//[2017-07-02_22 24 <*> dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-02_22 24 <*> AuthFail sts <*> 0/IO80211AWDLPeerManager//[2017-07-02_22 24 <*>,3
+53322f95,"PBRequester failed with Error Error Domain NSURLErrorDomain Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSUnderlyingError 0x7fb7eb51cfc0 {Error Domain kCFErrorDomainCFNetwork Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSErrorFailingURLStringKey https //<*>/clls/wloc NSErrorFailingURLKey https //<*>/clls/wloc _kCFStreamErrorCodeKey 8 _kCFStreamErrorDomainKey 12 NSLocalizedDescription The Internet connection appears to be offline.}} NSErrorFailingURLStringKey https //<*>/clls/wloc NSErrorFailingURLKey https //<*>/clls/wloc _kCFStreamErrorDomainKey 12 _kCFStreamErrorCodeKey 8 NSLocalizedDescription The Internet connection appears to be offline.}",1
+48676940,03 <*> <*> Scanning mode Contacts Only,3
+51c1d524,2017-07-02 06 06 46.795193 PM [AirPlayUIAgent] BecomingInactive NSWorkspaceWillSleepNotification,1
+d85872df,"[CardDAVPlugin-ERROR] -getPrincipalInfo [_controller principalPropertiesAtURL https //xpcben%40gmail.com@<*>/carddav/v1/principals/xpcben%40gmail.com/] Error Domain NSURLErrorDomain Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSUnderlyingError 0x7f9d23433f30 {Error Domain kCFErrorDomainCFNetwork Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSErrorFailingURLStringKey https //xpcben%40gmail.com@<*>/carddav/v1/principals/xpcben%40gmail.com/ NSErrorFailingURLKey https //xpcben%40gmail.com@<*>/carddav/v1/principals/xpcben%40gmail.com/ _kCFStreamErrorCodeKey 8 _kCFStreamErrorDomainKey 12 NSLocalizedDescription The Internet connection appears to be offline.}} NSErrorFailingURLStringKey https //xpcben%40gmail.com@<*>/carddav/v1/principals/xpcben%40gmail.com/ NSErrorFailingURLKey https //xpcben%40gmail.com@<*>/carddav/v1/principals/xpcben%40gmail.com/ _kCFStreamErrorDomainKey 12 _kCFStreamErrorCodeKey 8 NSLocalizedDescription The Internet connection appears to be offline.}",1
+9bb18220,2017-07-02 20 50 47.640 GoogleSoftwareUpdateAgent[32775/0x7000002a0000] [lvl 2] -[KSAgentApp performSelfUpdateWithEngine ] Finished self update check.,1
+6abb505e,FA||Url||taskID[2019353555] dealloc,1
+cca6351e,2017<NASCII>7<NASCII>5<NASCII> <NASCII> <NASCII> <NASCII>5 39 10,1
+628e7675,19 <*> <*> BTLE scanner Powered On,3
+611bbe7d,"[CardDAVPlugin-ERROR] -getPrincipalInfo [_controller <*> https //13957525385%40163.com@<*>/874161398/principal/] Error Domain NSURLErrorDomain Code -1001 ""The request timed out."" UserInfo {NSUnderlyingError <*> {Error Domain kCFErrorDomainCFNetwork Code -1001 ""The request timed out."" UserInfo {NSErrorFailingURLStringKey https //13957525385%40163.com@<*>/874161398/principal/ NSErrorFailingURLKey https //13957525385%40163.com@<*>/874161398/principal/ _kCFStreamErrorCodeKey -2102 _kCFStreamErrorDomainKey 4 NSLocalizedDescription The request timed out.}} NSErrorFailingURLStringKey https //13957525385%40163.com@<*>/874161398/principal/ NSErrorFailingURLKey https //13957525385%40163.com@<*>/874161398/principal/ _kCFStreamErrorDomainKey 4 _kCFStreamErrorCodeKey -2102 NSLocalizedDescription The request timed out.}",2
+46ebf1a8,full wake promotion (reason 1) <*> ms,4
+f88d732d,12 29 03.002 Purged contact hashes,1
+ea152e7c,15 10 04.900 Finished generating hashes,1
+ae329aa0,Checking iCDP status for DSID 874161398 (checkWithServer 0),2
+d4c6ce1a,FA||Url||taskID[2019353337] dealloc,1
+8b38f185,FA||Url||taskID[2019353158] dealloc,1
+842709c3,FA||Url||taskID[2019353423] dealloc,1
+4f9ad557,FA||Url||taskID[2019353141] dealloc,1
+65ead359,CCFile copyFile fileName is [2017-07-04_08 21 25.092188]-io80211Family-002.pcapng source path /var/log/CoreCapture/<*>/IO80211AWDLPeerManager//[2017-07-04_08 21 25.092188]-io80211Family-002.pcapng dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-04_08 21 25.088669] AssocFail sts 2_rsn 0/IO80211AWDLPeerManager//[2017-07-04_08 21 25.092188]-io80211Family-002.pcapng,1
+dcbf6024,Session <*> created,2
+3952e1ab,(UID 501) Found 7 plugin types 47 plugins,1
+bca0128e,*** Break on _NSLockError() to debug.,1
+aff817f0,hibernate_machine_init pagesDone 485400 sum2 3745d535 time 194 ms disk(0x20000) 814 Mb/s comp bytes 39702528 time 26 ms 1409 Mb/s crypt bytes 160124928 time 38 ms 4013 Mb/s,1
+814019a1,CCFile copyFile fileName is [2017-07-05_19 00 43.556300]-io80211Family-010.pcapng source path /var/log/CoreCapture/<*>/IO80211AWDLPeerManager//[2017-07-05_19 00 43.556300]-io80211Family-010.pcapng dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-05_19 00 43.634713] AuthFail sts 5_rsn 0/IO80211AWDLPeerManager//[2017-07-05_19 00 43.556300]-io80211Family-010.pcapng,1
+b343b85f,CCFile copyFile fileName is [2017-07-03_12 36 38.165922]-AirPortBrcm4360_Logs-006.txt source path /var/log/CoreCapture/<*>/DriverLogs//[2017-07-03_12 36 38.165922]-AirPortBrcm4360_Logs-006.txt dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-03_12 36 40.073195] AuthFail sts 5_rsn 0/DriverLogs//[2017-07-03_12 36 38.165922]-AirPortBrcm4360_Logs-006.txt,1
+9b46976e,FA||Url||taskID[2019353208] dealloc,1
+d93adf18,FA||Url||taskID[2019353332] dealloc,1
+182a6462,[17 00 <*> fragManifold_PushBytes signalled err -16046 (kFigManifoldError_UnexpectedInitData) (Second 'ftyp' atom encountered) at /Library/Caches/<*>/Sources/CoreMedia/<*>/Prototypes/FormatHandlers/Movie/FigMovieFragmentManifold.c line 1680,3
+d741d819,CCFile copyFile fileName is [2017-07-01_09 42 <*> source path <*> 42 <*> dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-01_09 42 49.834263] AuthFail sts 5_rsn <*> 42 <*>,2
+573e992a,ARPT 672076.252792 wl0 wl_update_tcpkeep_seq mDNSOffloadUserClient GetKeepaliveData failed,1
+257e1058,en0 BSSID changed to 1c 6a 7a 1a 83 fc,1
+15ec4980,CCFile copyFile fileName is [2017-07-03_18 57 01.441132]-io80211Family-003.pcapng source path /var/log/CoreCapture/<*>/IO80211AWDLPeerManager//[2017-07-03_18 57 01.441132]-io80211Family-003.pcapng dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-03_18 57 12.183498] RoamFail sts 1_rsn 1/IO80211AWDLPeerManager//[2017-07-03_18 57 01.441132]-io80211Family-003.pcapng,1
+9f8e2e40,CCFile copyFile fileName is [2017-07-04_12 34 56.774924]-CCIOReporter-002.xml source path /var/log/CoreCapture/<*>/OneStats//[2017-07-04_12 34 56.774924]-CCIOReporter-002.xml dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-04_12 34 55.742346] AuthFail sts 5_rsn 0/OneStats//[2017-07-04_12 34 56.774924]-CCIOReporter-002.xml,1
+645dd56c,FA||Url||taskID[2019353125] dealloc,1
+5a667c49,FA||Url||taskID[2019353727] dealloc,1
+4df92138,FA||Url||taskID[2019353157] dealloc,1
+848f9e7d,"2017-07-05 16 18 05.619 GoogleSoftwareUpdateAgent[36128/0x7000002a0000] [lvl 2] -[KSAgentApp updateProductWithProductID usingEngine ] Done checking for updates for '""<*>""' using engine <KSUpdateEngine 0x100246fa0",1
+dce510e0,FA||Url||taskID[2019353376] dealloc,1
+4c0df6fd,en0 BSSID changed to 54 78 1a a0 92 3c,1
+57a03f73,[HID] [MT] MTActuatorManagement getActuatorRef Calling MTActuatorOpen() outside of MTTrackpadHIDManager.,2
+08205899,Service only ran for 0 seconds. Pushing respawn out by 10 seconds.,2
+0f030282,<<<< MediaValidator >>>> mv_ValidateRFC4281CodecId Unrecognized codec mp3.(null). Failed codec specific check.,1
+7052d75e,CCFile copyFile fileName is [2017-07-06_14 06 <*> source path <*> 06 <*> dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-06_14 06 <*> AssocFail sts 2_rsn <*> 06 <*>,2
+e856f54c,"PBRequester failed with Error Error Domain NSURLErrorDomain Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSUnderlyingError 0x7fe13500add0 {Error Domain kCFErrorDomainCFNetwork Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSErrorFailingURLStringKey https //<*>/dispatcher.arpc NSErrorFailingURLKey https //<*>/dispatcher.arpc _kCFStreamErrorCodeKey 8 _kCFStreamErrorDomainKey 12 NSLocalizedDescription The Internet connection appears to be offline.}} NSErrorFailingURLStringKey https //<*>/dispatcher.arpc NSErrorFailingURLKey https //<*>/dispatcher.arpc _kCFStreamErrorDomainKey 12 _kCFStreamErrorCodeKey 8 NSLocalizedDescription The Internet connection appears to be offline.}",1
+727abcba,RTC Maintenance 2017/7/8 01 50 44 sleep 2017/7/8 01 38 06,1
+ba331234,01 42 52.368 BTLE scanner Powered Off,1
+9e29c84f,CCFile copyFile fileName is [2017-07-08_02 32 46.643534]-io80211Family-003.pcapng source path /var/log/CoreCapture/<*>/IO80211AWDLPeerManager//[2017-07-08_02 32 46.643534]-io80211Family-003.pcapng dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-08_02 32 46.517498] AssocFail sts 2_rsn 0/IO80211AWDLPeerManager//[2017-07-08_02 32 46.643534]-io80211Family-003.pcapng,1
+f57025a9,RTC Maintenance 2017/7/7 13 06 20 sleep 2017/7/7 12 53 43,1
+02501d54,en0 manual intervention required!,1
+3fea10b4,FA||Url||taskID[2019353044] dealloc,1
+a8cb9433,ksadmin cannot access the ticket store <KSUpdateError 0x100615b50,1
+e22a51a4,(DiskStore.Normal 2382) 12001 1.136683,1
+ede95ae1,QuickLookUIHelpe(35508) deny file-read-data /private/var/vm/sleepimage,1
+3d7bcee8,12 42 41.003 BTLE scanning stopped,1
+7a9316e3,RTC Maintenance 2017/7/5 04 21 10 sleep 2017/7/5 04 07 55,1
+9f8ebc5a,FA||Url||taskID[2019353865] dealloc,1
+3008895e,FA||Url||taskID[2019353486] dealloc,1
+287d162d,"Service ""<*>"" tried to hijack endpoint ""<*>"" from owner <*>",2
+d8e55f29,"PBRequester failed with Error Error Domain NSURLErrorDomain Code -1001 ""The request timed out."" UserInfo {NSUnderlyingError <*> {Error Domain kCFErrorDomainCFNetwork Code -1001 ""The request timed out."" UserInfo {NSErrorFailingURLStringKey https //<*>/dispatcher.arpc NSErrorFailingURLKey https //<*>/dispatcher.arpc _kCFStreamErrorCodeKey -2102 _kCFStreamErrorDomainKey 4 NSLocalizedDescription The request timed out.}} NSErrorFailingURLStringKey https //<*>/dispatcher.arpc NSErrorFailingURLKey https //<*>/dispatcher.arpc _kCFStreamErrorDomainKey 4 _kCFStreamErrorCodeKey -2102 NSLocalizedDescription The request timed out.}",4
+b57a5380,04 43 26.008 BTLE scanning stopped,1
+334ea47a,FA||Url||taskID[2019353276] dealloc,1
+44abe2f3,2017-07-07 10 54 42.644 ksfetch[37926/0x7fff79824000] [lvl 2] KSHelperReceiveAllData() KSHelperTool read 1999 bytes from stdin.,1
+f63cccf6,CCFile copyFile fileName is [2017-07-04_11 28 41.287633]-AirPortBrcm4360_Logs-004.txt source path /var/log/CoreCapture/<*>/DriverLogs//[2017-07-04_11 28 41.287633]-AirPortBrcm4360_Logs-004.txt dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-04_11 28 41.154533] AuthFail sts 5_rsn 0/DriverLogs//[2017-07-04_11 28 41.287633]-AirPortBrcm4360_Logs-004.txt,1
+8ef7c6b8,"2017-07-05 16 18 06.771 GoogleSoftwareUpdateAgent[36128/0x7000002a0000] [lvl 2] -[KSAgentApp uploadStats ] Successfully uploaded stats <KSStatsCollection 0x100315e20 path ""/Users/xpc/Library/Google/GoogleSoftwareUpdate/Stats/Keystone.stats"" count 5 stats {",1
+e3ecfa88,23 44 18.503 BTLE scanner Powered Off,1
+86d1b3cf,ARPT 683825.244143 wl0 Roamed or switched channel reason #4 bssid 54 78 1a a0 92 3c last RSSI -73,1
+e8de839b,ARPT 682800.594018 wl0 Roamed or switched channel reason #8 bssid 1c 6a 7a 33 6d 1c last RSSI -84,1
+e7c70d02,-[NETAWDManager reportStats metricID ] AWDServerConnection newMetricContainerWithIdentifier failed for metric 2686985 server 0x7faf937117d0 not reporting,1
+bd848be2,the url https //<*>/search?q %E8%93%9D%E9%87%87%E5%92%8C&rlz 1C5CHFA_enHK732HK732&oq %E8%93%9D%E9%87%87%E5%92%8C&aqs chrome..69i57j0l5.431j0j7&sourceid chrome&ie UTF-8,1
+4556dda2,<*> 45 <*> BTLE scanner Powered On,2
+2e3162ff,RTC Maintenance 2017/7/7 11 17 23 sleep 2017/7/7 11 04 47,1
+3ce92739,[23 50 <*> FigFormatReaderCreateForStreamReturningMatchingContainerLabelType signalled err -12847 (kFigFormatReaderError_FileNotRecognized) (Unrecognized content) at /Library/Caches/<*>/Sources/CoreMedia/<*>/Prototypes/FormatHandlers/FigFormatReader_Common.c line 2158,3
+17d0f798,CFPasteboardBeginGenerationReturn CFPasteboardBeginGeneration(CFPasteboardRef) Lock timeout,1
+757519f5,FA||Url||taskID[2019353840] dealloc,1
+fa039884,"[CardDAVPlugin-ERROR] -getPrincipalInfo [_controller supportsRequestCompressionAtURL https //xpcben%40gmail.com@<*>/carddav/v1/principals/xpcben%40gmail.com/] Error Domain NSURLErrorDomain Code -1001 ""The request timed out."" UserInfo {NSUnderlyingError 0x7fd3bc81d360 {Error Domain kCFErrorDomainCFNetwork Code -1001 ""The request timed out."" UserInfo {NSErrorFailingURLStringKey https //xpcben%40gmail.com@<*>/carddav/v1/principals/xpcben%40gmail.com/ NSErrorFailingURLKey https //xpcben%40gmail.com@<*>/carddav/v1/principals/xpcben%40gmail.com/ _kCFStreamErrorCodeKey -2102 _kCFStreamErrorDomainKey 4 NSLocalizedDescription The request timed out.}} NSErrorFailingURLStringKey https //xpcben%40gmail.com@<*>/carddav/v1/principals/xpcben%40gmail.com/ NSErrorFailingURLKey https //xpcben%40gmail.com@<*>/carddav/v1/principals/xpcben%40gmail.com/ _kCFStreamErrorDomainKey 4 _kCFStreamErrorCodeKey -2102 NSLocalizedDescription The request timed out.}",1
+3239083a,"DB Error 1 ""no such table tb_c2cMsg_2909288299""",2
+8e2f2a06,**** [BroadcomBluetoothHostController][SetupController] -- Delay HCI Reset by 300ms ****,1
+6d950bf4,hibernate_machine_init pagesDone 446692 sum2 257614bb time 189 ms disk(0x20000) 824 Mb/s comp bytes 47378432 time 32 ms 1377 Mb/s crypt bytes 158556160 time 37 ms 4012 Mb/s,1
+2fe0e23b,"CoreText *** Unmapped ""\u1000\u1064\u102C"" <CTFont 0x7fef88f59990>{name HelveticaNeue-Bold size 16.000000 matrix 0x0 descriptor <CTFontDescriptor 0x7fef8dbb8c50>{attributes <CFBasicHash 0x7fef88fbf4a0 [0x7fff7abc1440]>{type mutable dict count 1",1
+b91d9fe3,Actually performing action revisions for 22589429328,1
+58b33a93,[HID] [MT] MTSimpleHIDManager deviceDidBootload device bootloaded,1
+61afce3e,FA||Url||taskID[2019353673] dealloc,1
+1ec5726e,Performing context menu action,1
+b698d0ca,19 31 29.400 BTLE scanner Powered Off,1
+53ea55c2,CCFile copyFile fileName is [2017-07-03_13 48 39.308188]-io80211Family-002.pcapng source path /var/log/CoreCapture/<*>/IO80211AWDLPeerManager//[2017-07-03_13 48 39.308188]-io80211Family-002.pcapng dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-03_13 50 14.954481] AssocFail sts 2_rsn 0/IO80211AWDLPeerManager//[2017-07-03_13 48 39.308188]-io80211Family-002.pcapng,1
+4e526346,2017-07-07 10 54 41.199 GoogleSoftwareUpdateAgent[37924/0x7000002a0000] [lvl 2] -[KSAgentApp(KeystoneThread) runKeystonesInThreadWithArg ] No functional system update engine detected. Only user tickets will be processed.,1
+5bbfa5b9,FA||Url||taskID[2019353089] dealloc,1
+47f34dea,CCFile copyFile fileName is [2017-07-07_16 24 17.620754]-AirPortBrcm4360_Logs-009.txt source path /var/log/CoreCapture/<*>/DriverLogs//[2017-07-07_16 24 17.620754]-AirPortBrcm4360_Logs-009.txt dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-07_16 24 17.735626] AuthFail sts 5_rsn 0/DriverLogs//[2017-07-07_16 24 17.620754]-AirPortBrcm4360_Logs-009.txt,1
+aa5f9d1e,Using ticket store <KSPersistentTicketStore <*> store <KSKeyedPersistentStore <*>,2
+9b7cd777,FA||Url||taskID[2019353578] dealloc,1
+b0f6f624,CCFile copyFile fileName is [2017-07-03_16 28 <*> source path /var/log/CoreCapture/<*>/DriverLogs//[2017-07-03_16 28 <*> dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-03_16 28 <*> AuthFail sts 5_rsn 0/DriverLogs//[2017-07-03_16 28 <*>,2
+cd236779,network changed v6(en0- 2607 f140 6000 8 d8d1 d506 6046 43e4) DNS- Proxy-,1
+ecd23163,"PBRequester failed with Error Error Domain NSURLErrorDomain Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSUnderlyingError 0x7fe133710030 {Error Domain kCFErrorDomainCFNetwork Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSErrorFailingURLStringKey https //<*>/dispatcher.arpc NSErrorFailingURLKey https //<*>/dispatcher.arpc _kCFStreamErrorCodeKey 8 _kCFStreamErrorDomainKey 12 NSLocalizedDescription The Internet connection appears to be offline.}} NSErrorFailingURLStringKey https //<*>/dispatcher.arpc NSErrorFailingURLKey https //<*>/dispatcher.arpc _kCFStreamErrorDomainKey 12 _kCFStreamErrorCodeKey 8 NSLocalizedDescription The Internet connection appears to be offline.}",1
+d35b8ff9,[06 04 59.681] <<<< AVCaptureHALDevice >>>> -[AVCaptureHALDevice _removePropertyListeners] Removing alive observer for device <AVCaptureHALDevice 0x7f9d508c5600 [VPAUAggregateAudioDevice-0x7f9d41d6f640][VPAUAggregateAudioDevice-0x7f9d41d6f640]> failed (560947818),1
+d05d45cc,ARPT 722476.181265 wl0 Roamed or switched channel reason #1 bssid 88 75 56 a0 75 a2 last RSSI -77,1
+4e99c2cb,FA||Url||taskID[2019353336] dealloc,1
+0378fe8a,ARPT 700415.273244 ARPT Wake Reason Wake on Scan offload; Disconnect reason Class 3 frame received from nonassociated STA,1
+71790f62,2017-07-06 20 46 03.798 GoogleSoftwareUpdateAgent[37316/0x7000002a0000] [lvl 2] -[KSAgentApp(KeystoneThread) runKeystonesInThreadWithArg ] Checking with local engine <KSUpdateEngine 0x1005178e0,1
+5618a5de,10 31 19.875 Scanning mode Contacts Only,1
+a03ee524,hibernate_machine_init pagesDone 486664 sum2 f8954373 time 193 ms disk(0x20000) 820 Mb/s comp bytes 39702528 time 26 ms 1406 Mb/s crypt bytes 160157696 time 38 ms 3960 Mb/s,1
+3437bafe,en0 EAP-PEAP successfully authenticated,1
+05593381,2017-07-07 17 01 58.397 ksfetch[38376/0x7fff79824000] [lvl 2] main() Fetcher received a download path /tmp/KSOutOfProcessFetcher.jIW3U0AQ3B/download,1
+bfb84f1f,12 25 41.398 BTLE scanner Powered On,1
+6476d91a,select(29 #########-------------------- 0L 0L &0.0) error Bad file descriptor,1
+793830c3,CCFile copyFile fileName is [2017-07-03_15 47 25.272730]-io80211Family-011.pcapng source path /var/log/CoreCapture/<*>/IO80211AWDLPeerManager//[2017-07-03_15 47 25.272730]-io80211Family-011.pcapng dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-03_15 47 25.346497] RoamFail sts 1_rsn 4/IO80211AWDLPeerManager//[2017-07-03_15 47 25.272730]-io80211Family-011.pcapng,1
+0c1b5051,ARPT <*> wl0 Roamed or switched channel reason #1 bssid 0c 68 03 4d d7 ac last RSSI <*>,2
+febfa99b,CCFile copyFile fileName is [2017-07-01_09 28 41.970572]-CCIOReporter-003.xml source path /var/log/CoreCapture/<*>/OneStats//[2017-07-01_09 28 41.970572]-CCIOReporter-003.xml dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-01_09 28 41.955482] AuthFail sts 2_rsn 0/OneStats//[2017-07-01_09 28 41.970572]-CCIOReporter-003.xml,1
+219cc8c4,CCFile copyFile fileName is [2017-07-08_05 55 23.598110]-CCIOReporter-001.xml source path /var/log/CoreCapture/<*>/OneStats//[2017-07-08_05 55 23.598110]-CCIOReporter-001.xml dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-08_05 55 22.558304] AssocFail sts 2_rsn 0/OneStats//[2017-07-08_05 55 23.598110]-CCIOReporter-001.xml,1
+483f8b8c,RTC Maintenance 2017/7/5 08 47 02 sleep 2017/7/5 08 34 05,1
+b5d8b83a,08 21 18.002 Purged contact hashes,1
+3cafb410,FA||Url||taskID[2019353758] dealloc,1
+f7231c21,CCFile copyFile fileName is [2017-07-05_11 01 13.672936]-CCIOReporter-003.xml source path /var/log/CoreCapture/<*>/OneStats//[2017-07-05_11 01 13.672936]-CCIOReporter-003.xml dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-05_11 01 51.638542] RoamFail sts 1_rsn 1/OneStats//[2017-07-05_11 01 13.672936]-CCIOReporter-003.xml,1
+472322fd,FA||Url||taskID[2019353691] dealloc,1
+63b76d35,CCFile copyFile fileName is [2017-07-02_18 09 29.564935]-CCIOReporter-001.xml source path /var/log/CoreCapture/<*>/OneStats//[2017-07-02_18 09 29.564935]-CCIOReporter-001.xml dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-02_18 09 28.561802] AuthFail sts 5_rsn 0/OneStats//[2017-07-02_18 09 29.564935]-CCIOReporter-001.xml,1
+13650d46,CCFile copyFile fileName is [2017-07-03_12 35 58.511033]-AirPortBrcm4360_Logs-002.txt source path /var/log/CoreCapture/<*>/DriverLogs//[2017-07-03_12 35 58.511033]-AirPortBrcm4360_Logs-002.txt dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-03_12 35 57.446283] AssocFail sts 2_rsn 0/DriverLogs//[2017-07-03_12 35 58.511033]-AirPortBrcm4360_Logs-002.txt,1
+ff1fbb80,2017-07-06 00 30 39.046 ksfetch[36445/0x7fff79824000] [lvl 2] main() ksfetch done fetching.,1
+d915559e,CCFile copyFile fileName is [2017-07-03_12 36 40.074805]-CCIOReporter-005.xml source path /var/log/CoreCapture/<*>/OneStats//[2017-07-03_12 36 40.074805]-CCIOReporter-005.xml dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-03_12 36 40.150691] RoamFail sts 1_rsn 4/OneStats//[2017-07-03_12 36 40.074805]-CCIOReporter-005.xml,1
+5d2e5446,2017-07-06 <*> <*> <*> <*> [lvl 2] -[KSUpdateCheckAction performAction] KSUpdateCheckAction running KSServerUpdateRequest <KSOmahaServerUpdateRequest <*>,2
+e07a699f,FA||Url||taskID[2019353271] dealloc,1
+a0a12106,CCFile copyFile fileName is [2017-07-01_09 21 53.926232]-io80211Family-002.pcapng source path /var/log/CoreCapture/<*>/IO80211AWDLPeerManager//[2017-07-01_09 21 53.926232]-io80211Family-002.pcapng dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-01_09 21 57.380965] AuthFail sts 5_rsn 0/IO80211AWDLPeerManager//[2017-07-01_09 21 53.926232]-io80211Family-002.pcapng,1
+58e044dc,tcp_connection_destination_write_setup_notsent_lowat 84781 disabling low latency setsockopt TCP_NOTSENT_LOWAT to 16384 on fd 132 failed [22] Invalid argument dumping backtrace,1
+7055726f,<INFO> RQD UserInfoUploadHandler clean 1 records,1
+6aa077aa,2017-07-06 00 30 39.049 GoogleSoftwareUpdateAgent[36436/0x7000002a0000] [lvl 2] -[KSOutOfProcessFetcher(PrivateMethods) helperErrorAvailable ] KSOutOfProcessFetcher helper tool raw STDERR,1
+ca2c9b8b,Killing auth hosts,1
+04d9c102,RTC Maintenance 2017/7/7 17 17 42 sleep 2017/7/7 17 05 06,1
+ca51e348,04 55 22.389 Scanning mode Contacts Only,1
+86e5e18c,[21 22 38.054] mv_LowLevelCheckIfVideoPlayableUsingDecoder signalled err -12956 (kFigMediaValidatorError_VideoCodecNotSupported) (video codec 1) at line 1921,1
+b9758c1c,FA||Url||taskID[2019353715] dealloc,1
+5e9ca9d3,RTC Maintenance 2017/7/7 08 33 48 sleep 2017/7/7 08 21 12,1
+f8e39178,RTC Maintenance 2017/7/5 02 29 00 sleep 2017/7/5 02 16 40,1
+c2590845,FA||Url||taskID[2019353880] dealloc,1
+1f8f2db9,PM response took 102 ms (280 mapspushd),1
+3068c728,DB Path /Users/xpc/Library/Containers/<*>/Data/Documents/contents/916639562/QQ.db,1
+6197c73b,CCFile copyFile fileName is [2017-07-01_09 59 40.802448]-io80211Family-002.pcapng source path /var/log/CoreCapture/<*>/IO80211AWDLPeerManager//[2017-07-01_09 59 40.802448]-io80211Family-002.pcapng dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-01_09 59 59.971150] RoamFail sts 1_rsn 1/IO80211AWDLPeerManager//[2017-07-01_09 59 40.802448]-io80211Family-002.pcapng,1
+62b5f90f,"[CardDAVPlugin-ERROR] -getPrincipalInfo [_controller supportsRequestCompressionAtURL https //13957525385%40163.com@<*>/874161398/principal/] Error Domain NSURLErrorDomain Code -1003 ""A server with the specified hostname could not be found."" UserInfo {NSUnderlyingError 0x7f9d20d45f80 {Error Domain kCFErrorDomainCFNetwork Code -1003 ""A server with the specified hostname could not be found."" UserInfo {NSErrorFailingURLStringKey https //13957525385%40163.com@<*>/874161398/principal/ NSErrorFailingURLKey https //13957525385%40163.com@<*>/874161398/principal/ _kCFStreamErrorCodeKey 8 _kCFStreamErrorDomainKey 12 NSLocalizedDescription A server with the specified hostname could not be found.}} NSErrorFailingURLStringKey https //13957525385%40163.com@<*>/874161398/principal/ NSErrorFailingURLKey https //13957525385%40163.com@<*>/874161398/principal/ _kCFStreamErrorDomainKey 12 _kCFStreamErrorCodeKey 8 NSLocalizedDescription A server with the specified hostname could not be found.}",1
+80267517,FA||Url||taskID[2019353576] dealloc,1
+f628e4fe,"2017-07-01 19 43 30.789 30311 3512df40 [LogMessageLogging] [aid-types_14000] - Request to send LogMessages of count (6) failed with Error Error Domain NSURLErrorDomain Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSUnderlyingError 0x7fe1351498d0 {Error Domain kCFErrorDomainCFNetwork Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSErrorFailingURLStringKey https //<*>/a/v2/use NSErrorFailingURLKey https //<*>/a/v2/use _kCFStreamErrorCodeKey 8 _kCFStreamErrorDomainKey 12 NSLocalizedDescription The Internet connection appears to be offline.}} NSErrorFailingURLStringKey https //<*>/a/v2/use NSErrorFailingURLKey https //<*>/a/v2/use _kCFStreamErrorDomainKey 12 _kCFStreamErrorCodeKey 8 NSLocalizedDescription The Internet connection appears to be offline.}",1
+5a767e16,FA||Url||taskID[2019353399] dealloc,1
+8301c58e,"[CardDAVPlugin-ERROR] -getPrincipalInfo [_controller principalPropertiesAtURL https //xpcben%40gmail.com@<*>/carddav/v1/principals/xpcben%40gmail.com/] Error Domain NSURLErrorDomain Code -1005 ""The network connection was lost."" UserInfo {NSUnderlyingError 0x7fdb40f77050 {Error Domain kCFErrorDomainCFNetwork Code -1005 ""The network connection was lost."" UserInfo {NSErrorFailingURLStringKey https //xpcben%40gmail.com@<*>/carddav/v1/principals/xpcben%40gmail.com/ NSErrorFailingURLKey https //xpcben%40gmail.com@<*>/carddav/v1/principals/xpcben%40gmail.com/ _kCFStreamErrorCodeKey -4 _kCFStreamErrorDomainKey 4 NSLocalizedDescription The network connection was lost.}} NSErrorFailingURLStringKey https //xpcben%40gmail.com@<*>/carddav/v1/principals/xpcben%40gmail.com/ NSErrorFailingURLKey https //xpcben%40gmail.com@<*>/carddav/v1/principals/xpcben%40gmail.com/ _kCFStreamErrorDomainKey 4 _kCFStreamErrorCodeKey -4 NSLocalizedDescription The network connection was lost.}",1
+71f1aee7,en0 BSSID changed to c8 f9 f9 a7 ab 7c,1
+0e2681bc,CCFile copyFile fileName is [2017-07-02_18 38 32.810960]-io80211Family-001.pcapng source path /var/log/CoreCapture/<*>/IO80211AWDLPeerManager//[2017-07-02_18 38 32.810960]-io80211Family-001.pcapng dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-02_18 38 31.808037] AuthFail sts 5_rsn 0/IO80211AWDLPeerManager//[2017-07-02_18 38 32.810960]-io80211Family-001.pcapng,1
+a0c5ecbb,CCFile copyFile fileName is [2017-07-06_16 16 20.419705]-AirPortBrcm4360_Logs-001.txt source path /var/log/CoreCapture/<*>/DriverLogs//[2017-07-06_16 16 20.419705]-AirPortBrcm4360_Logs-001.txt dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-06_16 16 19.943185] AuthFail sts 5_rsn 0/DriverLogs//[2017-07-06_16 16 20.419705]-AirPortBrcm4360_Logs-001.txt,1
+40450d37,FA||Url||taskID[2019353669] dealloc,1
+da777c5b,-------------handle0x210-------------Enter,1
+053683ae,FA||Url||taskID[2019353387] dealloc,1
+fc8afb8b,RTC Maintenance 2017/7/8 01 37 07 sleep 2017/7/8 01 24 29,1
+3ce70a71,RTC Maintenance 2017/7/4 15 20 48 sleep 2017/7/4 15 08 11,1
+2ad92f2d,"[CardDAVPlugin-ERROR] -getPrincipalInfo [_controller principalPropertiesAtURL https //xpcben%40gmail.com@<*>/carddav/v1/principals/xpcben%40gmail.com/] Error Domain NSURLErrorDomain Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSUnderlyingError 0x7fa3bb001280 {Error Domain kCFErrorDomainCFNetwork Code -1009 ""The Internet connection appears to be offline."" UserInfo {NSErrorFailingURLStringKey https //xpcben%40gmail.com@<*>/carddav/v1/principals/xpcben%40gmail.com/ NSErrorFailingURLKey https //xpcben%40gmail.com@<*>/carddav/v1/principals/xpcben%40gmail.com/ _kCFStreamErrorCodeKey 57 _kCFStreamErrorDomainKey 1 NSLocalizedDescription The Internet connection appears to be offline.}} NSErrorFailingURLStringKey https //xpcben%40gmail.com@<*>/carddav/v1/principals/xpcben%40gmail.com/ NSErrorFailingURLKey https //xpcben%40gmail.com@<*>/carddav/v1/principals/xpcben%40gmail.com/ _kCFStreamErrorDomainKey 1 _kCFStreamErrorCodeKey 57 NSLocalizedDescription The Internet connection appears to be offline.}",1
+46b3cc0f,FA||Url||taskID[2019353403] dealloc,1
+8251d4cb,11 38 49.210 BTLE scanner Powered Off,1
+66a88fc7,FA||Url||taskID[2019353729] dealloc,1
+05fa75ef,PM response took 164 ms (17988 NeteaseMusic),1
+6cb6d868,FA||Url||taskID[2019353568] dealloc,1
+c26fd9e0,CCFile copyFile fileName is [2017-07-03_18 57 01.438950]-AirPortBrcm4360_Logs-003.txt source path /var/log/CoreCapture/<*>/DriverLogs//[2017-07-03_18 57 01.438950]-AirPortBrcm4360_Logs-003.txt dest path /Library/Logs/CrashReporter/CoreCapture/<*>/[2017-07-03_18 57 01.351438] AssocFail sts 2_rsn 0/DriverLogs//[2017-07-03_18 57 01.438950]-AirPortBrcm4360_Logs-003.txt,1

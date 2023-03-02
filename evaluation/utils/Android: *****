@@ -1,0 +1,79 @@
+Android: *****
+first event:03-17 16:13:38.811
+last event: 03-17 16:16:09.141
+==> 8min31s600ms
+
+Apache 
+first event : Sun Dec 04 04:47:44 2005
+last event : Mon Dec 05 19:15:57 2005
+==> 1day14h28min13s
+
+Hadoop ****
+first event : 2015-10-18 18:01:47
+last event : 2015-10-18 18:10:55
+==>9min8s
+
+HDFS 
+first: 081109 203615 148	
+last : 081111 102017 26347
+==>2d10h16min2s
+
+HealthApp **
+first: 20171223-22:15:29:606
+last : 20171224-1:2:35:789
+==>2h47min6s183ms
+
+HPC:
+??????
+last:  1134671139  : Thursday, December 15, 2005 6:25:39 PM
+first: 1077804742 :  Thursday, February 26, 2004 2:12:22 PM
+
+Linux:
+first: Jun 14 15:16:01
+last:  Jul 27 14:42:00
+42d23h26min59s
+
+Mac:
+first : Jul  1 09:00:55
+last :  Jul  8 08:10:46
+==>6 days, 23 hours, 9 minutes and 51 seconds
+==> 601,791 seconds
+
+OpenSSH:
+first : Dec 10 11:04:45 
+last : Dec 10 06:55:46
+==> 4 hours, 8 minutes and 59 seconds
+==>14,939 seconds
+
+Openstack ***
+last :2017-05-16 00:14:47.663
+first: 2017-05-16 00:00:00.008
+==>14min47s655ms
+
+proxifier:
+last: 07.27 10:23:42
+first:10.30 16:49:06 
+==>269 days, 17 hours, 34 minutes and 36 seconds
+==>23,304,876 seconds
+
+Spark:*********
+last : 17/06/09 20:11:11
+first : 17/06/09 20:10:40
+==>1min39s
+
+thunderbird:
+last : Nov 9 12:15:32
+first: Nov 9 12:01:01
+==> 14min31s
+
+windows: 
+last :  2016-09-29 02:04:40
+first : 2016-09-28 04:30:30
+==> 21h34min10s
+
+Zookeeper: 
+last:   2015-08-10 18:12:34,004
+first : 2015-07-29 17:41:44,747
+==>  12 days, 0 hours, 30 minutes and 50 seconds
+==>1,038,650 seconds
+

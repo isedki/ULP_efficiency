@@ -1,0 +1,35 @@
+EventId,EventTemplate,Occurrences
+2491ca3e,Connection closed by <*> [preauth],4234
+509a487f,Disconnecting: Too many authentication failures for <*> [preauth],2279
+54a90e3c,PAM <*> more authentication <*> logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> user=root,2198
+21bb6d0e,Failed password for invalid user <*> from <*> port <*> ssh2,1239
+e35a70fe,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> <*>,8627
+2817a946,Received disconnect from <*>: 11: <*> <*> <*>,2802
+f831cb6d,Failed password for <*> from <*> port <*> ssh2,8540
+b542638e,message repeated <*> times: [ Failed password for root from <*> port <*> ssh2],2230
+0849a7d0,pam_unix(sshd:auth): check pass; user unknown,1199
+f7fe7f88,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!,1173
+e2315f39,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,905
+00a684b8,PAM service(sshd) ignoring max retries; <*> > 3,2335
+9302fad4,Invalid user <*> from <*>,934
+d7242a1b,error: Received disconnect from <*>: 14: No more user authentication methods available. [preauth],56
+2702de18,Failed none for invalid user <*> from <*> port <*> ssh2,25
+6b674ff1,input_userauth_request: invalid user <*> [preauth],888
+6ff8b88b,PAM <*> more authentication <*> logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,78
+c379a163,Bad protocol version identification <*> <*> HTTP/1.1' from <*> port <*>,2
+a998e480,fatal: Read from socket failed: Connection reset by peer [preauth],67
+0a1f9bbf,Received disconnect from <*>: 11: [preauth],7
+e2e22af4,Received disconnect from <*>: 11: Closed due to user request. [preauth],44
+b5660ce6,Address <*> maps to <*> but this does not map back to the address - POSSIBLE BREAK-IN ATTEMPT!,30
+3a7285d3,error: Received disconnect from <*>: 3: <*>: Auth fail [preauth],12
+c926c7d9,Did not receive identification string from <*>,48
+62784b9d,"Received disconnect from <*>: 11: Normal Shutdown, Thank you for playing [preauth]",9
+ac22ce5f,pam_unix(sshd:session): session closed for user <*>,12
+b7a32072,pam_unix(sshd:session): session opened for user <*> by (uid=0),10
+bdc60fd2,error: connect_to <*> port 22: failed.,1
+fb624da8,Accepted password for <*> from <*> port <*> ssh2,9
+3a82a99b,Received disconnect from <*>: 11: Client disconnecting normally [preauth],3
+f32f0642,fatal: Write failed: Connection reset by peer [preauth],1
+8bb6393b,Received disconnect from <*>: 11: disconnect [preauth],1
+33bef9d8,error: Received disconnect from <*>: 3: <*>: timeout in waiting for rekeying process. [preauth],1
+67bab5c1,input_userauth_request: invalid user [preauth],1

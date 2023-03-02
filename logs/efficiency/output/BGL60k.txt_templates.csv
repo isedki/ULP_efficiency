@@ -1,0 +1,2671 @@
+EventId,EventTemplate,Occurrences
+946610a6,generating <*>,21628
+a4c32faf,data TLB error interrupt,1920
+e7cd4840,ciod: generated  core files for program ,844
+6f774513,Node card VPD check:  node in processor card slot  do not match. VPD ecid  found ,264
+901ce162,CE sym  at  mask ,2532
+a007dbcc,"ciod: Received signal 15, code=0, errno=0, ",500
+08a7a03a,16076802 floating point alignment exceptions,1
+2d924494,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.,1721
+e346b0ca,total of  ddr error(s) detected and corrected,357
+30529298,iar 00106bd8 dear ,64
+f2bd0d20,114529328 double-hummer alignment exceptions,1
+2dbabc14,iar 003a9260 dear ,250
+278b02ef,iar 00106214 dear 02f75cdc,7
+b3ab3221,38917706 double-hummer alignment exceptions,1
+2193e280,ciod: Error reading message prefix after  on CioStream socket to     ,288
+5dbd85b2,program interrupt: illegal ,155
+e68abdef,idoproxydb hit ASSERT condition: ASSERT  Source  Source  Function=int  ,1069
+45a6d61d,store operation.............................0,42
+d0587e83,iar 00105e98 dear ,15
+c44ce7e9,15 floating point alignment exceptions,410
+0539712c,"10652 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",28
+b871b2b2,1146800 double-hummer alignment exceptions,927
+46bd866b,ciod: Error loading        ,538
+a75b17db,iar  dear 0252524c,17
+8181d880,ciod: failed to read message prefix on control stream (CioStream socket to ,69
+db245064,44354844 double-hummer alignment exceptions,1
+5941d12d,data store interrupt caused by ,266
+161c8b7b,1814262 floating point alignment exceptions,2
+24750a5a,"1 ddr errors(s) detected and corrected on rank 0, symbol  bit ",230
+e21dcac7,instruction cache parity error corrected,1284
+c105ddb5,instruction address: 0x00004ed8,592
+7f1d69ff,iar 0010653c dear ,47
+7ee70687,"10726 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",48
+021f714f,iar 00106380 dear ,12
+bc0af67f,ciod: Error reading message prefix on CioStream socket to     ,375
+e2bd8dbe,data storage interrupt,789
+ed3d63e8,"4 ddr errors(s) detected and corrected on rank 0, symbol  bit ",19
+bdf31d54,iar 00100798 dear ,26
+9317ce26,debug interrupt enable............0,106
+447448ee,iar 00105e78 dear ,35
+465a70fb,Can not get assembly information for node card,204
+6a966f5f,"critical input interrupt (unit=0x0b  warning for   wire, suppressing further interrupts of same type",44
+113fa55e,ciod: Error creating node map from file    ,65
+16f87d0c,"10772 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",23
+8ff89add,"10731 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+081d8029,38070910 double-hummer alignment exceptions,1
+b8a246c1,iar 001061dc dear ,216
+63d2a3b0,iar  dear 02f692ec,14
+108470fa,iar 00106580 dear ,262
+98e244eb,"NFS Mount failed on  slept  seconds, retrying ",26
+537fa53c,iar 00105e74 dear ,17
+78b1c914,"10696 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",23
+5f58909e,"problem state (0=sup,1=usr).......0",76
+d9219c48,iar 003a929c dear ,121
+6708e923,exception syndrome register: ,222
+901fb52f,"ciod: Error loading  invalid or missing program image, Exec format error",274
+cf11df8c,62500 floating point alignment exceptions,181
+b082b4f7,"10748 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",22
+5f5e64c1,25947410 double-hummer alignment exceptions,1
+c2c61c3b,344040 double-hummer alignment exceptions,298
+faa21128,"10740 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",40
+4f74c91e,640404 floating point alignment exceptions,81
+3adc7dc8,iar 00106678 dear ,58
+bca37466,ciod: Missing or invalid fields on line 1 of node map file ,25
+fea6b6a3,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.,230
+90582f82,5 floating point alignment exceptions,679
+2faf1a85,"ciod: Error loading  invalid or missing program image, No such file or directory",586
+f3dbe243,487476 floating point alignment exceptions,53
+57ddb8aa,"10698 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",41
+6b2cbbf9,1005 floating point alignment exceptions,185
+e1d3ea94,program interrupt: trap instruction.........0,123
+fcb6eaf2,iar 00149ee0 dear ,61
+35753372,iar 00106ba8 dear ,28
+561428bb,iar 00106228 dear ,282
+c0767c02,instruction address space.........0,84
+bffe8e6a,iar 00106570 dear ,81
+c5622be2,135780186 double-hummer alignment exceptions,1
+528ea343,iar 00106494 dear ,64
+8c91f41e,Kernel detected  integer alignment exceptions  iar  dear   iar  dear   iar  dear   iar  dear   iar  dear   iar  dear   iar  dear   iar  dear ,266
+c969ee68,1 torus receiver  input pipe error(s) (dcr  detected and corrected,91
+a29e66d7,"10744 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",38
+e475b4c6,data write plb ,6
+ec7dca2a,data cache  parity error detected. attempting to correct,167
+65287733,135587142 double-hummer alignment exceptions,1
+d2ab397a,33745614 double-hummer alignment exceptions,1
+3083344b,8 floating point alignment exceptions,839
+0efaacf1,1375513600 double-hummer alignment exceptions,1
+e1f80a39,force load/store alignment...............0,29
+141622bc,iar 00149f88 dear ,58
+856a65c3,112613352 double-hummer alignment exceptions,1
+dfa12281,Lustre mount FAILED :  : point /p/gb1,341
+3b584150,"10654 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",23
+7903a8b9,data address space................0,66
+dfdbe78c,112277896 double-hummer alignment exceptions,1
+3b9fd46c,byte ordering exception.....................0,90
+a652fe7e,ciod: LOGIN  failed: No such file or directory,566
+b0bc2bbd,1319316592 double-hummer alignment exceptions,1
+3a04f185,store operation.............................1,86
+f2d3ed15,2354412 floating point alignment exceptions,255
+3072ad9f,685 floating point alignment exceptions,230
+a76581a0,disable trace broadcast..................0,29
+6c1d2bfc,New ido chip inserted into the database:    ,46
+977e20b3,Found invalid node ecid in processor card slot  ecid 0000000000000000000000000000,80
+6ca61b65,instruction plb error.............0,3
+415e72d5,3095040 double-hummer alignment exceptions,29
+a207ab97,rts: kernel terminated for reason ,219
+0f4fed5b,floating pt ex mode  ,172
+008817f8,"13 ddr errors(s) detected and corrected on rank 0, symbol  bit ",3
+d11ab42e,LinkCard power module U58 is not accessible,4
+dd796eda,disable speculative access...............0,2
+d9a353bd,auxiliary processor.........................0,95
+fb2ee12a,Microloader Assertion,16
+24bcbf13,iar 001061fc dear ,29
+0f8dfc33,iar 00105e88 dear ,36
+dda3283f,3 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,6
+ef553c62,1030400 double-hummer alignment exceptions,32
+b777712d,PrepareForService shutting down      as part of Service Action ,28
+3e151324,program interrupt: unimplemented operation..0,103
+1cb74fd1,iar  dear 0246f77c,20
+cbb33186,"920 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+24c48012,3091200 double-hummer alignment exceptions,177
+243ca606,640764 floating point alignment exceptions,57
+13e835e7,iar 0010620c dear ,25
+592809b9,114190400 double-hummer alignment exceptions,1
+1351e2e4,iar 0014a150 dear ,259
+cf117fcb,Node card is not fully functional,211
+04af3e5b,floating point operation....................0,131
+edffff57,368010 double-hummer alignment exceptions,26
+a7cd1c9b,1969920 double-hummer alignment exceptions,50
+ee031ae3,wait state enable.................0,81
+8a1e55af,36822716 double-hummer alignment exceptions,1
+ed1433ad,ciod: pollControlDescriptors: Detected the debugger died.,77
+f1abb694,iar 001061e8 dear ,163
+a7413768,total of  ddr error(s) detected and corrected over  seconds,138
+70d07f88,iar 001061b4 dear ,108
+2f62bebd,iar 00106bc0 dear ,62
+06b6caf2,disable store gathering..................0,79
+d074aabb,iar 003a9294 dear ,20
+e3ec8eca,iar 0010684c dear ,21
+a1794837,"10752 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",26
+623540fb,645045984 double-hummer alignment exceptions,1
+da47177f,753930512 double-hummer alignment exceptions,1
+93c07c07,"11 ddr errors(s) detected and corrected on rank 0, symbol  bit ",6
+47f83898,program interrupt: privileged instruction...0,142
+deefe163,Ido packet timeout,58
+acceef06,"10710 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",31
+238d8fa6,2 torus receiver  input pipe error(s) (dcr  detected and corrected,19
+e9c2fbfc,iar 00106470 dear ,68
+0c4b83ad,"9 ddr errors(s) detected and corrected on rank 0, symbol  bit ",7
+710a71f7,machine state register: ,105
+b54b65c8,iar 003a92a0 dear ,126
+a4a27b2e,"10734 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",16
+2c542d91,iar 00106274 dear ,22
+a9fbdfaf,iar 001007a8 dear ,21
+07231026,iar 00106568 dear ,269
+376aaa20,"10662 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",29
+247c05cb,iar 003a926c dear ,68
+9932a997,instruction address: 0x001e5bd4,1
+6aef68d4,154099950 double-hummer alignment exceptions,1
+8ef85a07,26501842 double-hummer alignment exceptions,1
+4b6b9fe0,machine check: i-fetch......................0,219
+6b3e0c4d,iar 00106210 dear ,319
+86be97de,rts: bad message header: index 0 greater than total 0 (softheader=00000002 00000001 00000000 00000000) PSR0=00000000 PSR1=00000000 PRXF=0000002a PIXF=00000007,1
+2b1d44bc,iar  dear 0246dd9c,5
+75d8ed80,113188832 double-hummer alignment exceptions,1
+6076679c,138617946 double-hummer alignment exceptions,1
+9bfdc39a,16:00000800 17:00000001 18:00000000 19:00000000,7
+1e4989f1,458720 double-hummer alignment exceptions,145
+d66a92eb,114196848 double-hummer alignment exceptions,1
+59501f99,iar 00106cf8 dear ,5
+5d5b00ea,special purpose registers:,37
+7b6a9ac2,6182400 double-hummer alignment exceptions,64
+04bd23df,"Error receiving packet on tree network, expecting type 57 instead of type 3   00000002 00000000)  PSR1=00000000 PRXF=00000002 PIXF=00000007",77
+56ed90ca,33801874 double-hummer alignment exceptions,1
+bd68adc9,Ido chip status changed:     status=M      2005,156
+4707caf5,iar 00100788 dear ,16
+537af304,367836 floating point alignment exceptions,8
+95aab501,6 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+cca1a55d,"10670 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",33
+d27fac83,2 torus receiver  input pipe error(s) (dcr  detected and corrected over  seconds,8
+f74e2a66,1422915376 double-hummer alignment exceptions,1
+a80f5760,program interrupt: imprecise exception......0,85
+e1b69ae0,"10780 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",12
+ca453f90,441348 floating point alignment exceptions,4
+befcca43,12:28244842 13:1eeeeeee 14:ffffffff ,26
+309572f4,icache prefetch depth....................0,30
+3ee8c04f,iar 001067b8 dear ,4
+98a38d97,"10737 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",5
+29485bee,rts: bad message header:             PSR1=00000000  PIXF=00000007,14
+55339016,iar 00106534 dear ,151
+adc32a1b,iar 001069d0 dear ,19
+3779f432,ciod: Error reading message prefix on CioStream socket to  Connection timed out,25
+12e9b4c0,"10646 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",15
+0a3a88cf,113553848 double-hummer alignment exceptions,1
+4bf09b0a,7084000 double-hummer alignment exceptions,1
+e2614c99,L1 DCACHE summary averages: #ofDirtyLines:  out of 1024 #ofDirtyDblWord:  out of 4096,38
+1abc05fc,54021363 floating point alignment exceptions,1
+30ace0d1,"10722 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",63
+b0f7d781,rts panic! - stopping execution,49
+4b554ae8,181 double-hummer alignment exceptions,2
+84f7b235,Lustre mount FAILED :  : block_id : location,70
+afc32cc3,112021768 double-hummer alignment exceptions,1
+620957af,iar 00106588 dear ,68
+bbe7100d,MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4),173
+10df4c16,machine check enable..............0,83
+7412a3f3,data address: 0x00000002,187
+d0ac70cd,"10756 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",19
+ea2cdfb3,1 torus receiver  input pipe error(s) (dcr  detected and corrected over  seconds,24
+f52b018e,iar 00106d2c dear ,7
+315b6a16,254801160 double-hummer alignment exceptions,1
+efdcc224,lr:00004ed0 cr:28244842 xer:20000002 ctr:00086000,17
+6b38b25b,iar 00113890 dear ,29
+e93b8f61,program interrupt: fp cr update.............0,108
+df150aa2,suppressing further interrupts of same type,83
+a432ab06,iar  dear 0245b62c,12
+42aadffe,"10728 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",61
+a374bfb1,633222432 double-hummer alignment exceptions,1
+6992008e,757417008 double-hummer alignment exceptions,1
+0a78ccb4,440688 floating point alignment exceptions,5
+4042ace1,4 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over  seconds,3
+63dcf67f,Error: unable to mount filesystem,9
+db56dab4,iar 003a9258 dear ,19
+dccd209d,iar 003a9108 dear ,23
+d6c60228,1377292576 double-hummer alignment exceptions,1
+dd2482b0,ciod: LOGIN  failed:  ,17
+ebb7aead,38153340 double-hummer alignment exceptions,1
+f54a9e84,"10750 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",13
+ae26e2c3,program interrupt: fp compare...............0,103
+8f9c7948,"255 ddr errors(s) detected and corrected on rank 0, symbol  bit ",5
+aa877b21,iar 001007b8 dear ,13
+96b8441b,iar 003a90fc dear ,32
+3da41bbb,256087516 double-hummer alignment exceptions,1
+cbbb1c66,2669600 double-hummer alignment exceptions,1
+dfd23c47,777883792 double-hummer alignment exceptions,1
+d4131e18,130262254 double-hummer alignment exceptions,1
+69209624,"rts: kernel terminated for reason  bad message header:     cpu=0,  ",10
+f6601924,94991250 floating point alignment exceptions,1
+784477bb,iar 00106b8c dear ,55
+68b2e133,254730798 double-hummer alignment exceptions,1
+795766cc,744330336 double-hummer alignment exceptions,1
+e7add10f,iar 0014a1e4 dear ,67
+7e2a559c,ciod: cpu 0 at treeaddr  sent unrecognized message 0xffffffff,41
+11c83734,"10660 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",28
+3964ee1f,"10668 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",39
+a5a96be3,"10714 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",56
+bd4a3697,iar 00113880 dear ,30
+dbd5abfd,1           over  seconds,63
+08c048a2,"10678 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",27
+46888419,iar 0010621c dear ,28
+9c2e5efb,debug wait enable.................0,76
+90a03899,629181360 double-hummer alignment exceptions,1
+eff3e9a7,"751 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",4
+c0613c99,4121600 double-hummer alignment exceptions,10
+61c1c500,iar 00113888 dear ,27
+4207229f,136151058 double-hummer alignment exceptions,1
+3e50d386,iar  dear 0246f76c,10
+a98c7a93,"12 ddr errors(s) detected and corrected on rank 0, symbol  bit ",4
+27923fc3,invalid operation exception (software)...0,2
+280324bf,"10774 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",3
+72cdb42d,"10700 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",34
+f3917acb,icache prefetch threshold................0,27
+fe851179,general purpose registers:,35
+4a2fe0ac,3552000 double-hummer alignment exceptions,1
+38676011,1593600 double-hummer alignment exceptions,2
+d105dc0c,47102348 double-hummer alignment exceptions,1
+228de88e,"10730 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",58
+7c3bb3f6,665600 double-hummer alignment exceptions,7
+56efb622,"455 ddr error(s) detected and corrected on rank 0, symbol 14 over 3385 seconds",1
+bb5e3aea,iar 00106448 dear ,38
+5dd06682,size of scratchpad portion of L3.........0 (0M),1
+99e54161,iar 001066d0 dear ,19
+daa2ae1b,12364800 double-hummer alignment exceptions,31
+0991748d,iar  dear 02f5884c,7
+fd2018ef,259579247 double-hummer alignment exceptions,1
+be78a404,iar 003a90d4 dear ,15
+f99a7ae4,instruction address: 0x0062fdf4,32
+bc5a782d,"10742 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",25
+6db3d207,critical input interrupt ,83
+f58d870a,1311300 double-hummer alignment exceptions,38
+6afb9893,"30 ddr errors(s) detected and corrected on rank 0, symbol  bit ",15
+543620cf,iar  dear 024696dc,7
+48109f45,core configuration register: 0x00002000,84
+8105063a,1367477632 double-hummer alignment exceptions,1
+1cea9ec2,"10712 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",40
+a278d50f,773760 double-hummer alignment exceptions,107
+3fd03580,156721124 double-hummer alignment exceptions,1
+0b0e7585,iar 00105ea0 dear ,19
+a2b00746,736766896 double-hummer alignment exceptions,1
+7350b4a1,11 torus receiver  input pipe error(s) (dcr  detected and corrected,2
+d5ed795a,iar 00106200 dear ,177
+f1861089,260216545 double-hummer alignment exceptions,1
+213b4468,external input interrupt ,96
+60d4f862,"10736 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",18
+781b48aa,ciod:        at line  of node map file ,67
+5d0b32fe,1378576288 double-hummer alignment exceptions,1
+ad9d080b,"10690 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",9
+45523e5f,iar 00106aa0 dear ,24
+63a692ea,guaranteed  cache block ,50
+ee0cdd53,24:1feaa7a0 25:00284538 26:00230000 27:00320000,31
+728c13e9,iar 0010671c dear ,28
+a96c00fe,"rts: kernel terminated for reason 1001rts: bad message header: invalid cpu,    ",48
+84874f3f,iar 003a90dc dear ,18
+2b96eb56,iar 00106c0c dear ,12
+9bebe434,"10634 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+9ec54e27,28584762 double-hummer alignment exceptions,1
+403e3e9f,3275520 double-hummer alignment exceptions,2
+f476850d,iar 00105e84 dear ,40
+496c096f,iar 001069a8 dear 02f7bd7c,7
+9e18280f,floating point instr. enabled.....1,90
+4424d957,iar 0010670c dear ,2
+2546c85a,"10692 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",30
+1d6e6efa,29262234 double-hummer alignment exceptions,1
+d15786d5,"6 ddr error(s) detected and corrected on rank 0, symbol  over  seconds",5
+e279e0e7,"10720 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",21
+af0fdd89,parity error in read queue 0...................0,2
+27a241f0,28:1feaa7b0 29:00000001 30:000008ce 31:1feaa790,25
+1859dee7,iar 003a9288 dear ,9
+e88622be,112180288 double-hummer alignment exceptions,1
+092502fb,41 torus sender x+ retransmission error(s) (dcr 0x02f4) detected and corrected,1
+d1161d4c,1049200 double-hummer alignment exceptions,37
+2bd01ac2,2           over  seconds,25
+4dcfea60,MidplaneSwitchController performing bit sparing on  bit ,18
+24a3d25c,"10754 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",16
+2bb36073,114171856 double-hummer alignment exceptions,1
+bc836306,iar 001063b0 dear ,11
+005c54cf,"20 ddr errors(s) detected and corrected on rank 0, symbol 3, bit 0",1
+e1cc1f13,ciod: Message code 0 is not 51 or 4294967295,32
+cc7dd4ae,8 torus receiver x+ input pipe error(s) (dcr 0x02ec) detected and corrected,2
+6157a91e,259690613 double-hummer alignment exceptions,1
+ec3fff16,639672624 double-hummer alignment exceptions,1
+7b7a32dc,256418603 double-hummer alignment exceptions,1
+9d2d47ad,"10738 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",49
+7b79316b,"10708 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",44
+78dcca17,17129220 floating point alignment exceptions,1
+654fe08f,"614 ddr error(s) detected and corrected on rank 0, symbol 11 over 1293 seconds",1
+b1bf947d,1318866496 double-hummer alignment exceptions,1
+0cbc28e5,28110052 double-hummer alignment exceptions,1
+9026ecc1,iar  dear 05bfa05c,6
+815b0dba,iar 003a90e8 dear ,15
+9fcbadae,"10694 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",8
+0ff112cb,Power deactivated: R03-M0-N3,1
+110479c4,iar  dear 0245ccdc,12
+42a0aa46,"10776 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",5
+a305a48b,critical input interrupt (unit=0x0b  warning for   wire,100
+e20cdff7,iar 003a90f0 dear ,15
+41fc42d3,iar 001061f8 dear ,22
+9d20dfe2,iar  dear 0245ccfc,24
+000977be,1547520 double-hummer alignment exceptions,45
+0dbe9e1b,38120246 double-hummer alignment exceptions,1
+6c69f294,138514908 double-hummer alignment exceptions,1
+226dce71,29989058 double-hummer alignment exceptions,1
+42cb6446,iar 001066ac dear ,54
+92171196,iar 0010639c dear ,16
+57d70950,1358375296 double-hummer alignment exceptions,1
+06d24ec8,iar 00106b98 dear ,13
+9db2368f,machine check enable..............1,7
+c9005ff0,122222598 double-hummer alignment exceptions,1
+5a6f9c17,162322386 double-hummer alignment exceptions,1
+adef1f8c,118500048 double-hummer alignment exceptions,1
+fa45fb50,PrepareForService shutting down       as part of Service Action ,13
+6687c13f,1524480 double-hummer alignment exceptions,38
+307fad2e,program interrupt: fp cr field .............0,103
+3dff13d8,iar 003a9254 dear ,55
+65e52194,260101925 double-hummer alignment exceptions,1
+b167a6a5,769869424 double-hummer alignment exceptions,1
+c6a2b9ba,1 tree receiver  in re-synch state event(s) (dcr  detected,47
+d2282315,iar 00106ba0 dear ,14
+02fef4f1,36738120 double-hummer alignment exceptions,1
+99a6f1e6,iar 00106208 dear ,14
+0aa43594,"10674 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",9
+caaf8693,4160112 floating point alignment exceptions,1
+ab93b59d,716154 floating point alignment exceptions,1
+04755fa8,4 tree receiver  in re-synch state event(s) (dcr  detected,4
+994da01d,"10684 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",37
+c3d1dced,iar  dear 0245b63c,23
+253e76fb,"10718 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",18
+e715c04c,instruction address: 0x0062fe04,25
+de8ab924,iar 001063a8 dear ,6
+ef153b05,509721 floating point alignment exceptions,1
+5d7e7fd7,10 torus receiver x+ input pipe error(s) (dcr 0x02ec) detected and corrected,1
+d2dd497a,128870352 double-hummer alignment exceptions,1
+779ac4a9,"10664 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",9
+d50e7229,iar 001066c4 dear ,66
+72bb3e18,ciod: Error opening node map file  No such file or directory,28
+6ecec483,43115304 double-hummer alignment exceptions,1
+f92232ae,"10782 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",6
+1eb52154,644855760 double-hummer alignment exceptions,1
+fb137dec,116038712 double-hummer alignment exceptions,1
+6b8d16f1,113618088 double-hummer alignment exceptions,1
+5f3aff25,1915806 floating point alignment exceptions,23
+1094cedc,255804163 double-hummer alignment exceptions,1
+7fc94178,iar  dear 0245cd0c,35
+6b6de584,113047184 double-hummer alignment exceptions,1
+ba0dc645,19751034 floating point alignment exceptions,1
+bd26e997,iar 003a9104 dear ,14
+f7f0b401,"10716 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",20
+e639c18d,iar  dear 0245cd1c,12
+f87e7111,iar 00106338 dear ,8
+59b4a47e,38755354 double-hummer alignment exceptions,1
+249d6a18,"10702 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",12
+be38882b,"10759 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+85d8b224,2576000 double-hummer alignment exceptions,54
+3086a3ba,tlb error.........................0,4
+434e5857,"8982 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+b02263d1,148887 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+a716970b,192960 double-hummer alignment exceptions,4
+cc84bfb8,29586680 double-hummer alignment exceptions,1
+75831042,1372790560 double-hummer alignment exceptions,1
+5d6b6eaa,disable apu instruction broadcast........0,30
+730e1f52,745116912 double-hummer alignment exceptions,1
+acf840f1,iar 00106704 dear ,34
+2fcd7626,"10764 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",21
+327acdd7,monitor caught java.lang.IllegalStateException: while executing  Operation caught java.net.SocketException: Broken pipe and is stopping,2
+0399b053,iar 0010685c dear ,20
+4a61a882,130119602 double-hummer alignment exceptions,1
+36c448bf,"10724 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",25
+4fa3d6c0,"10677 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+619cb65f,iar  dear 024696bc,4
+a7bdffa9,259297089 double-hummer alignment exceptions,1
+62c1f374,257651297 double-hummer alignment exceptions,1
+3b13d70e,iar  dear 0245b66c,3
+f51a7f8a,627047136 double-hummer alignment exceptions,1
+f80d9338,32950062 double-hummer alignment exceptions,1
+b847a936,254517753 double-hummer alignment exceptions,1
+137a62f9,255226476 double-hummer alignment exceptions,1
+1e63a6b3,iar 00106680 dear ,4
+996ee40e,28:48000848 29:0000000b 30:0000000e 31:000865b0,2
+64ff5073,"103 ddr error(s) detected and corrected on rank 0, symbol 22 over 8297 seconds",1
+e7a2a1ef,iar  dear 02f5885c,4
+d417d845,2 tree receiver  in re-synch state event(s) (dcr  detected,6
+c18c2a6d,"2 ddr errors(s) detected and corrected on rank 0, symbol  bit ",59
+847978a3,115492264 double-hummer alignment exceptions,1
+34299fa1,4:000008ce 5:ffffffff 6:00000038 7:00086590,29
+ee870063,iar 00106284 dear ,18
+41d47b7f,19 tree receiver  in re-synch state event(s) (dcr  detected,2
+7fcd204d,1358089744 double-hummer alignment exceptions,1
+47e1921c,115343096 double-hummer alignment exceptions,1
+30c1b2ce,iar 00106278 dear ,19
+cc58f55f,8:00000004 9:4e800020 10:3ed4bd98 11:6b26bf88,25
+64e180a6,"749 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",5
+232e3a6b,117195464 double-hummer alignment exceptions,1
+1bb2b97e,iar 003a9274 dear ,35
+fa02290f,"Node card VPD check: missing  node, VPD ecid  in processor card slot ",12
+07c0ce6f,iar  dear 0245b64c,19
+831c2df6,"10622 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",3
+52b19e69,8243200 double-hummer alignment exceptions,6
+d0911d26,program interrupt,49
+cba3d36d,42041880 double-hummer alignment exceptions,1
+59a427f0,117739240 double-hummer alignment exceptions,1
+e10fce40,653612976 double-hummer alignment exceptions,1
+4e7e443f,48255046 double-hummer alignment exceptions,1
+461fff76,642848112 double-hummer alignment exceptions,1
+c958bccb,iar 001067d8 dear ,7
+6f4fbf00,ciod: Error creating node map from file   ,29
+fe7c3b37,"10650 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",25
+c7019584,618560544 double-hummer alignment exceptions,1
+67f950f7,iar  dear 02f692fc,23
+2c4837d9,iar 00106298 dear ,7
+955a6165,iar 00105fcc dear 0244c94c,6
+8bfc2afb,31722162 double-hummer alignment exceptions,1
+f924973d,111267144 double-hummer alignment exceptions,1
+039cdef9,653010432 double-hummer alignment exceptions,1
+18e50a09,117880424 double-hummer alignment exceptions,1
+3b7d134b,iar 00106858 dear ,13
+42df8ce5,625387920 double-hummer alignment exceptions,1
+67892635,508191 floating point alignment exceptions,1
+d8a20724,121 double-hummer alignment exceptions,7
+a80128dd,254402279 double-hummer alignment exceptions,1
+27d0599a,109173952 double-hummer alignment exceptions,1
+20d263be,28439460 double-hummer alignment exceptions,1
+ec39271c,427752 floating point alignment exceptions,1
+511da3a3,"10701 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",3
+b45ec52a,64 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+8475ca3f,15184782 torus sender z+ retransmission error(s) (dcr 0x02f8) detected and corrected over 170 seconds,1
+d83cf502,1325908864 double-hummer alignment exceptions,1
+c29e56b9,771128784 double-hummer alignment exceptions,1
+424ebc12,761871088 double-hummer alignment exceptions,1
+da286309,211200 double-hummer alignment exceptions,8
+5d05eba5,638376 floating point alignment exceptions,1
+0a54ee14,3           over  seconds,10
+3eab913c,4330424 double-hummer alignment exceptions,1
+005f0da1,33835162 double-hummer alignment exceptions,1
+7d1cd554,40995170 double-hummer alignment exceptions,1
+81abef5f,34780614 double-hummer alignment exceptions,1
+e8f5d388,123643126 double-hummer alignment exceptions,1
+895c4928,"10717 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+df8bdcf4,40 floating point alignment exceptions,13
+69cb2e4f,11           over  seconds,3
+a3b283fb,1184994 floating point alignment exceptions,1
+009f31ad,16:00000c00 17:00000001 18:00000000 19:00000000,7
+03d0dcc1,768592384 double-hummer alignment exceptions,1
+bbe0615b,imprecise machine check...........1,2
+a857ae66,16:00000400 17:00000001 18:00000000 19:00000000,9
+2e0195df,iar  dear 0245a09c,15
+dde6f888,"10758 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",15
+f5d34b14,24527679 floating point alignment exceptions,1
+7137b70a,iar 00106358 dear ,12
+f63755a7,fpr12=0xffffffff ffffffff ffffffff ffffffff,1
+362cea35,"10682 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",19
+06f36793,"10706 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",41
+668f8300,"10637 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+df351e17,"10639 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",4
+6614d2b4,56250 floating point alignment exceptions,1
+a16151ee,37584 floating point alignment exceptions,7
+2ef4acb4,ciod: Error loading /p/gb1/light3/sppm_chkpt/sppm: not a CNK program image,11
+6b1eabda,ddr: activating redundant bit steering: rank=0 ,16
+edf03be7,32672335 floating point alignment exceptions,1
+92752e25,"152 ddr error(s) detected and corrected on rank 0, symbol 23 over 16620 seconds",1
+649a51d7,4250400 double-hummer alignment exceptions,2
+9473990a,130145566 double-hummer alignment exceptions,1
+b0735376,1485200 double-hummer alignment exceptions,1
+29f84bc4,255809495 double-hummer alignment exceptions,1
+5630f6ae,143825252 double-hummer alignment exceptions,1
+d9a22795,255604157 double-hummer alignment exceptions,1
+3d09dcc6,"3 ddr errors(s) detected and corrected on rank 0, symbol  bit ",32
+842c0e95,758658032 double-hummer alignment exceptions,1
+3c7fbb4c,24614223 floating point alignment exceptions,1
+71916b1e,640495056 double-hummer alignment exceptions,1
+b775dc67,"3686 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",4
+dd25b663,"18 ddr errors(s) detected and corrected on rank 0, symbol  bit ",2
+165b7dd0,6410229 floating point alignment exceptions,1
+ab1f7a08,612751728 double-hummer alignment exceptions,1
+49cb74fb,199680 double-hummer alignment exceptions,21
+ef417c1f,iar 00106988 dear 02f7bd6c,18
+dcc6e964,28242042 double-hummer alignment exceptions,1
+fad0818b,"10704 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",12
+7d9db406,3446265 floating point alignment exceptions,1
+83e74d40,iar 00105e94 dear ,11
+121a0d00,"10663 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",8
+9708569c,0:000008ce 1:00086000 2:1eeeeeee 3:1feaa770,28
+5166d5bc,629313936 double-hummer alignment exceptions,1
+5998ce12,253455178 double-hummer alignment exceptions,1
+eafa343f,638071728 double-hummer alignment exceptions,1
+b97a9ce9,3 torus receiver  input pipe error(s) (dcr  detected and corrected over  seconds,4
+2eeb9cbe,149801200 double-hummer alignment exceptions,1
+487904ea,754694192 double-hummer alignment exceptions,1
+a4b32146,"2550 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",5
+8425e78e,"10676 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",29
+ce5771f1,115186664 double-hummer alignment exceptions,1
+6b705001,257681068 double-hummer alignment exceptions,1
+7bd50485,2091 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected,1
+d4920dd1,202 double-hummer alignment exceptions,3
+b2ca9236,5047227 floating point alignment exceptions,1
+d2f735ca,428994 floating point alignment exceptions,5
+463a1d11,254159797 double-hummer alignment exceptions,1
+4b1d0004,"While initializing  card iDo machine with LP of  caught java.io.IOException: Could not contact iDo with  and  because java.lang.RuntimeException: Communication error: (DirectIDo for Uninitialized DirectIDo for  is in state = COMMUNICATION_ERROR, sequenceNumberIsOk = false, ExpectedSequenceNumber = 0, Reply Sequence Number = -1, timedOut = true, retries = 200, timeout = 1000, Expected Op Command = 5, Actual Op Reply = -1, Expected Sync Command = 10, Actual Sync Reply = -1)",2
+7e979161,iar 00106a7c dear ,11
+833aac9d,iar 00106848 dear ,10
+fd599e83,8750397 floating point alignment exceptions,1
+ee91a9c1,627394176 double-hummer alignment exceptions,1
+8c153c11,808320 double-hummer alignment exceptions,4
+a807f081,644570352 double-hummer alignment exceptions,1
+b3ca5fa7,32581312 double-hummer alignment exceptions,1
+ec4761a1,iar 00106648 dear ,3
+6e2c3a72,253006437 double-hummer alignment exceptions,1
+61a79cbf,39469456 double-hummer alignment exceptions,1
+5d7a4f3a,iar 001061cc dear 02f6667c,8
+1195fd5a,114 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected,1
+a00520d0,652568592 double-hummer alignment exceptions,1
+449c7582,r20=0x40000000 r21=0x40000000 r22=0xffffd000 r23=0x0ffea5c8,1
+aa635df1,404700 floating point alignment exceptions,1
+0b7d64e7,755788272 double-hummer alignment exceptions,1
+7f314e3c,27 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+c9fc0361,112400496 double-hummer alignment exceptions,1
+2ee80875,616027728 double-hummer alignment exceptions,1
+1ac58683,254333595 double-hummer alignment exceptions,1
+cfd9be1e,363780 double-hummer alignment exceptions,1
+5cd700de,iar 00113898 dear ,32
+8e529456,iar 00105e90 dear ,7
+7a767f93,618615168 double-hummer alignment exceptions,1
+38e02105,367686 floating point alignment exceptions,3
+291fa769,30430942 double-hummer alignment exceptions,1
+a5a3be6a,148709736 double-hummer alignment exceptions,1
+3fd6e0c3,256147040 double-hummer alignment exceptions,1
+9a35b8d8,summary...........................1,5
+98bc1e8e,253440 double-hummer alignment exceptions,7
+1d03a782,1475 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected,1
+d428b32c,760234784 double-hummer alignment exceptions,1
+67fd1f86,"10686 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",5
+b020c20e,630486912 double-hummer alignment exceptions,1
+eb7b06f1,24614205 floating point alignment exceptions,1
+830e34cd,163040588 double-hummer alignment exceptions,1
+c55aafb2,r04=0x00000010 r05=0x00000010 r06=0x000865b0 r07=0x00007d41,2
+eec59f3c,37159652 double-hummer alignment exceptions,1
+b6b06fd8,ciod: Error creating node map from file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-sweep/sweep.map: Device or resource busy,7
+f32770cb,648398640 double-hummer alignment exceptions,1
+c26837f5,740943312 double-hummer alignment exceptions,1
+0975a0ba,32728020 double-hummer alignment exceptions,1
+7fe4e426,"10711 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+1fe9ede9,24594078 floating point alignment exceptions,1
+9a0f5669,112633584 double-hummer alignment exceptions,1
+13c33c60,43075596 double-hummer alignment exceptions,1
+809ee88c,1 L3  error(s) (dcr  detected and corrected over  seconds,5
+662df1b5,rts tree/torus link training failed: wanted: A B C X+ X- Y+ Y- Z+ Z- got: A     Y- Z+ Z-,2
+eb1789cb,28440262 double-hummer alignment exceptions,1
+563ae4bd,data read plb ,6
+fc3bdcb6,113993224 double-hummer alignment exceptions,1
+87846b3b,737107488 double-hummer alignment exceptions,1
+30269c94,133965530 double-hummer alignment exceptions,1
+d7d53bad,133035936 double-hummer alignment exceptions,1
+293babe0,42051846 double-hummer alignment exceptions,1
+96e3d59a,651376224 double-hummer alignment exceptions,1
+66a656b7,626927424 double-hummer alignment exceptions,1
+699cad26,3 tree receiver  in re-synch state event(s) (dcr  detected,10
+7e9c13f2,"14 ddr errors(s) detected and corrected on rank 0, symbol  bit ",3
+55c1ad51,141 double-hummer alignment exceptions,11
+2532bda7,24607074 floating point alignment exceptions,1
+39b81fda,30809404 double-hummer alignment exceptions,1
+eb1cda05,iar  dear 0245a07c,14
+3efe4871,133793404 double-hummer alignment exceptions,1
+29935364,iar 00106578 dear 045e23ac,9
+55a9fa2b,39015462 double-hummer alignment exceptions,1
+907330a8,"10703 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",3
+688615e8,16630434 floating point alignment exceptions,1
+6b54c4be,"error threshold, consider replacing the card",1
+d0d4cb2d,iar 001067c4 dear ,5
+c9fd1ed5,"10770 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",20
+88ee8f86,15210183 floating point alignment exceptions,1
+0fa58293,44679218 floating point alignment exceptions,1
+90b24983,502524 floating point alignment exceptions,6
+ad4b7468,133320 floating point alignment exceptions,1
+2a9b2bcd,23185743 floating point alignment exceptions,1
+5f8d8011,"10655 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",6
+847893dd,40804752 double-hummer alignment exceptions,1
+13c659a9,12:48004844 13:1eeeeeee 14:ffffffff 15:ffffffff,1
+b4f98d32,260853576 double-hummer alignment exceptions,1
+bbff5086,407322 floating point alignment exceptions,1
+9f3a6e60,0x00000000 0x00000000,2
+3370d3a7,132380810 double-hummer alignment exceptions,1
+b87b565d,NodeCard power module  is not accessible,5
+542df027,732124288 double-hummer alignment exceptions,1
+b312478a,39192668 double-hummer alignment exceptions,1
+2379a943,memory manager refresh contention................0,1
+e9ed63e9,762439264 double-hummer alignment exceptions,1
+53bbfd90,"10788 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",3
+5e4c5c80,1362870784 double-hummer alignment exceptions,1
+4ad976c3,249182641 double-hummer alignment exceptions,1
+0cb06164,255057822 double-hummer alignment exceptions,1
+6c17de85,150204976 double-hummer alignment exceptions,1
+213e3b37,iar 00106360 dear 02f67c2c,9
+e3a30670,36153652 double-hummer alignment exceptions,1
+411ee7e2,ciod: Error creating node map from file map.dat: Bad address,1
+efcff96f,117259776 double-hummer alignment exceptions,1
+ca5cd8fc,256896005 double-hummer alignment exceptions,1
+e4e9cd4c,fpr0=0xffffffff ffffffff ffffffff ffffffff,1
+8190c5c6,21037602 torus sender x+ retransmission error(s) (dcr 0x02f4) detected and corrected over 220 seconds,1
+2e37a678,20:00000000 21:1feaa7b0 22:00000000 23:00000000,34
+7bdf9fd9,ciod: Unexpected eof at line 8193 of node map file /p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map,2
+7b53ebb7,machine check summary.............1,2
+3c0c0d61,16:00000000 17:00000001 18:00000000 19:00000000,12
+e53284f6,116 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+62df011d,iar 00106b90 dear ,19
+4609f040,252973439 double-hummer alignment exceptions,1
+fb88b8d3,745322432 double-hummer alignment exceptions,1
+c7f3e6cf,34758822 double-hummer alignment exceptions,1
+079b539d,120129410 double-hummer alignment exceptions,1
+599412cd,112732976 double-hummer alignment exceptions,1
+df7db2d4,147961420 double-hummer alignment exceptions,1
+3246734a,"9008 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+1dc6c1d1,140251518 double-hummer alignment exceptions,1
+22214461,633350016 double-hummer alignment exceptions,1
+0ce654d2,152797756 double-hummer alignment exceptions,1
+17d93c20,2700 torus sender y+ retransmission error(s) (dcr 0x02f6) detected and corrected,1
+30cc5512,ciod: for node  read continuation request but ioState is 0,8
+4e9e1679,"10732 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",17
+3a45395d,258318266 double-hummer alignment exceptions,1
+9e7f5e84,26244768 double-hummer alignment exceptions,1
+ebcf30ae,iar 00106b0c dear ,15
+0fd99f0a,capture valid.........0,1
+4336f0f7,"10630 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",8
+97b67861,46586336 double-hummer alignment exceptions,1
+e9f7aa57,118261584 double-hummer alignment exceptions,1
+d9c4ee5f,14029194 floating point alignment exceptions,1
+b674cfaa,44 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected,1
+d32a9f75,115467024 double-hummer alignment exceptions,1
+582427b4,31071394 double-hummer alignment exceptions,1
+8f5f1d88,36570218 double-hummer alignment exceptions,1
+84f4d957,iar 00105fe4 dear ,8
+e1cfd93d,93750 floating point alignment exceptions,8
+f2872809,29341316 double-hummer alignment exceptions,1
+e45fd1bc,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.,4
+952274a2,882 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+a81f85a8,140609544 double-hummer alignment exceptions,1
+1ed6b1dd,645741072 double-hummer alignment exceptions,1
+342f3614,"684 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+63d973cc,plus zero................................0,2
+55e799f8,127389048 double-hummer alignment exceptions,1
+748de304,"7 ddr errors(s) detected and corrected on rank 0, symbol  bit ",10
+481493e4,iar 001063a0 dear ,10
+e587299e,32402984 double-hummer alignment exceptions,1
+89cfb738,114994128 double-hummer alignment exceptions,1
+f04d01f4,130625706 double-hummer alignment exceptions,1
+f4854082,"5 ddr errors(s) detected and corrected on rank 0, symbol  bit ",11
+316acc23,iar 00106410 dear 0245a0bc,2
+7872f40d,112590448 double-hummer alignment exceptions,1
+a836688f,33192 floating point alignment exceptions,6
+f2e47565,114334584 double-hummer alignment exceptions,1
+44e59384,"10746 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",12
+4a3c2d4f,Temperature Over Limit on link card,13
+ff9084a1,"10666 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",18
+0a609b6b,137303238 double-hummer alignment exceptions,1
+69ac2f0b,iar  dear 024696cc,4
+6adb8a50,"6 ddr errors(s) detected and corrected on rank 0, symbol  bit ",8
+7ac2a271,648568752 double-hummer alignment exceptions,1
+2f479e43,39994004 double-hummer alignment exceptions,1
+897f5703,12277098 floating point alignment exceptions,1
+50fa0b46,1432312624 double-hummer alignment exceptions,1
+893b78fe,111724872 double-hummer alignment exceptions,1
+1736c063,285480 double-hummer alignment exceptions,2
+1e0e2b84,"1212 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+08b2a07e,Missing reverse cable: Cable     -->     is present BUT the reverse cable     -->     is missing,8
+6831156b,18084690 floating point alignment exceptions,1
+dd09cd26,"49 ddr error(s) detected and corrected on rank 0, symbol  over  seconds",2
+f2081bba,116395376 double-hummer alignment exceptions,1
+772c5e73,255759741 double-hummer alignment exceptions,1
+7887d4b2,633568944 double-hummer alignment exceptions,1
+1a8c7c35,enable divide-by-zero exceptions.........0,2
+178a813e,"37 ddr errors(s) detected and corrected on rank 0, symbol 2, bit 4",1
+e734bed4,37290686 double-hummer alignment exceptions,1
+71c93043,36597432 double-hummer alignment exceptions,1
+0201bda7,22292954 double-hummer alignment exceptions,1
+f395f37b,24           over  seconds,3
+0ef89434,"10632 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",7
+1d95e2ea,248 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+8f0e93ef,iar 00106390 dear ,8
+e9aa002b,iar 00106344 dear ,7
+520817dd,114433472 double-hummer alignment exceptions,1
+a0e1db01,115556904 double-hummer alignment exceptions,1
+aa3904d9,134683134 double-hummer alignment exceptions,1
+990a9013,148045370 double-hummer alignment exceptions,1
+879765c9,257014704 double-hummer alignment exceptions,1
+c0e7e809,40181626 double-hummer alignment exceptions,1
+adbafce0,650419104 double-hummer alignment exceptions,1
+4d94e950,258146459 double-hummer alignment exceptions,1
+1665a869,data address: 0x6dc2cb74,1
+43b8b6a3,"10762 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",11
+9b33a6b4,13549050 floating point alignment exceptions,1
+59761a26,137110192 double-hummer alignment exceptions,1
+a86aa048,1317759616 double-hummer alignment exceptions,1
+38a84abc,142064654 double-hummer alignment exceptions,1
+4dc79241,113481904 double-hummer alignment exceptions,1
+c0d551a9,1350798112 double-hummer alignment exceptions,1
+9da62d60,19513903 torus sender z+ retransmission error(s) (dcr 0x02f8) detected and corrected over 207 seconds,1
+2bf78295,42790428 double-hummer alignment exceptions,1
+c609b4ea,113520832 double-hummer alignment exceptions,1
+dff5b730,154111052 double-hummer alignment exceptions,1
+5018f333,23093940 floating point alignment exceptions,1
+bc3df33d,254919674 double-hummer alignment exceptions,1
+06f2ceff,160510490 double-hummer alignment exceptions,1
+96b3f38a,161 double-hummer alignment exceptions,4
+b1b77766,59489240 floating point alignment exceptions,1
+90670cdb,768430896 double-hummer alignment exceptions,1
+ead859d4,113829416 double-hummer alignment exceptions,1
+7adc92bf,1   error(s) (dcr  detected and corrected,11
+566d422a,38555184 double-hummer alignment exceptions,1
+952cda93,iar 00105ea4 dear ,7
+b1136228,iar 00106ad4 dear ,3
+5a8f3c65,20 torus receiver z- input pipe error(s) (dcr 0x02f1) detected and corrected,1
+28e0ccb9,39413344 double-hummer alignment exceptions,1
+b54e315e,EndServiceAction is restarting the  in midplane  as part of Service Action ,7
+647c2ad8,"720 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+340aaf66,114951016 double-hummer alignment exceptions,1
+2ff8ffc3,115064616 double-hummer alignment exceptions,1
+14b9890e,118949912 double-hummer alignment exceptions,1
+4072bae1,113704576 double-hummer alignment exceptions,1
+3426ca9c,623545632 double-hummer alignment exceptions,1
+3e77eeb1,"129 ddr error(s) detected and corrected on rank 0, symbol 25 over 32486 seconds",1
+de842d34,1358239120 double-hummer alignment exceptions,1
+1b428b91,iar 001066fc dear ,4
+d8f0f7f8,1496 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+43af6124,"10768 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",7
+a33e80d7,632658480 double-hummer alignment exceptions,1
+bfad663e,19 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+dcaac72a,L3 ecc control register: 00000000,1
+57b98f96,256504158 double-hummer alignment exceptions,1
+ad9534fd,635035200 double-hummer alignment exceptions,1
+5d44db69,instruction address: 0x002ce24c,1
+57bee6dc,1391543392 double-hummer alignment exceptions,1
+f68aea4c,37415952 double-hummer alignment exceptions,1
+833f24dd,110314920 double-hummer alignment exceptions,1
+0f84bcf6,36733570 double-hummer alignment exceptions,1
+dcd90964,1667166 floating point alignment exceptions,14
+80fc438e,4904997 floating point alignment exceptions,1
+ba608bd7,1326971344 double-hummer alignment exceptions,1
+40a29265,43322498 double-hummer alignment exceptions,1
+baa0fb2f,182 double-hummer alignment exceptions,10
+7f7a426e,"10628 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+07ef8d2f,iar 00106348 dear ,7
+ee521adb,31768146 double-hummer alignment exceptions,1
+89b8e3a2,MailboxMonitor::serviceMailboxes() lib_ido_error: -1019 socket closed,2
+5ae7ed2c,258729700 double-hummer alignment exceptions,1
+10ac5416,29348516 double-hummer alignment exceptions,1
+5ab7dccf,27010678 double-hummer alignment exceptions,1
+2cfa367f,621680832 double-hummer alignment exceptions,1
+7dcf9efe,254737466 double-hummer alignment exceptions,1
+99d09408,33181774 double-hummer alignment exceptions,1
+a93a3b58,1383691888 double-hummer alignment exceptions,1
+3f017cd0,256375243 double-hummer alignment exceptions,1
+c0989288,38558972 double-hummer alignment exceptions,1
+d91c8737,189477 floating point alignment exceptions,1
+0e3f8cfc,36013086 double-hummer alignment exceptions,1
+949be389,189591 floating point alignment exceptions,1
+228396d8,258153869 double-hummer alignment exceptions,1
+ebfcc476,259349067 double-hummer alignment exceptions,1
+f920f782,4           over  seconds,8
+bf1bc93c,133046484 double-hummer alignment exceptions,1
+b190e6b8,255013984 double-hummer alignment exceptions,1
+95173bc9,capture first   error address..0,3
+76c191b3,113101576 double-hummer alignment exceptions,1
+5a45c18d,139412686 double-hummer alignment exceptions,1
+58caa406,"58 ddr error(s) detected and corrected on rank 0, symbol 29 over 2486 seconds",1
+4f2ed601,115526400 double-hummer alignment exceptions,1
+97c7fa7a,639772128 double-hummer alignment exceptions,1
+0db62c3e,iar 00106ab8 dear ,14
+2fe5360f,2416397 torus sender x- retransmission error(s) (dcr 0x02f5) detected and corrected over 61 seconds,1
+a6239925,110840080 double-hummer alignment exceptions,1
+19bb1a49,iar 001069d8 dear ,9
+93c0bcdf,95264208 floating point alignment exceptions,1
+15967c68,115680456 double-hummer alignment exceptions,1
+64c9a9f7,112108848 double-hummer alignment exceptions,1
+50ae5e75,255881192 double-hummer alignment exceptions,1
+2cc01f64,"10760 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",14
+7a437c40,8 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+60e234c6,"696 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+591eb4b6,1362341632 double-hummer alignment exceptions,1
+895dc8f3,27104264 double-hummer alignment exceptions,1
+ec3abeca,742595360 double-hummer alignment exceptions,1
+a7c1bc71,116827080 double-hummer alignment exceptions,1
+dc4206a6,648070176 double-hummer alignment exceptions,1
+f5b9ce80,257163597 double-hummer alignment exceptions,1
+adbf7a14,"8 ddr errors(s) detected and corrected on rank 0, symbol  bit ",6
+40404e55,768933440 double-hummer alignment exceptions,1
+aa3cd923,"10606 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",5
+a87ff679,4,3
+f519ea4c,1360478704 double-hummer alignment exceptions,1
+0fe32156,"MidplaneSwitchController::receiveTrain() iap failed: R63-M0-L2-U21-A, status=ffbffbff ec000000",2
+23e0a4c6,259448876 double-hummer alignment exceptions,1
+cd1e5ab2,253823862 double-hummer alignment exceptions,1
+c90fe302,2828121 floating point alignment exceptions,4
+b6c26bed,260323375 double-hummer alignment exceptions,1
+d1985434,260 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected,1
+42aa1cb3,133932694 double-hummer alignment exceptions,1
+8f5b40a1,iar 001066b4 dear ,6
+b880c13f,524520 double-hummer alignment exceptions,3
+4f027998,"27 ddr errors(s) detected and corrected on rank 0, symbol  bit ",2
+a2c9bcb3,120371290 double-hummer alignment exceptions,1
+a8d4e009,41350028 double-hummer alignment exceptions,1
+7839355b,258573325 double-hummer alignment exceptions,1
+f5f4cb88,259814336 double-hummer alignment exceptions,1
+cab333a5,762956928 double-hummer alignment exceptions,1
+db19d5b0,145368498 double-hummer alignment exceptions,1
+2d4c3da8,116079056 double-hummer alignment exceptions,1
+3c4c4729,785280 double-hummer alignment exceptions,3
+7802f15f,20:00000009 21:ffffffff 22:00000008 ,3
+754aff99,615456 floating point alignment exceptions,1
+b65de895,140237392 double-hummer alignment exceptions,1
+13970aa5,33905546 double-hummer alignment exceptions,1
+5f7ad282,ddr: activating redundant bit steering for next allocation: rank=0 ,8
+41aea7fd,259049137 double-hummer alignment exceptions,1
+9fda55c4,iar  dear 0246a95c,6
+b3d0ee2a,113652712 double-hummer alignment exceptions,1
+e937bb6e,254429063 double-hummer alignment exceptions,1
+51c44932,40377712 double-hummer alignment exceptions,1
+ffd6eede,773300448 double-hummer alignment exceptions,1
+eea83762,621658128 double-hummer alignment exceptions,1
+20269bf3,39001722 double-hummer alignment exceptions,1
+67e06fb7,31930476 double-hummer alignment exceptions,1
+cb119b61,24654387 floating point alignment exceptions,1
+8bc7c0aa,20           over  seconds,2
+ad0fa33c,"17 ddr errors(s) detected and corrected on rank 0, symbol  bit ",4
+f39c936d,2732007 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+aea091f9,"10725 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+6931a3b1,115888656 double-hummer alignment exceptions,1
+008ba28b,136467376 double-hummer alignment exceptions,1
+8acdc7a4,iar 001061c4 dear 02f75cbc,2
+da972331,115487880 double-hummer alignment exceptions,1
+9af9a701,iar 00106a98 dear ,6
+c6d397c0,32080426 double-hummer alignment exceptions,1
+928872b3,24567249 floating point alignment exceptions,1
+27c166a6,1315337824 double-hummer alignment exceptions,1
+b6310787,37218222 double-hummer alignment exceptions,1
+e91c3a96,256651532 double-hummer alignment exceptions,1
+855c9085,24589650 floating point alignment exceptions,1
+ce34fbfa,5580132 floating point alignment exceptions,1
+9d534808,no ethernet link,1
+78f2ddab,43718244 double-hummer alignment exceptions,1
+ae7b9511,iar 003a9280 dear ,13
+fced8874,115814192 double-hummer alignment exceptions,1
+85bd6088,1389204688 double-hummer alignment exceptions,1
+204345ef,113150320 double-hummer alignment exceptions,1
+f285bef8,ciod: In packet from node   message code 2 is not 3 or 4294967295  00030000 00000001 00000000),4
+f4802ef4,15455850 floating point alignment exceptions,1
+85c95988,253601091 double-hummer alignment exceptions,1
+d9b4cf5a,Hardware monitor caught java.net.SocketException: Broken pipe and is stopping,2
+80b09f3b,117496216 double-hummer alignment exceptions,1
+7ddc0e3b,"695 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+7aaed5ac,145020518 double-hummer alignment exceptions,1
+447c4833,24595857 floating point alignment exceptions,2
+1df1bdf1,32426872 double-hummer alignment exceptions,1
+e88ba526,37051236 double-hummer alignment exceptions,1
+a11d7c5f,254449296 double-hummer alignment exceptions,1
+80e21315,111623736 double-hummer alignment exceptions,1
+9b6321ea,"700 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+b5c5f33c,24607041 floating point alignment exceptions,1
+43be2c7b,"1968 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+2f30f63d,"10778 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+2357b3e0,636793488 double-hummer alignment exceptions,1
+b2532985,5256717 floating point alignment exceptions,1
+de4dc79b,40323120 double-hummer alignment exceptions,1
+697a16ce,rts internal error,26
+9670288d,iar 00106088 dear 0244c97c,2
+81d2d6be,iar 00106378 dear 02f76f5c,1
+0c655413,644699808 double-hummer alignment exceptions,1
+13202e50,38613150 double-hummer alignment exceptions,1
+cc686e5c,25283552 double-hummer alignment exceptions,1
+5fe3481b,772766384 double-hummer alignment exceptions,1
+8fe5e0ce,34521160 double-hummer alignment exceptions,1
+1bfb4a87,3 torus receiver  input pipe error(s) (dcr  detected and corrected,3
+d7241304,114628512 double-hummer alignment exceptions,1
+dd783039,634613184 double-hummer alignment exceptions,1
+e1b86e21,38078926 double-hummer alignment exceptions,1
+ed0e12e6,112767008 double-hummer alignment exceptions,1
+a849ec0b,i-cache parity error..............0,6
+4788f7ae,113523496 double-hummer alignment exceptions,1
+46d836b1,37617038 double-hummer alignment exceptions,1
+95d5d1c3,"585 ddr error(s) detected and corrected on rank 0, symbol 14 over 1312 seconds",1
+896195a4,162 double-hummer alignment exceptions,6
+171625ff,1307861920 double-hummer alignment exceptions,1
+5e68b00e,654680160 double-hummer alignment exceptions,1
+31503235,16458774 floating point alignment exceptions,1
+f157ce28,33795324 double-hummer alignment exceptions,1
+be79daba,254352459 double-hummer alignment exceptions,1
+99e5e903,114652664 double-hummer alignment exceptions,1
+a837286a,254817253 double-hummer alignment exceptions,1
+6aaacd12,30248638 double-hummer alignment exceptions,1
+13a4ee40,iar  dear 0246f78c,18
+6225e5bb,23691054 floating point alignment exceptions,1
+1d2b037d,257516845 double-hummer alignment exceptions,1
+07afd71e,114441784 double-hummer alignment exceptions,1
+4e392f7e,"10661 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+c2c25e7c,114687 floating point alignment exceptions,1
+c98654f7,2201500 double-hummer alignment exceptions,20
+174ef029,16794594 floating point alignment exceptions,1
+c4f2402c,iar 00106340 dear ,2
+533cafc2,45846 floating point alignment exceptions,8
+788a50d4,16520724 floating point alignment exceptions,1
+78d664bb,122 double-hummer alignment exceptions,2
+3d3010ab,"10669 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+6962fea0,35607688 double-hummer alignment exceptions,1
+d8bd47cf,"ciod: Error loading -mode VN: invalid or missing program image, No such file or directory",15
+bd3e21f7,7 tree receiver  in re-synch state event(s) (dcr  detected,3
+81b86831,iar 00106a60 dear 0245cd2c,2
+40f05812,646524816 double-hummer alignment exceptions,1
+66d24549,151660360 double-hummer alignment exceptions,1
+2f0145fb,"19 ddr error(s) detected and corrected on rank 0, symbol 14 over 3239 seconds",1
+d032ca35,1363692208 double-hummer alignment exceptions,1
+88618531,iar 00106654 dear ,4
+6142e461,38184206 double-hummer alignment exceptions,1
+ff22f482,121559070 double-hummer alignment exceptions,1
+ae59bc1f,38599568 double-hummer alignment exceptions,1
+360b667b,257654272 double-hummer alignment exceptions,1
+f50de301,NodeCard is not fully functional,1
+e816aba0,39640804 double-hummer alignment exceptions,1
+4ca6d0d1,253965322 double-hummer alignment exceptions,1
+ef70ae8f,388242 floating point alignment exceptions,2
+717beee8,d-cache flush parity ,3
+92c20291,255604114 double-hummer alignment exceptions,1
+47a6a62a,153606 floating point alignment exceptions,1
+8cd2b8aa,Power deactivated: R03-M1-N6,1
+72d507ff,137881170 double-hummer alignment exceptions,1
+67d8c3dc,134932508 double-hummer alignment exceptions,1
+c7f45d95,BGLMaster has been started: ./BGLMaster --consoleip 127.0.0.1 --consoleport 32035 --configfile bglmaster.init --autorestart y,3
+7c2291b7,768104256 double-hummer alignment exceptions,1
+461600a8,117673496 double-hummer alignment exceptions,1
+31f7542a,iar 00106714 dear ,5
+06fd1d29,645115344 double-hummer alignment exceptions,1
+cd9f6c95,32246312 double-hummer alignment exceptions,1
+899686fe,rts: bad message header: cpu  invalid      PSR1=00000000  PIXF=00000007,6
+8d17721f,iar 001061f4 dear ,5
+35746264,quiet NaN................................0,1
+95cc9904,37500 floating point alignment exceptions,2
+d4acc5f4,151538218 double-hummer alignment exceptions,1
+23d98e95,fpr15=0xffffffff ffffffff ea74c555 3f842d62,1
+81764428,command manager unit summary.....................0,1
+c90e6c83,33913090 double-hummer alignment exceptions,1
+39cf9be8,602456928 double-hummer alignment exceptions,1
+546890d5,39391502 double-hummer alignment exceptions,1
+d640e868,640061472 double-hummer alignment exceptions,1
+2ebe6dba,117447016 double-hummer alignment exceptions,1
+dd668612,115553200 double-hummer alignment exceptions,1
+3bd95a76,144077072 double-hummer alignment exceptions,1
+66ba613d,33771062 double-hummer alignment exceptions,1
+fa9d0a23,"10636 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",13
+366ca478,142833930 double-hummer alignment exceptions,1
+d1acde5b,111502816 double-hummer alignment exceptions,1
+5fc87b75,113448456 double-hummer alignment exceptions,1
+8e7d9a0b,255528736 double-hummer alignment exceptions,1
+5f2f11f9,"10600 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+74010e0c,5060001 floating point alignment exceptions,1
+e23cec81,34069150 double-hummer alignment exceptions,1
+ac3c09d2,39887808 double-hummer alignment exceptions,1
+b4ae13e3,112821496 double-hummer alignment exceptions,1
+1a644aca,38190984 double-hummer alignment exceptions,1
+30e4f33b,1392159616 double-hummer alignment exceptions,1
+5ec521fc,iar 001061ec dear 02f6668c,9
+60dfec8c,iar 00106a80 dear ,3
+6b9d6475,"10653 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+65529f03,27955437 floating point alignment exceptions,1
+deb344bd,164531430 double-hummer alignment exceptions,1
+280a102c,1351262320 double-hummer alignment exceptions,1
+4dd7cc11,32327998 double-hummer alignment exceptions,1
+5f019c92,112620696 double-hummer alignment exceptions,1
+19aa83a5,4985013 floating point alignment exceptions,1
+a0c0aae1,plus normalized number...................0,1
+44d41983,637874784 double-hummer alignment exceptions,1
+4455ddd4,30721638 double-hummer alignment exceptions,1
+7beca056,idoproxydb has been started: $Name:  $ Input parameters: -enableflush -loguserinfo db.properties BlueGene1,2
+06d24921,139213314 double-hummer alignment exceptions,1
+3284ec0d,45562200 double-hummer alignment exceptions,1
+39e43fa9,12277095 floating point alignment exceptions,1
+181c7f53,12277092 floating point alignment exceptions,1
+7a2b3f35,252209893 double-hummer alignment exceptions,1
+5e06f171,33523959 floating point alignment exceptions,1
+7206f6a6,256095403 double-hummer alignment exceptions,1
+f02bc2d6,39856318 double-hummer alignment exceptions,1
+96527b4b,254572231 double-hummer alignment exceptions,1
+17d508f7,58362 floating point alignment exceptions,1
+da162326,1400289328 double-hummer alignment exceptions,1
+397a4900,138196720 double-hummer alignment exceptions,1
+44249236,30550972 double-hummer alignment exceptions,1
+deddf96c,257651128 double-hummer alignment exceptions,1
+32e7b6fd,749227888 double-hummer alignment exceptions,1
+0305ccde,"10589 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+f91a56d6,897420 double-hummer alignment exceptions,1
+b15d3cdb,"10691 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+73fd46e1,23468048 double-hummer alignment exceptions,1
+b0b67ea2,6 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected,3
+0c4a4692,110467160 double-hummer alignment exceptions,1
+bb4fde1a,256160197 double-hummer alignment exceptions,1
+9e641eb8,629247024 double-hummer alignment exceptions,1
+ad6cd352,256722627 double-hummer alignment exceptions,1
+83a62137,761718576 double-hummer alignment exceptions,1
+2173d547,1339662688 double-hummer alignment exceptions,1
+c9c71696,250444006 double-hummer alignment exceptions,1
+55912874,12535650 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 1645 seconds,1
+8f42311c,256433216 double-hummer alignment exceptions,1
+dd909324,115955648 double-hummer alignment exceptions,1
+067808ef,27           over  seconds,2
+42b19c38,4178544 floating point alignment exceptions,1
+8233f83d,37415522 double-hummer alignment exceptions,1
+f85a79bc,259734128 double-hummer alignment exceptions,1
+3c4d03f1,BGLMaster has been started: ./BGLMaster --consoleip 127.0.0.1 --consoleport 32035 --configfile bglmaster.init,1
+8450e846,37763224 double-hummer alignment exceptions,1
+5ab35bed,iar  dear 0244c95c,6
+20d1fd32,12277101 floating point alignment exceptions,1
+034a20b2,16245312 floating point alignment exceptions,1
+22915be6,782725680 double-hummer alignment exceptions,1
+a5ef6425,115857560 double-hummer alignment exceptions,1
+139c8e26,258585348 double-hummer alignment exceptions,1
+c905fdf9,24263228 double-hummer alignment exceptions,1
+98562ecb,35092214 double-hummer alignment exceptions,1
+8d8e9fc4,116880544 double-hummer alignment exceptions,1
+8ca56870,"10648 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",6
+1b69a11a,4177380 floating point alignment exceptions,1
+ae27ae93,"ddr: Unable to steer rank=0,  - rank is already steering symbol 255. Due to multiple symbols being over the correctable error threshold, consider replacing the card",2
+254b0a94,151725170 double-hummer alignment exceptions,1
+9be6eaac,24592377 floating point alignment exceptions,1
+de421dfd,95155065 floating point alignment exceptions,1
+55bcc634,symbol................0,1
+e655d09e,255697717 double-hummer alignment exceptions,1
+4f6b39b9,123836232 double-hummer alignment exceptions,1
+9b3d5c0e,255503102 double-hummer alignment exceptions,1
+977589be,"10647 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+fe2e7abb,34948076 double-hummer alignment exceptions,1
+f4a0bf77,number of correctable errors detected in L3 ,3
+f81f29cf,762919344 double-hummer alignment exceptions,1
+053a3f1a,606618672 double-hummer alignment exceptions,1
+97262a5d,258925360 double-hummer alignment exceptions,1
+28fd1812,33239158 double-hummer alignment exceptions,1
+4e500216,iar 00106724 dear ,2
+424b6615,"10631 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+19fc1675,114860520 double-hummer alignment exceptions,1
+3b6bf57e,24571017 floating point alignment exceptions,1
+d67aac56,737867424 double-hummer alignment exceptions,1
+8d722213,201 double-hummer alignment exceptions,2
+05370288,627945456 double-hummer alignment exceptions,1
+b30ffc48,iar 00106288 dear ,21
+9de23af2,259941801 double-hummer alignment exceptions,1
+d3f818fc,255147944 double-hummer alignment exceptions,1
+05b6053b,43665360 double-hummer alignment exceptions,1
+42adad87,255415153 double-hummer alignment exceptions,1
+9fe3c735,113895888 double-hummer alignment exceptions,1
+277e4e47,30022770 double-hummer alignment exceptions,1
+83562632,38637096 double-hummer alignment exceptions,1
+c62525c6,33141360 double-hummer alignment exceptions,1
+8fccb548,17           over  seconds,2
+6d485f6e,24:0037d1e0 25:0000000e 26:000865b0 27:00089ae0,1
+71644c75,130351916 double-hummer alignment exceptions,1
+74ee66fa,115917000 double-hummer alignment exceptions,1
+153c01cd,iar  dear 0245ccec,20
+54eb0653,10           over  seconds,2
+db1e3490,31948378 double-hummer alignment exceptions,1
+d0fd068e,39570686 double-hummer alignment exceptions,1
+4ba23e25,254721581 double-hummer alignment exceptions,1
+a4ce2d27,257528243 double-hummer alignment exceptions,1
+62d7f5d0,"61 ddr error(s) detected and corrected on rank 0, symbol 27 over 1216 seconds",1
+58e3fbf2,637530 floating point alignment exceptions,1
+f6f44eb5,621692784 double-hummer alignment exceptions,1
+f4d738fb,258592671 double-hummer alignment exceptions,1
+9127ed81,29856874 double-hummer alignment exceptions,1
+8e669a43,146835624 double-hummer alignment exceptions,1
+93f98d09,255070387 double-hummer alignment exceptions,1
+74d1e54d,33322254 double-hummer alignment exceptions,1
+2af67533,133482316 double-hummer alignment exceptions,1
+c7494341,45842242 double-hummer alignment exceptions,1
+c79185df,1374937216 double-hummer alignment exceptions,1
+adc31974,123299122 double-hummer alignment exceptions,1
+bb220063,748758272 double-hummer alignment exceptions,1
+237480df,114436608 double-hummer alignment exceptions,1
+46381b34,114714128 double-hummer alignment exceptions,1
+dfa10890,138447086 double-hummer alignment exceptions,1
+1db73cd2,114047152 double-hummer alignment exceptions,1
+cad2dbb9,msr=0x0002f900 dear=0x00000000 esr=0x00000000 fpscr=0xa2264000,1
+4bc982b3,17498817 floating point alignment exceptions,1
+45386542,1351528048 double-hummer alignment exceptions,1
+4172b44c,125097546 double-hummer alignment exceptions,1
+b2197761,94998450 floating point alignment exceptions,1
+5cfbd451,memory manager address error.....................0,1
+795e6f52,118759696 double-hummer alignment exceptions,1
+45ca6884,fpr30=0xffffffff ffffffff 00000000 3fe00000,1
+9dd5a5c3,mmcs_server exited abnormally due to signal: Aborted,2
+a563e441,Bad cable going into LinkCard  Jtag  Port (C) - 19 bad wires,2
+285f8b87,115716592 double-hummer alignment exceptions,1
+f04cd94c,732191808 double-hummer alignment exceptions,1
+cebfaf49,116052592 double-hummer alignment exceptions,1
+cd36149b,12277125 floating point alignment exceptions,3
+cb8eb651,23857383 floating point alignment exceptions,1
+4086a3a2,162348 floating point alignment exceptions,1
+d5e3de0c,634451520 double-hummer alignment exceptions,1
+164f26c6,636918 floating point alignment exceptions,1
+26d94c94,"59 ddr error(s) detected and corrected on rank 0, symbol 26 over 10029 seconds",1
+decc524b,43074 floating point alignment exceptions,1
+dfc8d3be,114973112 double-hummer alignment exceptions,1
+11349fce,iar 00106644 dear 0248ba8c,1
+476b4b2e,111782816 double-hummer alignment exceptions,1
+1a39649b,iar  dear 0246a96c,8
+a56cfe73,754927872 double-hummer alignment exceptions,1
+ca3d3dee,fpr12=0x10055974 7ffff950 30019020 1000d0e4,1
+5d541b5f,1412738704 double-hummer alignment exceptions,1
+14ad202c,Running as background command,1
+5ec48fbe,257903871 double-hummer alignment exceptions,1
+b8045c78,fpr26=0xffffffff ffffffff ffffffff ffffffff,1
+f5ab8fb2,256164761 double-hummer alignment exceptions,1
+48798a5d,"10790 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",5
+552c240b,41596700 double-hummer alignment exceptions,1
+522cf0ee,4143276 floating point alignment exceptions,1
+fe51acd5,24571059 floating point alignment exceptions,1
+009f9612,116387712 double-hummer alignment exceptions,1
+1b4c5ca0,613472304 double-hummer alignment exceptions,1
+91e95e1c,18248037 floating point alignment exceptions,1
+1dea8d08,342567 floating point alignment exceptions,1
+cd38032b,1358614432 double-hummer alignment exceptions,1
+a727585e,"1111 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",5
+99d9f8f6,35410314 double-hummer alignment exceptions,1
+aa8db90a,260961433 double-hummer alignment exceptions,1
+f88e37b8,257705553 double-hummer alignment exceptions,1
+f20c85bb,804368208 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+137c4ace,256026886 double-hummer alignment exceptions,1
+3068bf97,33897652 double-hummer alignment exceptions,1
+f00ae928,1333329232 double-hummer alignment exceptions,1
+40147157,112347928 double-hummer alignment exceptions,1
+fec50de8,257150100 double-hummer alignment exceptions,1
+48bdc532,111843856 double-hummer alignment exceptions,1
+a22f179a,117513712 double-hummer alignment exceptions,1
+c619aa16,1363786240 double-hummer alignment exceptions,1
+4b6a0395,112036922 double-hummer alignment exceptions,1
+82fcf28a,10 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+1ff92825,257468808 double-hummer alignment exceptions,1
+a7b09f5a,PrepareForService is being done on this part     mType(4)) by ,4
+56051d3c,14033430 floating point alignment exceptions,1
+5592e911,iar 0010638c dear ,5
+f1fe3d07,148619860 double-hummer alignment exceptions,1
+b88cf91e,35104580 double-hummer alignment exceptions,1
+5ba69ae5,CHECK_INITIAL_GLOBAL_INTERRUPT_VALUES,3
+e656d5bf,24149104 double-hummer alignment exceptions,1
+4303bec3,"719 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+7debbc77,150426550 double-hummer alignment exceptions,1
+3134313c,116985632 double-hummer alignment exceptions,1
+ad3ac928,iar 001061e4 dear 02f75ccc,1
+b9ca8c07,113283448 double-hummer alignment exceptions,1
+63eebb53,256784112 double-hummer alignment exceptions,1
+e9b9b2cc,159087324 double-hummer alignment exceptions,1
+5a8a7f3d,31269578 double-hummer alignment exceptions,1
+f53ad172,42982126 double-hummer alignment exceptions,1
+a0fcdf05,job  timed out. Block freed.,4
+a06ac08d,639120 floating point alignment exceptions,1
+e381ab3d,625802160 double-hummer alignment exceptions,1
+d6e4617b,36036724 double-hummer alignment exceptions,1
+25dea61c,143558396 double-hummer alignment exceptions,1
+0b3302d6,"10680 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",11
+042b072a,35372072 double-hummer alignment exceptions,1
+961353fa,259506819 double-hummer alignment exceptions,1
+7fa5c2dd,"8 ddr error(s) detected and corrected on rank 0, symbol 13 over 2963 seconds",1
+7eac60cd,770852752 double-hummer alignment exceptions,1
+b634252a,38074110 double-hummer alignment exceptions,1
+de00af39,419680 double-hummer alignment exceptions,1
+53ce0663,8:00088880 9:00000400 10:c000b6a0 11:c0018000,1
+101cc25b,115605320 double-hummer alignment exceptions,1
+023fc3c5,19223508 floating point alignment exceptions,1
+156b5340,132129234 double-hummer alignment exceptions,1
+b4050e1b,15963819 floating point alignment exceptions,1
+a62a069b,39648978 double-hummer alignment exceptions,1
+e5d64c09,fpr23=0xffffffff ffffffff 00000000 3fe00000,1
+69edc10d,1161819 floating point alignment exceptions,1
+c7f3f094,753616944 double-hummer alignment exceptions,1
+3cf7ebb8,44643930 double-hummer alignment exceptions,1
+a7d8cb9b,"While initializing service card iDo with LP of FF:F2:9F:15:1F:2C:00:0D:60:EA:E0:D3 caught java.io.IOException: Could not contact iDo with LP=FF:F2:9F:15:1F:2C:00:0D:60:EA:E0:D3 and IP=/10.1.0.119 because java.lang.RuntimeException: Communication error: (DirectIDo for Uninitialized DirectIDo for FF:F2:9F:15:1F:2C:00:0D:60:EA:E0:D3@/10.1.0.119:0 is in state = COMMUNICATION_ERROR, sequenceNumberIsOk = false, ExpectedSequenceNumber = 0, Reply Sequence Number = -1, timedOut = true, retries = 200, timeout = 1000, Expected Op Command = 5, Actual Op Reply = -1, Expected Sync Command = 10, Actual Sync Reply = -1)",1
+68d1991d,32081690 double-hummer alignment exceptions,1
+06a13402,shutdown complete,2
+c3c53ab6,1426104448 double-hummer alignment exceptions,1
+53658153,111409752 double-hummer alignment exceptions,1
+1a821076,2   error(s) (dcr  detected and corrected,6
+076df601,fpr10=0xffffffff ffffffff ffffffff ffffffff,1
+0daee5f3,iar 001067c8 dear ,4
+34e94263,1162647 floating point alignment exceptions,1
+0e22b7c8,114969720 double-hummer alignment exceptions,1
+30370d03,136608974 double-hummer alignment exceptions,1
+53106bb3,5 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+6b827cc7,120001232 double-hummer alignment exceptions,1
+06524257,145326696 double-hummer alignment exceptions,1
+c9e62735,1337004688 double-hummer alignment exceptions,1
+f0dc3598,iar 00106a2c dear ,3
+81ea2f86,256107810 double-hummer alignment exceptions,1
+eaa458f4,134206222 double-hummer alignment exceptions,1
+7ee596c3,24594093 floating point alignment exceptions,1
+c1d2a9e2,41010526 double-hummer alignment exceptions,1
+c86927bb,16729947 floating point alignment exceptions,1
+89512e5b,19181796 floating point alignment exceptions,1
+a7437330,Power deactivated: R05-M0-N9,1
+b679e7b3,mmcs_server exited abnormally due to signal: Segmentation fault,1
+5cd97df7,1374127696 double-hummer alignment exceptions,1
+2b24c9a8,628852560 double-hummer alignment exceptions,1
+8af2c5e5,125577720 double-hummer alignment exceptions,1
+d40b1bb9,111471352 double-hummer alignment exceptions,1
+306bdf15,258437063 double-hummer alignment exceptions,1
+82a00880,24782848 double-hummer alignment exceptions,1
+75041f70,155281424 double-hummer alignment exceptions,1
+4ceeeed4,32039216 double-hummer alignment exceptions,1
+7b1997c5,162385674 double-hummer alignment exceptions,1
+7fc9c92a,4171758 floating point alignment exceptions,1
+91ea5b15,750055744 double-hummer alignment exceptions,1
+bab375ad,259569016 double-hummer alignment exceptions,1
+c6a9a51d,"19 ddr errors(s) detected and corrected on rank 0, symbol 12, bit 6",1
+d0b2ecf2,36960878 double-hummer alignment exceptions,1
+13ac12e4,110117184 double-hummer alignment exceptions,1
+1a12cb5f,r16=0x00000011 r17=0x0066fa50 r18=0x00657450 r19=0x0352b8d0,1
+13d814bd,114092072 double-hummer alignment exceptions,1
+d6da263a,5011596 floating point alignment exceptions,1
+41de76fd,254639127 double-hummer alignment exceptions,1
+72555bd5,25270956 double-hummer alignment exceptions,1
+1da2e0e5,34557898 double-hummer alignment exceptions,1
+e0e5fd7b,256872751 double-hummer alignment exceptions,1
+c3c19c9c,746898080 double-hummer alignment exceptions,1
+fec8a7c7,5 torus receiver  input pipe error(s) (dcr  detected and corrected over  seconds,2
+3ca5f5f7,115693560 double-hummer alignment exceptions,1
+02286ff7,2827767 floating point alignment exceptions,5
+b87b4d77,memory manager strobe gate.......................0,2
+ba952798,iar 00106d44 dear ,5
+95a3c510,135613548 double-hummer alignment exceptions,1
+61f06034,631568880 double-hummer alignment exceptions,1
+bb172a06,130461114 double-hummer alignment exceptions,1
+c39c5714,650151168 double-hummer alignment exceptions,1
+9b42b17b,729191104 double-hummer alignment exceptions,1
+69be13ee,37772642 double-hummer alignment exceptions,1
+4895c564,118342088 double-hummer alignment exceptions,1
+8b3ed18e,873 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected,1
+5d739d53,Power deactivated: R05-M0-N6,1
+59979313,260347069 double-hummer alignment exceptions,1
+fe11fc76,imprecise machine check...........0,1
+8b2aeb3e,113924328 double-hummer alignment exceptions,1
+6cacfec3,255556046 double-hummer alignment exceptions,1
+9b78e74d,44425738 double-hummer alignment exceptions,1
+8e4d9631,24595845 floating point alignment exceptions,1
+d4588d1d,89 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected over 4984 seconds,1
+cf9884be,256832210 double-hummer alignment exceptions,1
+e25b7626,"9009 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+b437148e,"10697 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+98f20a4a,132162276 double-hummer alignment exceptions,1
+68b149e2,112700504 double-hummer alignment exceptions,1
+cf35c2b9,"1352 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",3
+a8f5b2de,112735212 double-hummer alignment exceptions,1
+0e4e8ef1,39441586 double-hummer alignment exceptions,1
+2afee1b8,115240856 double-hummer alignment exceptions,1
+7f5cb608,115827320 double-hummer alignment exceptions,1
+1329b15f,2667384 floating point alignment exceptions,1
+31289015,r04=0x095c5188 r05=0x00000010 r06=0x095c4e78 r07=0x0ffe66e8,1
+ce8cd4dd,5           over  seconds,8
+8eb89db9,"10672 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",4
+679d16eb,121767604 double-hummer alignment exceptions,1
+5a3bf44c,iar 0010686c dear ,18
+b56c2f47,34161718 double-hummer alignment exceptions,1
+e2c500b0,114506352 double-hummer alignment exceptions,1
+e9b4ece8,8750349 floating point alignment exceptions,1
+4786edbe,114915904 double-hummer alignment exceptions,1
+1d5c902a,external input interrupt (unit=0x02  torus sender  retransmission error was corrected,9
+30e77179,"1150 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+1d6440d9,iar 0010608c dear 0244c98c,2
+85769c1a,29612394 double-hummer alignment exceptions,1
+a9ed07a4,25828516 double-hummer alignment exceptions,1
+9247202c,115191776 double-hummer alignment exceptions,1
+b0c7ed03,1393808416 double-hummer alignment exceptions,1
+dcae9042,1388036944 double-hummer alignment exceptions,1
+78ff169d,"problem state (0=sup,1=usr).......1",4
+7f63bb78,116481208 double-hummer alignment exceptions,1
+9174942f,1022762 torus sender y+ retransmission error(s) (dcr 0x02f6) detected and corrected over 49 seconds,1
+69ee89e2,116400296 double-hummer alignment exceptions,1
+f82dec70,turn on hidden refreshes.................1,1
+8e06744b,126437788 double-hummer alignment exceptions,1
+e37327e7,machine check interrupt,4
+388d42fb,254780616 double-hummer alignment exceptions,1
+806a5738,24121230 floating point alignment exceptions,1
+783c4b03,111477904 double-hummer alignment exceptions,1
+2bb5b9a2,1345255984 double-hummer alignment exceptions,1
+277a6896,114604424 double-hummer alignment exceptions,1
+e0b801b1,iar 00106334 dear 0252528c,2
+d958b1bc,40843826 double-hummer alignment exceptions,1
+b366025e,data address: 0x600277ec,1
+c651b3a0,"1112 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",6
+e07d9ee4,53442 floating point alignment exceptions,3
+6dd2768b,32209318 double-hummer alignment exceptions,1
+638dec8a,639232128 double-hummer alignment exceptions,1
+909faca1,642180048 double-hummer alignment exceptions,1
+6ca27714,636037920 double-hummer alignment exceptions,1
+fea18ee8,1338177280 double-hummer alignment exceptions,1
+2663f396,115472416 double-hummer alignment exceptions,1
+55c1228c,631646064 double-hummer alignment exceptions,1
+75476d96,117709496 double-hummer alignment exceptions,1
+ba6d0e36,114949920 double-hummer alignment exceptions,1
+1b3a7b3d,4 torus receiver z- input pipe error(s) (dcr 0x02f1) detected and corrected over  seconds,2
+03b6def6,754816336 double-hummer alignment exceptions,1
+79ee8d16,133142006 double-hummer alignment exceptions,1
+8370e712,253890767 double-hummer alignment exceptions,1
+e772703f,17110776 floating point alignment exceptions,1
+429b673a,33850338 double-hummer alignment exceptions,1
+978edd0b,36512760 double-hummer alignment exceptions,1
+9c871dbd,"10596 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+22549de0,642948912 double-hummer alignment exceptions,1
+44efff8a,32168930 double-hummer alignment exceptions,1
+986828b3,EndServiceAction  performed upon  by ,2
+851e00f8,"10 ddr errors(s) detected and corrected on rank 0, symbol  bit ",6
+b022bb95,2466999 torus sender x- retransmission error(s) (dcr 0x02f5) detected and corrected over 61 seconds,1
+2d2b8f6f,39668834 double-hummer alignment exceptions,1
+c0c02d28,114171672 double-hummer alignment exceptions,1
+74f50436,1414933408 double-hummer alignment exceptions,1
+34267cb4,fpr28=0xffffffff ffffffff ffffffff ffffffff,1
+bb58b178,iar 00105e60 dear 0244c96c,2
+ed3ad2f3,"3678 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+4cedf458,5274060 floating point alignment exceptions,1
+49adcac1,39708 floating point alignment exceptions,2
+262803c2,732164352 double-hummer alignment exceptions,1
+8a0fdc61,63471 double-hummer alignment exceptions,1
+78d787ad,fpr14=0xffffffff ffffffff c200fd1c 3f5fd606,1
+773b5a27,115866888 double-hummer alignment exceptions,1
+a06b1828,113684752 double-hummer alignment exceptions,1
+1866cb05,36100508 double-hummer alignment exceptions,1
+c922eb86,5269260 floating point alignment exceptions,1
+bd5f475d,20:00008000 21:001e7e94 22:00250000 23:00000026,1
+80ecf3f1,764566928 double-hummer alignment exceptions,1
+26ece108,33537174 double-hummer alignment exceptions,1
+5f1c697e,144882490 double-hummer alignment exceptions,1
+1edcaa0e,2249600 double-hummer alignment exceptions,1
+69c75c7d,22349192 double-hummer alignment exceptions,1
+33a2cd08,557420 double-hummer alignment exceptions,2
+90b10104,"ddr: excessive soft failures, consider replacing the card",1
+08e3db57,131252364 double-hummer alignment exceptions,1
+d94b6604,142 double-hummer alignment exceptions,3
+0bef62e4,720288 floating point alignment exceptions,1
+d7f9a4ab,752472992 double-hummer alignment exceptions,1
+3f6b2bad,39226398 double-hummer alignment exceptions,1
+d2d11f30,257337686 double-hummer alignment exceptions,1
+e03c5444,256813727 double-hummer alignment exceptions,1
+cc1e8301,35507528 double-hummer alignment exceptions,1
+8bb0b160,654887328 double-hummer alignment exceptions,1
+c84d8865,5919573 floating point alignment exceptions,1
+46d45d8c,59810139 floating point alignment exceptions,1
+b353be2e,31132768 double-hummer alignment exceptions,1
+eb88448b,627000528 double-hummer alignment exceptions,1
+3e3a05c5,156957786 double-hummer alignment exceptions,1
+b2eb8b9d,0:08fb85d0 1:0feea620 2:1eeeeeee 3:00001620,1
+fdfc5096,42087514 double-hummer alignment exceptions,1
+cdabb030,116043352 double-hummer alignment exceptions,1
+bf2bb832,109342144 double-hummer alignment exceptions,1
+36cf7232,43246134 double-hummer alignment exceptions,1
+fcb4ba0e,256943109 double-hummer alignment exceptions,1
+11610f12,661 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+13902af0,2945083 torus sender x- retransmission error(s) (dcr 0x02f5) detected and corrected over 65 seconds,1
+6f082605,150686568 double-hummer alignment exceptions,1
+b428c444,rts tree/torus link training failed: wanted: A C X+ X- Y+ Y- Z+ Z- got: A C    ,3
+6f6bbe2c,24567435 floating point alignment exceptions,1
+2c511049,33166832 double-hummer alignment exceptions,1
+fa03f38f,39017094 double-hummer alignment exceptions,1
+13a0eb7c,"Node card status: ALERT 0, ALERT 1, ALERT 2, ALERT 3 is (are) active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD is asserted. PGOOD error latch is clear. MPGOOD is OK. MPGOOD error latch is clear. The 2.5 volt rail is OK. The 1.5 volt rail is OK.",2
+e9450a40,132778498 double-hummer alignment exceptions,1
+c785237a,36829624 double-hummer alignment exceptions,1
+ed6ae946,114636832 double-hummer alignment exceptions,1
+254652a3,48907312 double-hummer alignment exceptions,1
+8fcce572,5532903 floating point alignment exceptions,1
+7fae7895,132826620 double-hummer alignment exceptions,1
+2a56ee04,33783814 double-hummer alignment exceptions,1
+4c67ad90,749258800 double-hummer alignment exceptions,1
+3667cbeb,153724052 double-hummer alignment exceptions,1
+2ec558cb,770664576 double-hummer alignment exceptions,1
+7a2d0544,1320235744 double-hummer alignment exceptions,1
+959edebc,"43 ddr error(s) detected and corrected on rank 0, symbol 9 over 10029 seconds",1
+75893991,113653976 double-hummer alignment exceptions,1
+ef6a021b,35297360 double-hummer alignment exceptions,1
+2863ec04,40951332 double-hummer alignment exceptions,1
+471ea52b,135018280 double-hummer alignment exceptions,1
+2eec68b1,113631248 double-hummer alignment exceptions,1
+9729ac2d,1378312672 double-hummer alignment exceptions,1
+417f8f98,uncorrectable error detected in directory 1....0,1
+6536fbf7,118000728 double-hummer alignment exceptions,1
+d5452c3f,114795888 double-hummer alignment exceptions,1
+cd2d72aa,257576366 double-hummer alignment exceptions,1
+e2687231,613930032 double-hummer alignment exceptions,1
+e7949fe0,24681594 torus sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over 251 seconds,1
+e97eb87b,iar 00105fa8 dear 0245a08c,4
+676cad44,110734992 double-hummer alignment exceptions,1
+6142d265,135722870 double-hummer alignment exceptions,1
+a9e184e8,7 torus receiver z- input pipe error(s) (dcr 0x02f1) detected and corrected over 21588 seconds,1
+4bf99584,37450434 double-hummer alignment exceptions,1
+0c300572,115836416 double-hummer alignment exceptions,1
+16c71df7,fpr20=0xffffffff ffffffff ffffffff ffffffff,1
+d659be31,1356654448 double-hummer alignment exceptions,1
+c43d8ec8,159607444 double-hummer alignment exceptions,1
+b417fd79,3183360 double-hummer alignment exceptions,1
+db705ead,instruction address: 0x0014a6c8,1
+da920397,1377967072 double-hummer alignment exceptions,1
+93b5955c,769084848 double-hummer alignment exceptions,1
+c40f3459,14004 floating point alignment exceptions,1
+f2c54b0b,"33 ddr errors(s) detected and corrected on rank 0, symbol 0, bit 4",1
+bb7a5822,"10761 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+3f01f986,41195824 double-hummer alignment exceptions,1
+7cdb3778,37399946 double-hummer alignment exceptions,1
+5bbf47ac,287760 floating point alignment exceptions,1
+8cae6e0f,1381547248 double-hummer alignment exceptions,1
+e260a6e4,767589776 double-hummer alignment exceptions,1
+9c1a1d12,9 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+26053439,"23 ddr errors(s) detected and corrected on rank 0, symbol 2, bit 4",1
+893c1f3e,28777880 double-hummer alignment exceptions,1
+6f0e8847,4 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+e43cfdac,621911424 double-hummer alignment exceptions,1
+7d367ad5,770490784 double-hummer alignment exceptions,1
+8f6e51f1,round toward +infinity...................0,1
+e517599a,39692392 double-hummer alignment exceptions,1
+b862b004,112613368 double-hummer alignment exceptions,1
+8346f01d,qw trapped............0,1
+4aa86398,254588290 double-hummer alignment exceptions,1
+ee14aa63,25820554 double-hummer alignment exceptions,1
+2ccf1f77,memory manager  buffer ,2
+f460bb39,46295972 double-hummer alignment exceptions,1
+9af0c13c,18748846 double-hummer alignment exceptions,1
+c1d40cfa,37480528 double-hummer alignment exceptions,1
+b9f1aa11,fpr18=0x9d17d9b1 c017d546 a7aba2ea 40241351,1
+5ad4c381,4 torus receiver z- input pipe error(s) (dcr 0x02f1) detected and corrected,1
+3e1beb88,30 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+b9bea8fc,114266776 double-hummer alignment exceptions,1
+c43deccc,"10765 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+abbe5909,146586700 double-hummer alignment exceptions,1
+6574c8df,2652800 double-hummer alignment exceptions,2
+1472f9f4,33866508 double-hummer alignment exceptions,1
+05c5823b,38482136 double-hummer alignment exceptions,1
+b0e222a9,"10671 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",4
+a3dc5936,189549 floating point alignment exceptions,1
+e9eb4480,43116274 double-hummer alignment exceptions,1
+19f88716,"10618 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+5b814dc9,36275850 double-hummer alignment exceptions,1
+252ce8cb,4919274 floating point alignment exceptions,1
+b8b7bfc5,lr:0000d9ac cr:48000828 xer:00000002 ctr:0000e248,1
+9e53d820,4:00088770 5:00088760 6:00088750 7:000886b0,1
+1f664cca,5877741 floating point alignment exceptions,1
+e417d10a,iar 00106658 dear 02f9991c,1
+25aa789b,"10642 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",4
+b2fbd4d2,639498192 double-hummer alignment exceptions,1
+b378a9dd,1 torus sender  retransmission error(s) (dcr  detected and corrected,8
+285b86fb,118069408 double-hummer alignment exceptions,1
+db71bf5f,"10644 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",6
+31a546ca,29766490 double-hummer alignment exceptions,1
+d0a36393,1365437248 double-hummer alignment exceptions,1
+e157bef7,112521856 double-hummer alignment exceptions,1
+ce6a0c4e,635828736 double-hummer alignment exceptions,1
+7dfb0ef6,14 tree receiver  in re-synch state event(s) (dcr  detected,3
+8016d78b,242 double-hummer alignment exceptions,1
+cc484705,36974248 double-hummer alignment exceptions,1
+05e4b800,22631366 double-hummer alignment exceptions,1
+8c4d5bc1,35263406 double-hummer alignment exceptions,1
+410db816,iar 0010681c dear 02f692dc,2
+ef65778a,760612112 double-hummer alignment exceptions,1
+d8c1a3fb,14           over  seconds,2
+23a12ad2,5263113 floating point alignment exceptions,1
+4e2d6645,114714040 double-hummer alignment exceptions,1
+64c4cd1d,12284229 floating point alignment exceptions,1
+964ee7f8,135328776 double-hummer alignment exceptions,1
+7c295e45,471708 floating point alignment exceptions,1
+f17f2a32,"10767 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+12fe26a7,39654 floating point alignment exceptions,3
+194e0634,36775656 double-hummer alignment exceptions,1
+e703ae77,37609020 double-hummer alignment exceptions,1
+80611372,1594 double-hummer alignment exceptions,1
+2d7647ef,29239076 double-hummer alignment exceptions,1
+fcc437c3,111647632 double-hummer alignment exceptions,1
+ee98539a,33819740 double-hummer alignment exceptions,1
+0d32a0f5,"10753 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",4
+c6ea83a4,113530296 double-hummer alignment exceptions,1
+9af56082,156820988 double-hummer alignment exceptions,1
+63f5eafa,enable non-IEEE mode.....................0,1
+ddf709c4,enable overflow exceptions...............0,3
+e5358c4d,Core Configuration Register 0: 0x00002000,2
+f2ee0589,1340917504 double-hummer alignment exceptions,1
+778fa32e,255871097 double-hummer alignment exceptions,1
+5a02b532,iar  dear 0246a94c,4
+c154ad1d,59687367 floating point alignment exceptions,1
+a1c7c250,113734448 double-hummer alignment exceptions,1
+bae9c947,137842102 double-hummer alignment exceptions,1
+f01c5ec9,37069924 double-hummer alignment exceptions,1
+7feef966,16865820 floating point alignment exceptions,1
+a10b8cf0,39639884 double-hummer alignment exceptions,1
+b40de7fe,643117008 double-hummer alignment exceptions,1
+9c9a4570,23087356 double-hummer alignment exceptions,1
+5678833b,113947256 double-hummer alignment exceptions,1
+f43c3b49,149440364 double-hummer alignment exceptions,1
+c395edff,612694464 double-hummer alignment exceptions,1
+65397c57,overflow exception.......................0,1
+ed44db1f,d-cache search parity ,5
+26230249,255617439 double-hummer alignment exceptions,1
+3c79dfeb,116542640 double-hummer alignment exceptions,1
+774dee08,745186448 double-hummer alignment exceptions,1
+b24f8b48,629664624 double-hummer alignment exceptions,1
+ddf8aace,257980897 double-hummer alignment exceptions,1
+f9c63766,643831008 double-hummer alignment exceptions,1
+6c331cde,256389394 double-hummer alignment exceptions,1
+45aaf792,253253926 double-hummer alignment exceptions,1
+ae2a189a,511098 floating point alignment exceptions,1
+6a37e040,134116954 double-hummer alignment exceptions,1
+38187767,39388992 double-hummer alignment exceptions,1
+26c55b15,3 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 13570 seconds,1
+789f918d,38265244 double-hummer alignment exceptions,1
+8caa4ebe,round toward -infinity...................0,1
+8a309ec2,r20=0x00482ae8 r21=0x08814b68 r22=0x00000000 r23=0x00002b20,1
+749d445a,29259414 double-hummer alignment exceptions,1
+29a28fcc,153539682 double-hummer alignment exceptions,1
+e6397962,141023946 double-hummer alignment exceptions,1
+1ed041d7,755156848 double-hummer alignment exceptions,1
+79245c9c,1162995 floating point alignment exceptions,1
+bfec6984,112059864 double-hummer alignment exceptions,1
+160c2110,256084739 double-hummer alignment exceptions,1
+075aeec6,fpr5=0x902606e3 3fe7e35a 243d0164 c0152a1b,1
+e1f8e390,"10641 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+3f8cf7af,33714184 double-hummer alignment exceptions,1
+b107d14a,regctl scancom interface.........................0,1
+19213fde,254143080 double-hummer alignment exceptions,1
+8e163c7f,113723168 double-hummer alignment exceptions,1
+fb791aa1,126108482 double-hummer alignment exceptions,1
+808910ae,407250 floating point alignment exceptions,1
+7b0d2738,159879014 double-hummer alignment exceptions,1
+da5dd0f1,642450864 double-hummer alignment exceptions,1
+5a002982,257728993 double-hummer alignment exceptions,1
+55d24e40,117219232 double-hummer alignment exceptions,1
+dfd3367b,635162064 double-hummer alignment exceptions,1
+e319a72a,95272137 floating point alignment exceptions,1
+6e5b496e,255635214 double-hummer alignment exceptions,1
+41d5c7ef,43053910 double-hummer alignment exceptions,1
+6abc28f9,254547751 double-hummer alignment exceptions,1
+33b08af2,fpr25=0xffffffff ffffffff ffffffff ffffffff,1
+826784f4,257956844 double-hummer alignment exceptions,1
+0b2f0612,105153960 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+9011021c,112627304 double-hummer alignment exceptions,1
+931dd30a,111699744 double-hummer alignment exceptions,1
+1969aa99,1384420000 double-hummer alignment exceptions,1
+41c005d9,33237984 double-hummer alignment exceptions,1
+819cb149,644380464 double-hummer alignment exceptions,1
+e01b0daf,389568 floating point alignment exceptions,1
+357d84ba,129695408 double-hummer alignment exceptions,1
+b71ca0c3,130371442 double-hummer alignment exceptions,1
+7a50ea7c,255633628 double-hummer alignment exceptions,1
+f545ed75,4:0000000e 5:000865b0 6:1fea7b68 ,2
+8c901c8f,625942656 double-hummer alignment exceptions,1
+eafc0a18,156794256 double-hummer alignment exceptions,1
+11adf074,mmcs_db_server has been started: ./mmcs_db_server --useDatabase BGL --dbproperties serverdb.properties --iolog /bgl/BlueLight/logs/BGL --reconnect-blocks all,1
+c81e728d,2,3
+2ab17fbf,41741884 double-hummer alignment exceptions,1
+d9e0db06,27208804 double-hummer alignment exceptions,1
+bb404956,36607130 double-hummer alignment exceptions,1
+1a1ec232,162228 floating point alignment exceptions,1
+b0e8321b,"15 ddr errors(s) detected and corrected on rank 0, symbol 25, bit 3",1
+0b1d409f,1368257536 double-hummer alignment exceptions,1
+da7cba1a,257315557 double-hummer alignment exceptions,1
+8ed9bccb,r12=0x48242484 r13=0x1eeeeeee r14=0x01cd5330 r15=0x000001ca,1
+5cfbc2d9,113117312 double-hummer alignment exceptions,1
+52d9934c,114303816 double-hummer alignment exceptions,1
+8fed83ee,11647 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+ef972bc1,iar 00149fc0 dear ,5
+085f1a9d,30415706 double-hummer alignment exceptions,1
+3f401909,257794307 double-hummer alignment exceptions,1
+529e69bb,24570999 floating point alignment exceptions,1
+37ee9a5c,120144076 double-hummer alignment exceptions,1
+bdbd426d,32698122 double-hummer alignment exceptions,1
+3c6328c4,112568104 double-hummer alignment exceptions,1
+411311ba,23433285 floating point alignment exceptions,1
+db3f12e4,737744640 double-hummer alignment exceptions,1
+67df1bd5,36373496 double-hummer alignment exceptions,1
+9e68aebf,113578584 double-hummer alignment exceptions,1
+b77ed729,127732628 double-hummer alignment exceptions,1
+25058f0a,"29 ddr errors(s) detected and corrected on rank 0, symbol 35, bit 1",1
+b13e652b,ciod: Unexpected eof at line 1025 of node map file map.dat,1
+64e8fa90,148438616 double-hummer alignment exceptions,1
+d9d3f85b,258380152 double-hummer alignment exceptions,1
+a8101982,258019567 double-hummer alignment exceptions,1
+abb55d2d,119303904 double-hummer alignment exceptions,1
+32c2f831,36748338 double-hummer alignment exceptions,1
+54557f74,71 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+aa268b4f,memory manager miscompare........................0,1
+1068ddee,769877008 double-hummer alignment exceptions,1
+4de97e91,59600124 floating point alignment exceptions,1
+8628a967,1359347920 double-hummer alignment exceptions,1
+decce436,38899464 double-hummer alignment exceptions,1
+7401e597,116327656 double-hummer alignment exceptions,1
+55efba68,150966868 double-hummer alignment exceptions,1
+f0dec1b4,613543584 double-hummer alignment exceptions,1
+c7100619,iar 001063e0 dear 0245a0cc,2
+c12af595,31577426 double-hummer alignment exceptions,1
+5182cbaf,110659784 double-hummer alignment exceptions,1
+91c08265,255080950 double-hummer alignment exceptions,1
+91b3895f,779896016 double-hummer alignment exceptions,1
+579e9f0e,254076406 double-hummer alignment exceptions,1
+17f64f0b,118803328 double-hummer alignment exceptions,1
+869d15c8,120928392 double-hummer alignment exceptions,1
+dc58c7d0,29061442 double-hummer alignment exceptions,1
+72fd3343,1352719648 double-hummer alignment exceptions,1
+dbbc6378,11533806 floating point alignment exceptions,1
+277a1eaa,135632590 double-hummer alignment exceptions,1
+f970249f,216 tree receiver 1 in re-synch state event(s) (dcr 0x0185) detected,1
+9d9baa9d,40516122 double-hummer alignment exceptions,1
+a800572a,16114683 floating point alignment exceptions,1
+59d5d35b,1428095344 double-hummer alignment exceptions,1
+e15880cc,41847366 double-hummer alignment exceptions,1
+68f62b96,258719609 double-hummer alignment exceptions,1
+6895a33d,43671222 double-hummer alignment exceptions,1
+a0d968b2,1344688864 double-hummer alignment exceptions,1
+08787706,764414304 double-hummer alignment exceptions,1
+d22744fc,14 torus receiver  input pipe error(s) (dcr  detected and corrected,2
+c0c5c4a4,"10620 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+9ced13b5,649134000 double-hummer alignment exceptions,1
+16fd3543,112623536 double-hummer alignment exceptions,1
+7ede5b51,15066447 floating point alignment exceptions,1
+dec8ced8,37736444 double-hummer alignment exceptions,1
+7d5f2afc,41066862 double-hummer alignment exceptions,1
+268c30a1,36148768 double-hummer alignment exceptions,1
+4d85ce50,639363168 double-hummer alignment exceptions,1
+a19ce652,115295912 double-hummer alignment exceptions,1
+4da34d22,2047 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+8efe9be4,110489144 double-hummer alignment exceptions,1
+fa114e1d,20:00000001 21:8c000005 22:00000001 23:0feea0a0,1
+f3ebad78,37836212 double-hummer alignment exceptions,1
+8ad36cd6,32928926 double-hummer alignment exceptions,1
+587bd7d5,22822828 double-hummer alignment exceptions,1
+c3bfea16,144885766 double-hummer alignment exceptions,1
+88937c2c,35 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+b6dcd28f,254751178 double-hummer alignment exceptions,1
+5d7d3cf9,112644512 double-hummer alignment exceptions,1
+c58b2dfb,17353224 floating point alignment exceptions,1
+e60a05ae,"10766 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+85fa620d,24:00000000 25:0000000e 26:000865b0 27:00089ae0,1
+b187b2af,151034658 double-hummer alignment exceptions,1
+d015d31a,502164 floating point alignment exceptions,3
+ef781495,648481968 double-hummer alignment exceptions,1
+33964fdb,259501184 double-hummer alignment exceptions,1
+a131267d,38862158 double-hummer alignment exceptions,1
+e661d584,4184823 floating point alignment exceptions,1
+2a669048,112112648 double-hummer alignment exceptions,1
+5cdc0b41,633875664 double-hummer alignment exceptions,1
+c938d4b0,640929120 double-hummer alignment exceptions,1
+f139c1ad,110156784 double-hummer alignment exceptions,1
+f0269c26,620750928 double-hummer alignment exceptions,1
+45a9065d,1344084448 double-hummer alignment exceptions,1
+5a7f64b6,29254008 double-hummer alignment exceptions,1
+4cfb6a1e,7851387 floating point alignment exceptions,1
+32ebd88b,39686314 double-hummer alignment exceptions,1
+b09dc193,iar  dear 0246ab7c,2
+c2a4371b,"24 ddr errors(s) detected and corrected on rank 0, symbol 5, bit 1",1
+c73aa701,7 torus receiver  input pipe error(s) (dcr  detected and corrected,2
+e6c4fe00,1305649744 double-hummer alignment exceptions,1
+755ec8c2,41083512 double-hummer alignment exceptions,1
+e07ef6a9,1382721664 double-hummer alignment exceptions,1
+9c54251a,254894616 double-hummer alignment exceptions,1
+1a17151e,1398436000 double-hummer alignment exceptions,1
+54e2f0ab,114674760 double-hummer alignment exceptions,1
+ed3c79d5,ciod: Error creating node map from file my_map.txt: No such file or directory,1
+bc26e729,42024462 double-hummer alignment exceptions,1
+41179e0a,10149639 floating point alignment exceptions,1
+49ec77dd,253151800 double-hummer alignment exceptions,1
+3f9448c8,37713250 double-hummer alignment exceptions,1
+c2f7aaab,748359616 double-hummer alignment exceptions,1
+cdf2b67e,correctable error detected in EDRAM bank 0.....0,1
+1fca1297,1352402032 double-hummer alignment exceptions,1
+cf0ac8aa,138433144 double-hummer alignment exceptions,1
+07f50dc8,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. THE 2.5 VOLT RAIL IS NOT OK. THE 1.5 VOLT RAIL IS NOT OK.,1
+bf133b0f,109894528 double-hummer alignment exceptions,1
+73e508c6,16643871 floating point alignment exceptions,1
+c9b55e3e,29823650 double-hummer alignment exceptions,1
+c550a856,115610800 double-hummer alignment exceptions,1
+f902051f,114636784 double-hummer alignment exceptions,1
+7f9e053b,1388619952 double-hummer alignment exceptions,1
+6b378533,fpr5=0xffffffff ffffffff ffffffff ffffffff,1
+817686aa,fpr15=0xffffffff ffffffff 252b0ea7 3f81e5c9,1
+9a7747a0,34938670 double-hummer alignment exceptions,1
+d898b2fd,115339112 double-hummer alignment exceptions,1
+91ae8655,787236848 double-hummer alignment exceptions,1
+2c896d3b,33674864 double-hummer alignment exceptions,1
+e4ab1afb,774944896 double-hummer alignment exceptions,1
+6cf8acd3,113957104 double-hummer alignment exceptions,1
+021347d3,"95 ddr errors(s) detected and corrected on rank 0, symbol 12, bit 4",1
+fb9e5fe3,r04=0x00000000 r05=0x24404244 r06=0x0029fcac r07=0x0005d4f0,1
+81528e2d,112013888 double-hummer alignment exceptions,1
+0b05a9d8,40478626 double-hummer alignment exceptions,1
+c5ade5e5,38863300 double-hummer alignment exceptions,1
+5da9735a,5921955 floating point alignment exceptions,1
+c8d9567b,256487726 double-hummer alignment exceptions,1
+3993f477,255465342 double-hummer alignment exceptions,1
+4d2da5d8,117102016 double-hummer alignment exceptions,1
+c3471ba5,30053858 double-hummer alignment exceptions,1
+d349d744,145056802 double-hummer alignment exceptions,1
+03bd8bd2,capture valid.........1,1
+df1fba76,machine check status register: 0x91800000,1
+b538093d,132356650 double-hummer alignment exceptions,1
+b0675acb,145239400 double-hummer alignment exceptions,1
+f9a11184,31102664 double-hummer alignment exceptions,1
+00072f73,114214576 double-hummer alignment exceptions,1
+31490180,623753472 double-hummer alignment exceptions,1
+b315d66b,758542272 double-hummer alignment exceptions,1
+80bd6eb8,163309694 double-hummer alignment exceptions,1
+5259467d,115513808 double-hummer alignment exceptions,1
+a0400d02,27672438 floating point alignment exceptions,1
+2fc10d37,1455 double-hummer alignment exceptions,1
+7cd467c1,113370536 double-hummer alignment exceptions,1
+bee45d80,113988760 double-hummer alignment exceptions,1
+af50f09a,660429888 double-hummer alignment exceptions,1
+b84d6e81,"10604 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+bb1731c0,rts tree/torus link training failed: wanted:  C X+ X- Y+ Y- Z+ Z- got:  C X+  Y- Z+ Z-,2
+9f4ff35e,12277077 floating point alignment exceptions,1
+ba9bb6b9,730912288 double-hummer alignment exceptions,1
+67a18aea,257515794 double-hummer alignment exceptions,1
+80738c72,113245344 double-hummer alignment exceptions,1
+1dfee2de,7126711 double-hummer alignment exceptions,1
+489dc8fd,616798944 double-hummer alignment exceptions,1
+a79f6988,767225456 double-hummer alignment exceptions,1
+eacb596f,1338391888 double-hummer alignment exceptions,1
+0d4c8b51,"2542 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+b571b2eb,149417162 double-hummer alignment exceptions,1
+03d25e9f,30678550 double-hummer alignment exceptions,1
+bc0cc37e,259131226 double-hummer alignment exceptions,1
+74f8a3c4,134628698 double-hummer alignment exceptions,1
+41562777,112092728 double-hummer alignment exceptions,1
+ddc6749d,32410354 double-hummer alignment exceptions,1
+a50c851f,638528832 double-hummer alignment exceptions,1
+1ebbd1aa,32559638 double-hummer alignment exceptions,1
+82c65ffb,670195680 double-hummer alignment exceptions,1
+c46a17f9,22722008 double-hummer alignment exceptions,1
+161e71a4,153699416 double-hummer alignment exceptions,1
+bae63fc9,115417712 double-hummer alignment exceptions,1
+1ec42bda,"8842 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+1893c471,1050423 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected,1
+a09e1040,81 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 20609 seconds,1
+0a68f3ce,"36 ddr error(s) detected and corrected on rank 0, symbol 13 over 22070 seconds",1
+26259a98,114909136 double-hummer alignment exceptions,1
+e2850fb6,113303628 double-hummer alignment exceptions,1
+ac1d3363,32491368 double-hummer alignment exceptions,1
+a0e6bb22,95334147 floating point alignment exceptions,1
+bc493624,iar 001069c4 dear ,2
+78588ac6,148773958 double-hummer alignment exceptions,1
+94c23dad,41255492 double-hummer alignment exceptions,1
+76ddfdcc,"10656 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+401753dc,40074874 double-hummer alignment exceptions,1
+5b28d1bb,162 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected,1
+e580e84a,765754256 double-hummer alignment exceptions,1
+f2850ae1,635992368 double-hummer alignment exceptions,1
+3146491a,638057712 double-hummer alignment exceptions,1
+f3a1c0a1,12:48000828 13:1eeeeeee 14:ffffffff 15:ffffffff,1
+f9b81600,2 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over  seconds,2
+e52a720f,While reading FanModule caught java.lang.IllegalStateException: while executing I2C Operation caught java.net.SocketException: Broken pipe,1
+826af1ad,29876674 double-hummer alignment exceptions,1
+8e549441,1369452736 double-hummer alignment exceptions,1
+fd6bcf52,752215232 double-hummer alignment exceptions,1
+119988ee,27604586 double-hummer alignment exceptions,1
+fd754659,ddr: Suppressing further CE interrupts,5
+b47f81bc,137588906 double-hummer alignment exceptions,1
+da0e101a,37581220 double-hummer alignment exceptions,1
+74d16070,41266320 double-hummer alignment exceptions,1
+bb29d3dc,142703938 double-hummer alignment exceptions,1
+d94e2c4a,25 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 7108 seconds,1
+26a45220,132877372 double-hummer alignment exceptions,1
+27565dfa,30115384 double-hummer alignment exceptions,1
+c3a7ea9f,139048682 double-hummer alignment exceptions,1
+a6b6e26e,639009936 double-hummer alignment exceptions,1
+32ee393a,34841504 double-hummer alignment exceptions,1
+2efd42a3,"Problem communicating with service card, ido chip: 00000000:00000000:00000000:FFF29F15:1F4E000D:60EAE0B1. java.io.IOException: Could not find EthernetSwitch on port:address 1:136",1
+5580efda,257814938 double-hummer alignment exceptions,1
+77b20b4d,223305 floating point alignment exceptions,1
+a5a827d3,43509600 double-hummer alignment exceptions,1
+c6a39efa,137663758 double-hummer alignment exceptions,1
+35e8aa37,767639520 double-hummer alignment exceptions,1
+c09882d8,134281646 double-hummer alignment exceptions,1
+a4d5d420,257398192 double-hummer alignment exceptions,1
+633c3366,17446155 floating point alignment exceptions,1
+9f657893,257501726 double-hummer alignment exceptions,1
+4f366f39,95347164 floating point alignment exceptions,1
+03722c62,instruction address: 0x000163ec,1
+39794b08,30269006 double-hummer alignment exceptions,1
+bdf66689,112241568 double-hummer alignment exceptions,1
+6407e434,767982224 double-hummer alignment exceptions,1
+bcb2c886,43565944 double-hummer alignment exceptions,1
+b2c397f2,137704048 double-hummer alignment exceptions,1
+460344a8,37725930 double-hummer alignment exceptions,1
+ea836b4b,13 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+f1aa8936,7236830 double-hummer alignment exceptions,1
+3686ce1b,30286454 double-hummer alignment exceptions,1
+fff4baad,38352558 double-hummer alignment exceptions,1
+048f959f,233 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected over 32997 seconds,1
+b69f1a42,39013310 double-hummer alignment exceptions,1
+d12227e2,759911904 double-hummer alignment exceptions,1
+21b32b57,258164991 double-hummer alignment exceptions,1
+696462e8,27584308 double-hummer alignment exceptions,1
+609a5c2c,36486542 double-hummer alignment exceptions,1
+c4e4190b,746102272 double-hummer alignment exceptions,1
+27ea8c24,389 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+87a51516,32602912 double-hummer alignment exceptions,1
+8165ae32,258801237 double-hummer alignment exceptions,1
+5d1dc21f,650370672 double-hummer alignment exceptions,1
+3b4c75f7,31194620 double-hummer alignment exceptions,1
+e7102fdd,"10699 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+89c5cd9e,"10667 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+d58ca68c,36457546 double-hummer alignment exceptions,1
+83b206f3,258935982 double-hummer alignment exceptions,1
+7a990ca6,48545858 double-hummer alignment exceptions,1
+50ea8f04,114486936 double-hummer alignment exceptions,1
+bf4ab685,35681748 double-hummer alignment exceptions,1
+d60fc0fb,fpr1=0xffffffff ffffffff ffffffff ffffffff,1
+973e6e6c,761380480 double-hummer alignment exceptions,1
+2c35c83b,interrupt threshold...0,2
+eeaee133,643114800 double-hummer alignment exceptions,1
+cced05d9,31268000 double-hummer alignment exceptions,1
+d8d2acf1,33112798 double-hummer alignment exceptions,1
+1bf6f014,256014960 double-hummer alignment exceptions,1
+5307b03e,35483306 double-hummer alignment exceptions,1
+0921739d,658806672 double-hummer alignment exceptions,1
+7e38618c,629604336 double-hummer alignment exceptions,1
+ddbd9ab5,113817456 double-hummer alignment exceptions,1
+c05764a5,254627208 double-hummer alignment exceptions,1
+ef4d1fa1,"10689 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+42365b93,116145584 double-hummer alignment exceptions,1
+ac98bd0f,118368312 double-hummer alignment exceptions,1
+16f07331,151149638 double-hummer alignment exceptions,1
+761ec314,iar 001067b4 dear 0246de6c,1
+496397c4,142533816 double-hummer alignment exceptions,1
+7c55ee06,136067224 double-hummer alignment exceptions,1
+c707867b,116163040 double-hummer alignment exceptions,1
+781f83e3,38982140 double-hummer alignment exceptions,1
+0bc002ee,45314584 double-hummer alignment exceptions,1
+631bec41,"715 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+08b628a3,622613808 double-hummer alignment exceptions,1
+f0a436fd,480996 floating point alignment exceptions,1
+62622a92,114678808 double-hummer alignment exceptions,1
+31b2ab10,141938898 double-hummer alignment exceptions,1
+686939fc,Starting SystemController,1
+1d2aa07c,256288182 double-hummer alignment exceptions,1
+8cae7a42,DCR  : 0x00000000,2
+278feb54,643945680 double-hummer alignment exceptions,1
+34072178,188931 floating point alignment exceptions,1
+f81c55da,fpr24=0xffffffff ffffffff bc6a7efa bf489374,1
+ec386b61,fpr30=0xffffffff ffffffff ffffffff ffffffff,1
+515d9c42,136459126 double-hummer alignment exceptions,1
+420742ea,r12=0x00a1c2a0 r13=0x1eeeeeee r14=0x00e60000 r15=0x00000006,1
+cc791359,509070 floating point alignment exceptions,1
+016f0eab,31095260 double-hummer alignment exceptions,1
+7b8a8e18,24335006 double-hummer alignment exceptions,1
+ee8e537e,32793418 double-hummer alignment exceptions,1
+19b4d601,"10688 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",3
+e994e5c7,45977890 double-hummer alignment exceptions,1
+bf75953a,36036572 double-hummer alignment exceptions,1
+13f417fc,641632752 double-hummer alignment exceptions,1
+b24b3664,34742128 double-hummer alignment exceptions,1
+b179f2d8,129631668 double-hummer alignment exceptions,1
+2e7c4386,5824329 floating point alignment exceptions,1
+4c47765f,4165122 floating point alignment exceptions,1
+804c5c01,147681476 double-hummer alignment exceptions,1
+4a61c04f,6410253 floating point alignment exceptions,1
+237e0130,255467294 double-hummer alignment exceptions,1
+76758c98,32747448 double-hummer alignment exceptions,1
+a881f327,144852314 double-hummer alignment exceptions,1
+0ea5e44f,33674330 double-hummer alignment exceptions,1
+b0a99ae3,28232566 double-hummer alignment exceptions,1
+1e53b1b3,1341399424 double-hummer alignment exceptions,1
+12b2bec9,"10638 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",6
+09c1365e,750665664 double-hummer alignment exceptions,1
+280a7f7c,260206066 double-hummer alignment exceptions,1
+211f3e28,42439286 double-hummer alignment exceptions,1
+47f94b91,iar 001061f0 dear 045e147c,3
+030b34fc,736243360 double-hummer alignment exceptions,1
+28fd8578,748036960 double-hummer alignment exceptions,1
+5f45510d,620278656 double-hummer alignment exceptions,1
+abbe7c54,145276812 double-hummer alignment exceptions,1
+8b93f7c5,656770608 double-hummer alignment exceptions,1
+254d3dea,24:00000000 25:ffffc000 26:00000000 27:00000000,1
+7ccfa8cf,639741360 double-hummer alignment exceptions,1
+47194548,16702005 floating point alignment exceptions,1
+d679a636,760117824 double-hummer alignment exceptions,1
+560764eb,65 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected,1
+bbf2e617,42337482 double-hummer alignment exceptions,1
+01176cac,128187664 double-hummer alignment exceptions,1
+14fff11b,24607035 floating point alignment exceptions,1
+f201ea0e,1425503056 double-hummer alignment exceptions,1
+2d910ad5,1966080 double-hummer alignment exceptions,2
+971fb3ce,24603552 floating point alignment exceptions,1
+3e4eef67,20427 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+9f6bfb2c,25 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected over 1455 seconds,1
+57b94dea,35205446 double-hummer alignment exceptions,1
+114c258f,42827590 double-hummer alignment exceptions,1
+481a6e5b,111236432 double-hummer alignment exceptions,1
+22e8737a,651350928 double-hummer alignment exceptions,1
+2fa0201f,111365936 double-hummer alignment exceptions,1
+08768528,145810714 double-hummer alignment exceptions,1
+b63d125a,1315708624 double-hummer alignment exceptions,1
+c49e0948,5276148 floating point alignment exceptions,1
+47cb87e7,140149386 double-hummer alignment exceptions,1
+de8b00e0,start retagging..........................0,1
+2eb45083,114581840 double-hummer alignment exceptions,1
+e9ed0f3d,fraction rounded.........................0,1
+ddbfb52b,20:0000023e 21:0022536c 22:0a0c8ea0 23:01576640,1
+c6c29538,"10707 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+4f9b859a,257983088 double-hummer alignment exceptions,1
+98871b17,1348973296 double-hummer alignment exceptions,1
+cfa5b487,123738792 double-hummer alignment exceptions,1
+30687f57,8:b04629b0 9:00000000 10:00090000 11:0000003c,1
+74daf62c,641419008 double-hummer alignment exceptions,1
+f5945241,747442960 double-hummer alignment exceptions,1
+1da2e80a,31018606 double-hummer alignment exceptions,1
+98fd69d0,114563664 double-hummer alignment exceptions,1
+2aececb7,254115590 double-hummer alignment exceptions,1
+b91659f0,"1972 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+e086ab3f,633197856 double-hummer alignment exceptions,1
+1bc71f10,642657168 double-hummer alignment exceptions,1
+53d2f190,256975533 double-hummer alignment exceptions,1
+e5eeb41a,1359640480 double-hummer alignment exceptions,1
+e521edda,35199124 double-hummer alignment exceptions,1
+bfb1d1f0,39168080 double-hummer alignment exceptions,1
+ff4ec80d,39325242 floating point alignment exceptions,1
+2f451adb,639746688 double-hummer alignment exceptions,1
+8b7582d1,25 tree receiver 1 in re-synch state event(s) (dcr 0x0185) detected,1
+f32d22a9,135453310 double-hummer alignment exceptions,1
+289a894c,627853584 double-hummer alignment exceptions,1
+0d2571a2,138897078 double-hummer alignment exceptions,1
+663ebdb4,620617344 double-hummer alignment exceptions,1
+53abdb0c,115993360 double-hummer alignment exceptions,1
+a747b6d9,1374829168 double-hummer alignment exceptions,1
+2261abf7,156964420 double-hummer alignment exceptions,1
+e276eeb9,113574528 double-hummer alignment exceptions,1
+e0e883ec,"10614 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+f5586296,45684 floating point alignment exceptions,2
+50e607b4,657381840 double-hummer alignment exceptions,1
+71bc9dfb,45241078 double-hummer alignment exceptions,1
+e854fb39,662650320 double-hummer alignment exceptions,1
+bc3386fe,"10749 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+aeecd012,38120680 double-hummer alignment exceptions,1
+504ec7f6,255312208 double-hummer alignment exceptions,1
+7139e9c6,Power deactivated: R03-M0-NC,1
+32893a9a,766895168 double-hummer alignment exceptions,1
+859fe1e5,1328266192 double-hummer alignment exceptions,1
+25a7e54f,255282636 double-hummer alignment exceptions,1
+a4117039,1368122896 double-hummer alignment exceptions,1
+8bfd39e0,256967176 double-hummer alignment exceptions,1
+74c428e0,115175416 double-hummer alignment exceptions,1
+4435eeef,138586594 double-hummer alignment exceptions,1
+d84e979e,42232452 double-hummer alignment exceptions,1
+4f730cd8,34363030 double-hummer alignment exceptions,1
+58a88cca,748710656 double-hummer alignment exceptions,1
+6062beb3,126198376 double-hummer alignment exceptions,1
+f4767f3f,115940440 double-hummer alignment exceptions,1
+d6e02726,41826886 double-hummer alignment exceptions,1
+4025409b,739928688 double-hummer alignment exceptions,1
+055081b6,correctable error.....0,2
+47fd971f,1367513248 double-hummer alignment exceptions,1
+333d88f5,1559040 double-hummer alignment exceptions,2
+34f0b6e1,617598480 double-hummer alignment exceptions,1
+7278dd7a,113113960 double-hummer alignment exceptions,1
+e9897ef0,117902752 double-hummer alignment exceptions,1
+29bcbd5f,iar 00105e48 dear 02f58f4c,2
+b6e49187,40447170 double-hummer alignment exceptions,1
+4e1443be,112793680 double-hummer alignment exceptions,1
+bf9ec87b,fpr7=0xf02151f7 3c62cb15 00000000 80000000,1
+6b732a02,257296123 double-hummer alignment exceptions,1
+2f8ead3b,45313066 double-hummer alignment exceptions,1
+4fe1bc5f,662012928 double-hummer alignment exceptions,1
+21d53683,111220464 double-hummer alignment exceptions,1
+1afe5993,parity error in write buffer...................0,2
+fb0c83a3,652135824 double-hummer alignment exceptions,1
+2004bcc3,59413210 floating point alignment exceptions,1
+c0bfc0ae,111510752 double-hummer alignment exceptions,1
+598216eb,162861 floating point alignment exceptions,1
+e662894e,29618886 double-hummer alignment exceptions,1
+db061de1,156725808 double-hummer alignment exceptions,1
+56ef5194,33553388 double-hummer alignment exceptions,1
+077b8a2f,17489598 floating point alignment exceptions,1
+0ea729ab,41306990 double-hummer alignment exceptions,1
+f7b7e432,114667272 double-hummer alignment exceptions,1
+2cc491bb,254392616 double-hummer alignment exceptions,1
+8ec4b537,8 torus receiver z- input pipe error(s) (dcr 0x02f1) detected and corrected over 1229 seconds,1
+9da5d350,757190672 double-hummer alignment exceptions,1
+e66c9122,16292472 floating point alignment exceptions,1
+ed59d3e1,1556 double-hummer alignment exceptions,1
+75cbdc70,765167952 double-hummer alignment exceptions,1
+05c05808,instruction address: 0x0014bcb4,1
+a932eabf,34287522 double-hummer alignment exceptions,1
+3fbcda13,145978740 double-hummer alignment exceptions,1
+b93c410c,342549 floating point alignment exceptions,1
+33cf3b25,ciodb has been restarted.,2
+d2b3deda,39402460 double-hummer alignment exceptions,1
+aa48e9ea,33496905 floating point alignment exceptions,1
+597f55a4,143835270 double-hummer alignment exceptions,1
+a845369f,19714134 floating point alignment exceptions,1
+51ad3cce,1372482352 double-hummer alignment exceptions,1
+747fd583,112084896 double-hummer alignment exceptions,1
+c9160e01,133422892 double-hummer alignment exceptions,1
+c3f9ea16,149583048 double-hummer alignment exceptions,1
+469b132d,51 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected over 4371 seconds,1
+b0cffff8,iar 001066cc dear ,4
+47cd6ecf,"8840 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+b289bce1,651417024 double-hummer alignment exceptions,1
+1280cb88,1374012640 double-hummer alignment exceptions,1
+3454c5bb,"PrepareForService is being done on this Midplane (mLctn(R13-M1), mCardSernum( 203937503631353900000000594c31304b3432383930304c)) by root",1
+1253d8d2,111824224 double-hummer alignment exceptions,1
+36398a59,1492 tree receiver 0 in re-synch state event(s) (dcr 0x01bc) detected,1
+1236f39a,41704052 double-hummer alignment exceptions,1
+89baefd5,memory manager address parity error..............0,1
+292fc507,108763216 double-hummer alignment exceptions,1
+f548bf07,1351722304 double-hummer alignment exceptions,1
+30783cb4,257133206 double-hummer alignment exceptions,1
+de40307e,31979608 double-hummer alignment exceptions,1
+5e02e8df,36276706 double-hummer alignment exceptions,1
+77a72bc7,45896264 double-hummer alignment exceptions,1
+0373f0d0,44203112 double-hummer alignment exceptions,1
+8eac557a,114279032 double-hummer alignment exceptions,1
+79277ae3,150476742 double-hummer alignment exceptions,1
+96db487c,113426592 double-hummer alignment exceptions,1
+bacc1693,29124262 double-hummer alignment exceptions,1
+0033554d,1385398960 double-hummer alignment exceptions,1
+03bbb115,615536400 double-hummer alignment exceptions,1
+6df0965c,643672992 double-hummer alignment exceptions,1
+e63ae51d,44658596 floating point alignment exceptions,1
+995fb2f6,33552 floating point alignment exceptions,1
+3d2d047b,612802224 double-hummer alignment exceptions,1
+c06dcf1d,59437 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 3828 seconds,1
+48a3f4da,258342281 double-hummer alignment exceptions,1
+21acd7c2,257093601 double-hummer alignment exceptions,1
+7f963b99,1366924720 double-hummer alignment exceptions,1
+e0b31b76,"9 ddr error(s) detected and corrected on rank 0, symbol 11 over 9417 seconds",1
+ec953d97,12277089 floating point alignment exceptions,1
+23c85adf,128653310 double-hummer alignment exceptions,1
+b4229f6f,761530288 double-hummer alignment exceptions,1
+5849b60b,111439264 double-hummer alignment exceptions,1
+2ff20b17,654637824 double-hummer alignment exceptions,1
+bc495c87,4:0000000e 5:000865b0 6:1feaa238 7:0008948c,1
+959abbf5,254747361 double-hummer alignment exceptions,1
+c375fe1d,43077724 double-hummer alignment exceptions,1
+48780120,31844090 double-hummer alignment exceptions,1
+66c5c49f,745197360 double-hummer alignment exceptions,1
+60befa2b,258068110 double-hummer alignment exceptions,1
+c284cc1c,1379802592 double-hummer alignment exceptions,1
+3c14c5f2,38397916 double-hummer alignment exceptions,1
+4be18959,113986720 double-hummer alignment exceptions,1
+2c3399c5,33674808 double-hummer alignment exceptions,1
+d4df66fd,128210310 double-hummer alignment exceptions,1
+437c0d42,630759504 double-hummer alignment exceptions,1
+c8ec8d2c,739698256 double-hummer alignment exceptions,1
+0162cb52,24606957 floating point alignment exceptions,1
+65b31e18,memory manager refresh counter timeout...........0,1
+0a0690ff,28 torus receiver z- input pipe error(s) (dcr 0x02f1) detected and corrected,1
+34081f59,259044512 double-hummer alignment exceptions,1
+15d0ea95,257886895 double-hummer alignment exceptions,1
+e956c797,628571904 double-hummer alignment exceptions,1
+4dd7e26c,uncorrectable error detected in EDRAM bank ,2
+1fe7018f,6410232 floating point alignment exceptions,1
+74ea2f59,6111 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 30340 seconds,1
+c00af4b3,38780186 double-hummer alignment exceptions,1
+e99a47bc,1614 double-hummer alignment exceptions,1
+a604046e,635482608 double-hummer alignment exceptions,1
+b1262bf6,116137272 double-hummer alignment exceptions,1
+ef8c91c5,59768733 floating point alignment exceptions,1
+fdf7a124,628025328 double-hummer alignment exceptions,1
+aa257972,24112155 floating point alignment exceptions,1
+875625de,33858556 double-hummer alignment exceptions,1
+0b51b556,44774040 floating point alignment exceptions,1
+0052fa84,29081580 floating point alignment exceptions,1
+0a5af021,635001648 double-hummer alignment exceptions,1
+970f0e00,32809922 double-hummer alignment exceptions,1
+3941af33,648208416 double-hummer alignment exceptions,1
+e09047fc,31071784 double-hummer alignment exceptions,1
+bb2f5ba5,138322658 double-hummer alignment exceptions,1
+40741184,prefetch depth for core 1................1,1
+88254865,316 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 30420 seconds,1
+233843db,657133104 double-hummer alignment exceptions,1
+1ee9cee7,130169242 double-hummer alignment exceptions,1
+7010e3b3,113786224 double-hummer alignment exceptions,1
+e452a7ee,15945165 floating point alignment exceptions,1
+97774db6,635407104 double-hummer alignment exceptions,1
+53e4b370,755187728 double-hummer alignment exceptions,1
+7984f7a4,Controlling BG/L rows [ 0 1 2 3 4 5 6 7 ],1
+a92f927e,750966368 double-hummer alignment exceptions,1
+9324d280,40630738 double-hummer alignment exceptions,1
+aa0a2946,23127384 floating point alignment exceptions,1
+4a605a3c,117910736 double-hummer alignment exceptions,1
+eaa1e3fd,23374761 floating point alignment exceptions,1
+9e0daf0f,655649568 double-hummer alignment exceptions,1
+631a5843,38058 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+f6c6b920,1297200 double-hummer alignment exceptions,3
+add591f4,260867599 double-hummer alignment exceptions,1
+e5f541de,40022660 double-hummer alignment exceptions,1
+870ff395,24599676 floating point alignment exceptions,1
+f8a5a84f,"13 ddr error(s) detected and corrected on rank 0, symbol 33 over 13532 seconds",1
+9fe74d45,General Purpose Registers:,1
+9a4a835b,74352501 floating point alignment exceptions,1
+07f49a5b,258225945 double-hummer alignment exceptions,1
+cb28c863,enable inexact exceptions................0,1
+1809c689,5258517 floating point alignment exceptions,1
+e2304e94,620722992 double-hummer alignment exceptions,1
+c3d5a7b2,738151952 double-hummer alignment exceptions,1
+2f6b0c20,776101696 double-hummer alignment exceptions,1
+69c3c4cf,2016000 double-hummer alignment exceptions,2
+99dd20c1,747608480 double-hummer alignment exceptions,1
+1ffe48f4,1391618608 double-hummer alignment exceptions,1
+0e9dd8db,749164208 double-hummer alignment exceptions,1
+079f7116,114517672 double-hummer alignment exceptions,1
+c79de4fd,113279648 double-hummer alignment exceptions,1
+9412f9bc,146319502 double-hummer alignment exceptions,1
+5485c4b2,143689578 double-hummer alignment exceptions,1
+2e3d91b1,38323498 double-hummer alignment exceptions,1
+2b127e36,7 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected over 3729 seconds,1
+72a5af52,626263008 double-hummer alignment exceptions,1
+0b75bf07,259529525 double-hummer alignment exceptions,1
+97f7884b,DDR failing data registers: 0x00000000 0x00000000,1
+310925f6,258421091 double-hummer alignment exceptions,1
+6090b841,636652608 double-hummer alignment exceptions,1
+ce87b58a,113239152 double-hummer alignment exceptions,1
+12e02326,12403 double-hummer alignment exceptions,1
+a3cf1510,13 torus receiver z- input pipe error(s) (dcr 0x02f1) detected and corrected over 14332 seconds,1
+907917e4,"10601 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+e7cbf74d,34020 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+8dc97cb3,"31 ddr errors(s) detected and corrected on rank 0, symbol 12, bit 5",1
+2cb9968b,126038978 double-hummer alignment exceptions,1
+5d3612b7,251623846 double-hummer alignment exceptions,1
+a38251a4,4:00439430 5:ffff96e0 6:fffbccf0 7:0f554c48,1
+312c6687,9 torus receiver y+ input pipe error(s) (dcr 0x02ee) detected and corrected over 31072 seconds,1
+e719c6cc,110591056 double-hummer alignment exceptions,1
+8c1fcd6c,40247344 double-hummer alignment exceptions,1
+e2ec0b70,2006 torus receiver y+ input pipe error(s) (dcr 0x02ee) detected and corrected,1
+7874f462,5904798 floating point alignment exceptions,1
+5932c5fc,654900912 double-hummer alignment exceptions,1
+4c15fdf9,24 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 6999 seconds,1
+9456ed08,176 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected over 15383 seconds,1
+0e81377f,117607928 double-hummer alignment exceptions,1
+21626bfb,iar 001069b4 dear 0246f98c,1
+13a14aa3,1379968576 double-hummer alignment exceptions,1
+467f9c93,38511768 double-hummer alignment exceptions,1
+2e79506b,39022124 double-hummer alignment exceptions,1
+90ad81d6,1379557840 double-hummer alignment exceptions,1
+c604aeea,140231072 double-hummer alignment exceptions,1
+78bc88ad,"8864 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+f7056620,24607086 floating point alignment exceptions,1
+278dbecf,23389575 floating point alignment exceptions,1
+81a6ed28,111430216 double-hummer alignment exceptions,1
+fbd9dc05,259002176 double-hummer alignment exceptions,1
+1a6e1820,117238512 double-hummer alignment exceptions,1
+c2ccafb6,232446148 double-hummer alignment exceptions,1
+608d47a4,117259326 double-hummer alignment exceptions,1
+13765a91,33958492 double-hummer alignment exceptions,1
+c306a5eb,47062194 double-hummer alignment exceptions,1
+1f45a79a,632588928 double-hummer alignment exceptions,1
+baef3615,635909664 double-hummer alignment exceptions,1
+4fb6bdc8,instruction address: 0x00000000,1
+8e601404,635901504 double-hummer alignment exceptions,1
+c7a0ea08,770226880 double-hummer alignment exceptions,1
+968cb688,"1966 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+c083439e,122837346 double-hummer alignment exceptions,1
+9f70057c,260346383 double-hummer alignment exceptions,1
+d4fd81a2,5939832 floating point alignment exceptions,1
+0f9329ee,146977670 double-hummer alignment exceptions,1
+fc718e1e,110350272 double-hummer alignment exceptions,1
+993a29bc,1332245632 double-hummer alignment exceptions,1
+fd1243b0,24614238 floating point alignment exceptions,1
+ecd3f899,7 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 61189 seconds,1
+532bef65,643334304 double-hummer alignment exceptions,1
+77dcdd61,1388577232 double-hummer alignment exceptions,1
+882c1dc8,7851339 floating point alignment exceptions,1
+43fa1478,258748241 double-hummer alignment exceptions,1
+5137ece3,115388232 double-hummer alignment exceptions,1
+7e55e764,25268592 floating point alignment exceptions,1
+cf6e9ee9,407490 double-hummer alignment exceptions,1
+72cc649b,756148736 double-hummer alignment exceptions,1
+0af3930a,16:00000034 17:00000564 18:00088804 19:00089b08,1
+53f7644d,74359791 floating point alignment exceptions,1
+5479a69c,"46 ddr error(s) detected and corrected on rank 0, symbol 30 over 3283 seconds",1
+261dd541,1374222016 double-hummer alignment exceptions,1
+adde340a,35917462 double-hummer alignment exceptions,1
+1acd8b9f,26529570 double-hummer alignment exceptions,1
+d1af8279,119201186 double-hummer alignment exceptions,1
+05e8048c,736349664 double-hummer alignment exceptions,1
+79f5fb4d,765188384 double-hummer alignment exceptions,1
+438943f0,256808154 double-hummer alignment exceptions,1
+54382b07,fpr3=0xffffffff ffffffff ffffffff ffffffff,1
+944d6af7,DDR machine check register: 0x00000000 0x00010000,1
+6307f9b3,4988376 floating point alignment exceptions,1
+6cc844c0,253949689 double-hummer alignment exceptions,1
+8e5c1993,32248048 double-hummer alignment exceptions,1
+b4b3c4de,113869888 double-hummer alignment exceptions,1
+70f10973,19708587 floating point alignment exceptions,1
+85c5c2b4,34866560 double-hummer alignment exceptions,1
+3b51875d,756230448 double-hummer alignment exceptions,1
+6336d578,5293641 floating point alignment exceptions,1
+72e3cf0b,59 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 13480 seconds,1
+cf2225a5,"10787 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+c145dde2,39248546 double-hummer alignment exceptions,1
+6f50a15a,146016820 double-hummer alignment exceptions,1
+e5cf698b,260765384 double-hummer alignment exceptions,1
+df450fe6,255871281 double-hummer alignment exceptions,1
+5f7af50c,114611144 double-hummer alignment exceptions,1
+96e5fd0e,647811264 double-hummer alignment exceptions,1
+f495b4a6,145608126 double-hummer alignment exceptions,1
+939b4001,32 torus receiver x- input pipe error(s) (dcr 0x02ed) detected and corrected,1
+7bf32ca7,94988901 floating point alignment exceptions,1
+580ab32c,146739292 double-hummer alignment exceptions,1
+477cf5b8,11987343 floating point alignment exceptions,1
+2b3a8f48,iar 00105e68 dear 02f58f5c,1
+34eda654,14806230 floating point alignment exceptions,1
+b5f8f817,113518112 double-hummer alignment exceptions,1
+8b0ea4e1,645374112 double-hummer alignment exceptions,1
+8bd220fd,44 torus processor sram reception error(s) (dcr 0x02fc) detected and corrected,1
+7cc3e3a5,742608272 double-hummer alignment exceptions,1
+15ec6026,745512048 double-hummer alignment exceptions,1
+60d5ee80,529920 double-hummer alignment exceptions,1
+8e5902e9,111859440 double-hummer alignment exceptions,1
+1b2f2e65,630360912 double-hummer alignment exceptions,1
+f750cbf5,158778138 double-hummer alignment exceptions,1
+05347f4e,round toward zero........................0,1
+d16f6207,4337052 floating point alignment exceptions,1
+d121f3e4,10852899 floating point alignment exceptions,1
+b2fd98b1,Link PGOOD error latched on link card,2
+dbe260c1,146780344 double-hummer alignment exceptions,1
+98641c56,5282286 floating point alignment exceptions,1
+6ad70b39,32405362 double-hummer alignment exceptions,1
+f51a2991,31884150 double-hummer alignment exceptions,1
+95bada48,17290446 floating point alignment exceptions,1
+17dc9d13,16:00000000 17:00089b10 18:001e7ea0 19:00000001,1
+a64ae27f,255400161 double-hummer alignment exceptions,1
+c155f310,27128908 double-hummer alignment exceptions,1
+cacf3ccb,fpr26=0xffffffff ffffffff 00000000 bfe00000,1
+bfe635e4,33483106 double-hummer alignment exceptions,1
+f823c010,760713120 double-hummer alignment exceptions,1
+11470e59,0:60000000 1:00088690 2:1eeeeeee 3:00088780,1
+2d9b2ee1,255388117 double-hummer alignment exceptions,1
+ebec498f,invalid (compare)........................0,1
+08c3e586,751300416 double-hummer alignment exceptions,1
+968fa546,1314782080 double-hummer alignment exceptions,1
+a9895aae,623581632 double-hummer alignment exceptions,1
+5c7f1cc7,SerialNumber(000000000000000000000000fff29f157ef6000d60ea8109) IpAddress(0.0.0.0) Status(A),1
+12162424,38490872 double-hummer alignment exceptions,1
+12b60f0e,622160112 double-hummer alignment exceptions,1
+4637c2c8,33 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+5f331786,"701 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+48587644,115186672 double-hummer alignment exceptions,1
+55d242e8,647108544 double-hummer alignment exceptions,1
+7beb03a8,"32 ddr errors(s) detected and corrected on rank 0, symbol 0, bit 3",1
+26932345,765517600 double-hummer alignment exceptions,1
+a4c701c8,37188064 double-hummer alignment exceptions,1
+f38ecd90,32863374 double-hummer alignment exceptions,1
+681160b2,258744883 double-hummer alignment exceptions,1
+275be70f,19410325 torus sender z+ retransmission error(s) (dcr 0x02f8) detected and corrected over 206 seconds,1
+81699b00,137814730 double-hummer alignment exceptions,1
+5f408410,38979068 double-hummer alignment exceptions,1
+8a1864f0,5073909 floating point alignment exceptions,1
+26a3fec6,755464368 double-hummer alignment exceptions,1
+27cad4f0,115553808 double-hummer alignment exceptions,1
+1c6e2935,111906160 double-hummer alignment exceptions,1
+aea1666d,750275856 double-hummer alignment exceptions,1
+0fdb728c,152785140 double-hummer alignment exceptions,1
+284ea5f7,"10763 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+780f82c7,631857744 double-hummer alignment exceptions,1
+b4eee106,30762994 double-hummer alignment exceptions,1
+580ff061,24527664 floating point alignment exceptions,1
+ac47af6c,"73, max=366",1
+94cb9d91,iar 0010683c dear 02f6930c,1
+0c7d7da8,625388304 double-hummer alignment exceptions,1
+3bec8c24,153543 floating point alignment exceptions,1
+f1fde33a,253267217 double-hummer alignment exceptions,1
+48bb3563,119903416 double-hummer alignment exceptions,1
+ba50dcc8,775386544 double-hummer alignment exceptions,1
+d1e751d0,747755536 double-hummer alignment exceptions,1
+2a7bdf67,36266950 double-hummer alignment exceptions,1
+7cf05dca,24875606 double-hummer alignment exceptions,1
+5c96adf0,752374784 double-hummer alignment exceptions,1
+e3d45c1a,37920584 double-hummer alignment exceptions,1
+f3a1dff6,38964772 double-hummer alignment exceptions,1
+c20f3415,"18 ddr error(s) detected and corrected on rank 0, symbol 33 over 309 seconds",1
+acd654f7,33735464 double-hummer alignment exceptions,1
+47e55c92,uncorrectable error...0,1
+f15d0a9d,258885322 double-hummer alignment exceptions,1
+284aed56,18237069 floating point alignment exceptions,1
+7188125e,31482160 double-hummer alignment exceptions,1
+81f6a4ad,43174124 double-hummer alignment exceptions,1
+dbcdabe3,645687792 double-hummer alignment exceptions,1
+ed81f2ef,759055136 double-hummer alignment exceptions,1
+edbd537b,33524994 double-hummer alignment exceptions,1
+aa281305,255031703 double-hummer alignment exceptions,1
+28e68069,130680982 double-hummer alignment exceptions,1
+5d3cbe53,16941675 floating point alignment exceptions,1
+e430ba03,638724 floating point alignment exceptions,1
+3ac7c0e8,129271342 double-hummer alignment exceptions,1
+14439126,"1106 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+72160b34,257079277 double-hummer alignment exceptions,1
+4d02c343,619057200 double-hummer alignment exceptions,1
+48022dfb,621233376 double-hummer alignment exceptions,1
+26abfa81,39905914 double-hummer alignment exceptions,1
+07612768,139420314 double-hummer alignment exceptions,1
+5f3b09c1,34344430 double-hummer alignment exceptions,1
+291fb7be,iar 001066d8 dear 0245b99c,1
+11646f7f,30510034 double-hummer alignment exceptions,1
+75c44871,"702 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",2
+feda3913,5027865 floating point alignment exceptions,1
+78d346a8,27634602 double-hummer alignment exceptions,1
+b7b53890,33060340 double-hummer alignment exceptions,1
+7014d0bd,116129104 double-hummer alignment exceptions,1
+5a3dcdce,1415180752 double-hummer alignment exceptions,1
+a6fc8e12,44554724 double-hummer alignment exceptions,1
+e388fb0b,155840894 double-hummer alignment exceptions,1
+47eaaeb8,257754002 double-hummer alignment exceptions,1
+6ef8a24f,5932098 floating point alignment exceptions,1
+5428f3d9,mmcs_db_server has been started: ./mmcs_db_server --useDatabase BGL --dbproperties serverdb.properties --iolog /bgl/BlueLight/logs/BGL --reconnect-blocks all --shutdown-timeout 30,1
+b766c924,134710690 double-hummer alignment exceptions,1
+d6969e18,35135622 double-hummer alignment exceptions,1
+280832d0,115613408 double-hummer alignment exceptions,1
+03144172,773570928 double-hummer alignment exceptions,1
+a9a87de1,113485120 double-hummer alignment exceptions,1
+13b3fb3c,647851920 double-hummer alignment exceptions,1
+6985d8a8,1631 tree receiver 1 in re-synch state event(s) (dcr 0x0185) detected,1
+7c9e0925,100024320 double-hummer alignment exceptions,1
+1cff80e8,5589762 floating point alignment exceptions,1
+947821ee,641362224 double-hummer alignment exceptions,1
+fbb2acee,33390 floating point alignment exceptions,2
+a4fab55f,17 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected,1
+e527a475,32251254 double-hummer alignment exceptions,1
+2f4a4d63,"3856 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+757a42ab,42451654 double-hummer alignment exceptions,1
+04aba13e,619724928 double-hummer alignment exceptions,1
+5d491bd8,16684872 floating point alignment exceptions,1
+909f438b,39 torus sender x+ retransmission error(s) (dcr 0x02f4) detected and corrected,1
+621acb64,6133977 floating point alignment exceptions,1
+052e3fe4,113200816 double-hummer alignment exceptions,1
+98acd82f,631948128 double-hummer alignment exceptions,1
+9d48334d,255936245 double-hummer alignment exceptions,1
+77524738,770231600 double-hummer alignment exceptions,1
+1945b4da,189522 floating point alignment exceptions,1
+4b6bbbc5,113628762 double-hummer alignment exceptions,1
+d190aaf7,30672534 double-hummer alignment exceptions,1
+99f477c8,255596663 double-hummer alignment exceptions,1
+3e25163f,114364960 double-hummer alignment exceptions,1
+3f103296,inexact exception........................0,1
+16cf767a,253811599 double-hummer alignment exceptions,1
+3171deb1,34613594 floating point alignment exceptions,1
+37026d14,257564955 double-hummer alignment exceptions,1
+919fe657,18913 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected over 6949 seconds,1
+31b5918f,256110762 double-hummer alignment exceptions,1
+3bedc43f,113650352 double-hummer alignment exceptions,1
+dc23e80c,"126 ddr error(s) detected and corrected on rank 0, symbol 14 over 17131 seconds",1
+4566d988,"3844 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+226edfc0,132200304 double-hummer alignment exceptions,1
+73b69936,35340792 double-hummer alignment exceptions,1
+8346c2b4,256427971 double-hummer alignment exceptions,1
+1ea87ad1,162423010 double-hummer alignment exceptions,1
+e5548139,35781840 double-hummer alignment exceptions,1
+85883912,31170196 double-hummer alignment exceptions,1
+80e2f897,113548224 double-hummer alignment exceptions,1
+584dccb7,1405441456 double-hummer alignment exceptions,1
+5d89bdf6,647338800 double-hummer alignment exceptions,1
+b01c1b53,38263534 double-hummer alignment exceptions,1
+aa6b414a,1091840 double-hummer alignment exceptions,1
+bd9b7c46,138645954 double-hummer alignment exceptions,1
+ab4682ad,44958204 double-hummer alignment exceptions,1
+f6c51b3d,749751968 double-hummer alignment exceptions,1
+b4389a98,34065280 double-hummer alignment exceptions,1
+464b5be2,"10771 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+de36d355,30706380 double-hummer alignment exceptions,1
+77a6ad8a,189867 floating point alignment exceptions,1
+4e7912c1,92835798 floating point alignment exceptions,1
+346f6bcd,4:b1144000 5:b1144000 6:009e7f40 7:00a29bb0,1
+db447a9b,24654372 floating point alignment exceptions,1
+f67bfd1d,29197578 double-hummer alignment exceptions,1
+0331f9cc,39237506 double-hummer alignment exceptions,1
+46ba6caf,1390915744 double-hummer alignment exceptions,1
+4e632394,37271602 double-hummer alignment exceptions,1
+4efe9409,fpr10=0xac584f3a bffac6de 00000000 401c0000,1
+1acb1001,748642848 double-hummer alignment exceptions,1
+353e34ad,113338448 double-hummer alignment exceptions,1
+589827e3,112138968 double-hummer alignment exceptions,1
+26374089,1324418656 double-hummer alignment exceptions,1
+aebe4d17,644895744 double-hummer alignment exceptions,1
+2926f0f3,"PrepareForService is being done on this Midplane (mLctn(R22-M1), mCardSernum(203937503631353900000000594c31304b34333333303341), iWhichCardsToPwrOff(500)) by root",1
+1015678b,154050600 double-hummer alignment exceptions,1
+57eb34a9,30479082 double-hummer alignment exceptions,1
+67c92fab,1371861520 double-hummer alignment exceptions,1
+62ad3392,32594678 double-hummer alignment exceptions,1
+30638598,"677 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+4db85f57,48837216 double-hummer alignment exceptions,1
+ce892abd,138374046 double-hummer alignment exceptions,1
+0e68f177,764046784 double-hummer alignment exceptions,1
+11d199b2,data address: 0xfb6b2ef4,1
+636de072,128143422 double-hummer alignment exceptions,1
+1d1e5062,114239736 double-hummer alignment exceptions,1
+c333784d,112425552 double-hummer alignment exceptions,1
+29061587,33701332 double-hummer alignment exceptions,1
+7bd0e210,256675587 double-hummer alignment exceptions,1
+86f9789f,257696373 double-hummer alignment exceptions,1
+3b9896c6,256152504 double-hummer alignment exceptions,1
+6f3b7ec7,instruction address: 0x00466378,1
+643c85f0,instruction address: 0x00019300,1
+5c790dd4,127585948 double-hummer alignment exceptions,1
+8c40a46c,118252776 double-hummer alignment exceptions,1
+b641d70c,38658240 double-hummer alignment exceptions,1
+83fd5b47,38207926 double-hummer alignment exceptions,1
+0cee7cd2,112496504 double-hummer alignment exceptions,1
+cb73f715,5283261 floating point alignment exceptions,1
+8b2bb2b9,136000564 double-hummer alignment exceptions,1
+6bfbe542,256004246 double-hummer alignment exceptions,1
+546fc44b,113430496 double-hummer alignment exceptions,1
+46ade70e,1164453 floating point alignment exceptions,1
+98a71c30,48013472 double-hummer alignment exceptions,1
+8d0d334a,256754267 double-hummer alignment exceptions,1
+9f390351,17302146 floating point alignment exceptions,1
+351f8c10,32190540 double-hummer alignment exceptions,1
+6058e06d,256319019 double-hummer alignment exceptions,1
+68e5e837,116358872 double-hummer alignment exceptions,1
+d14ce4b2,31117824 double-hummer alignment exceptions,1
+eabfd29b,164069842 double-hummer alignment exceptions,1
+e094a186,enable invalid operation exceptions......0,1
+8119c06e,620020752 double-hummer alignment exceptions,1
+ff32a5f1,116947040 double-hummer alignment exceptions,1
+d2036394,29683274 double-hummer alignment exceptions,1
+69f19ea4,114419176 double-hummer alignment exceptions,1
+07ad32be,420180 double-hummer alignment exceptions,1
+1b3f1397,59804252 floating point alignment exceptions,1
+f07f15c9,fpr1=0x00000000 00000000 d2f1a9fc 3f10624d,1
+0f17597f,57561051 floating point alignment exceptions,1
+94997d6f,36539484 double-hummer alignment exceptions,1
+3e5701d6,34279892 double-hummer alignment exceptions,1
+21eecca5,113266736 double-hummer alignment exceptions,1
+eae14194,35283400 double-hummer alignment exceptions,1
+6aec5e32,1536 double-hummer alignment exceptions,1
+316b0235,254317362 double-hummer alignment exceptions,1
+9273836a,36684622 double-hummer alignment exceptions,1
+baea6e1c,EndServiceAction is restarting the Node cards in Midplane R62-M0 as part of Service Action 669,1
+75601edf,149108988 double-hummer alignment exceptions,1
+6526ac1a,255386992 double-hummer alignment exceptions,1
+43e755bf,110283968 double-hummer alignment exceptions,1
+0a043843,1168286 floating point alignment exceptions,1
+926ef7c0,121224576 double-hummer alignment exceptions,1
+2909fde3,fpr27=0xffffffff ffffffff 211a6973 3eda90b7,1
+41ace327,21 torus sender y+ retransmission error(s) (dcr 0x02f6) detected and corrected,1
+059c7851,1408886272 double-hummer alignment exceptions,1
+5caf5f9d,42 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+1d201748,623215872 double-hummer alignment exceptions,1
+be1009fe,117294944 double-hummer alignment exceptions,1
+6c3e9e94,28230580 double-hummer alignment exceptions,1
+f8369525,656699424 double-hummer alignment exceptions,1
+84484ab9,35218450 double-hummer alignment exceptions,1
+097556b7,630884784 double-hummer alignment exceptions,1
+4bbe9652,260815969 double-hummer alignment exceptions,1
+962a6599,invalid (Inf/Zero).......................0,1
+304c379f,8:002349c0 9:00230000 10:00236000 11:00236a50,1
+3222ff52,35552362 double-hummer alignment exceptions,1
+ee03e3ce,115012704 double-hummer alignment exceptions,1
+2c9ba3df,118595408 double-hummer alignment exceptions,1
+16e43623,747025296 double-hummer alignment exceptions,1
+87bc58cd,140689972 double-hummer alignment exceptions,1
+85648ef1,6025803 floating point alignment exceptions,1
+3be0cfed,32963280 double-hummer alignment exceptions,1
+8d104fdd,255413107 double-hummer alignment exceptions,1
+61f961dd,126278138 double-hummer alignment exceptions,1
+dac1e075,LinkCard is not fully functional,1
+32a19e03,correctable error detected in directory 1......0,1
+9f0c814c,33792788 double-hummer alignment exceptions,1
+7e659ee6,136480372 double-hummer alignment exceptions,1
+fad85cb0,40646728 double-hummer alignment exceptions,1
+4ab7302a,fpr11=0xffffffff ffffffff ffffffff ffffffff,1
+2f9feac2,fpr7=0xffffffff ffffffff ffffffff ffffffff,1
+0cdc34ee,117692712 double-hummer alignment exceptions,1
+71e85b4b,1343084944 double-hummer alignment exceptions,1
+bf01c002,115950848 double-hummer alignment exceptions,1
+a254b1bd,135665588 double-hummer alignment exceptions,1
+fd4d202e,37531374 double-hummer alignment exceptions,1
+c6a06a04,1391152192 double-hummer alignment exceptions,1
+707e9ffb,258561227 double-hummer alignment exceptions,1
+a4ba0179,5 torus receiver y- input pipe error(s) (dcr 0x02ef) detected and corrected,1
+d37f60ef,133324142 double-hummer alignment exceptions,1
+bbe8d311,95262735 floating point alignment exceptions,1
+b0d3b2a4,DDR failing info register: DDR Fail Info Register: 0x00000000,1
+5544b67e,46310608 double-hummer alignment exceptions,1
+74613dd1,40177024 double-hummer alignment exceptions,1
+028b91da,"710 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+ebecbf38,653011344 double-hummer alignment exceptions,1
+c1bb2ba4,135032644 double-hummer alignment exceptions,1
+965737c0,8:07243b28 9:021b8508 10:021c0508 11:01cb85b8,1
+7e2769a6,16019649 floating point alignment exceptions,1
+da9a1a86,1380480256 double-hummer alignment exceptions,1
+385c74e7,38994376 double-hummer alignment exceptions,1
+a89cd694,115459096 double-hummer alignment exceptions,1
+20d44c04,33627650 double-hummer alignment exceptions,1
+fbbb0a48,19817520 double-hummer alignment exceptions,1
+45e0f2e2,258375646 double-hummer alignment exceptions,1
+670a03d2,30 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected over 3825 seconds,1
+9c7d4318,data address: 0x228d4070,1
+1882120c,257467633 double-hummer alignment exceptions,1
+e3fc806b,469965 floating point alignment exceptions,1
+e2842a0e,111103080 double-hummer alignment exceptions,1
+771c0fe6,enable underflow exceptions..............0,1
+5471820f,46183970 double-hummer alignment exceptions,1
+e277f66e,20:00000000 21:00000000 22:00000000 23:000001b8,1
+dcff1b9e,153607592 double-hummer alignment exceptions,1
+0d90bf42,258469801 double-hummer alignment exceptions,1
+6fe08015,38719886 double-hummer alignment exceptions,1
+1c4fe7e2,258246769 double-hummer alignment exceptions,1
+5e804b01,36707154 double-hummer alignment exceptions,1
+89e4dc47,30497106 double-hummer alignment exceptions,1
+39fe114b,5913288 floating point alignment exceptions,1
+2e1e0278,726500480 double-hummer alignment exceptions,1
+bb5fa44e,102 double-hummer alignment exceptions,1
+0989b76b,"ddr: redundant bit steering failed, sequencer timeout",1
+001295e3,151122180 double-hummer alignment exceptions,1
+28038f01,155615488 double-hummer alignment exceptions,1
+2478fe0d,751237072 double-hummer alignment exceptions,1
+5986f25f,273 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected over 15941 seconds,1
+df889007,"15 ddr error(s) detected and corrected on rank 0, symbol 18 over 16491 seconds",1
+c3aebc4c,41937308 double-hummer alignment exceptions,1
+5bc8ad23,5934405 floating point alignment exceptions,1
+74f69af2,1314635536 double-hummer alignment exceptions,1
+80587b5c,36140190 double-hummer alignment exceptions,1
+fb54b465,7304207 double-hummer alignment exceptions,1
+2a5853af,fpr23=0xffffffff ffffffff ffffffff ffffffff,1
+3285b2b0,1335 torus receiver x- input pipe error(s) (dcr 0x02ed) detected and corrected,1
+d398f4da,632958240 double-hummer alignment exceptions,1
+4eaac0f0,638063472 double-hummer alignment exceptions,1
+d9c60eef,1536000 double-hummer alignment exceptions,1
+9bb0f4e2,32387840 double-hummer alignment exceptions,1
+669e5904,111633264 double-hummer alignment exceptions,1
+0e90c7e7,115280544 double-hummer alignment exceptions,1
+8d8849fe,751086576 double-hummer alignment exceptions,1
+3aa4d6d7,"21 ddr errors(s) detected and corrected on rank 0, symbol 21, bit 3",1
+8cc526c0,111368480 double-hummer alignment exceptions,1
+2440afc7,16307262 floating point alignment exceptions,1
+b9b1c1e2,259173324 double-hummer alignment exceptions,1
+02eecfd1,42264186 double-hummer alignment exceptions,1
+4592dfb9,31734322 double-hummer alignment exceptions,1
+87d5064e,"3854 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+600ab3a1,"3958 ddr error(s) detected and corrected on rank 0, symbol 33 over 372 seconds",1
+5312c906,"28 ddr error(s) detected and corrected on rank 0, symbol 14 over 3365 seconds",1
+e2576fe7,7 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+938f90f6,750410688 double-hummer alignment exceptions,1
+e1659b60,755666080 double-hummer alignment exceptions,1
+85551418,765873264 double-hummer alignment exceptions,1
+30f06675,113054864 double-hummer alignment exceptions,1
+3152f17f,110522936 double-hummer alignment exceptions,1
+79a673cd,116707176 double-hummer alignment exceptions,1
+6386e389,26340002 double-hummer alignment exceptions,1
+95f26c37,35567216 double-hummer alignment exceptions,1
+429f9a04,429669 floating point alignment exceptions,1
+0947155e,25786714 double-hummer alignment exceptions,1
+796bde24,"716 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+9b13765d,11160 floating point alignment exceptions,1
+bf4cc966,256534596 double-hummer alignment exceptions,1
+4f2699f5,637125792 double-hummer alignment exceptions,1
+cc11dee7,257117285 double-hummer alignment exceptions,1
+37616312,638293968 double-hummer alignment exceptions,1
+72339624,116245488 double-hummer alignment exceptions,1
+6b8f10b3,111945296 double-hummer alignment exceptions,1
+68b93e31,115728840 double-hummer alignment exceptions,1
+e09003ab,626459808 double-hummer alignment exceptions,1
+8213266c,641317008 double-hummer alignment exceptions,1
+0892fbca,47463646 torus receiver z+ input pipe error(s) (dcr 0x02f0) detected and corrected,1
+e52cc15c,5 torus sender x+ retransmission error(s) (dcr 0x02f4) detected and corrected,1
+2ef66442,27983242 double-hummer alignment exceptions,1
+b0b49a35,654644496 double-hummer alignment exceptions,1
+ebaece80,114374728 double-hummer alignment exceptions,1
+0f8bcf6f,53993898 floating point alignment exceptions,1
+4c619c03,59812986 floating point alignment exceptions,1
+a877c6cf,257124935 double-hummer alignment exceptions,1
+7747af20,1414144576 double-hummer alignment exceptions,1
+14e114bd,153435 floating point alignment exceptions,2
+072156b5,"1256 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+3e61a072,39621014 double-hummer alignment exceptions,1
+eef794ff,637184016 double-hummer alignment exceptions,1
+ede439df,256349513 double-hummer alignment exceptions,1
+844e7e69,31771052 double-hummer alignment exceptions,1
+cb50e5d7,173 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+83a6a1fe,657668544 double-hummer alignment exceptions,1
+06dfa075,26 torus sender y+ retransmission error(s) (dcr 0x02f6) detected and corrected,1
+0d3ba019,33808616 double-hummer alignment exceptions,1
+161e7ddc,10 torus sender x- retransmission error(s) (dcr 0x02f5) detected and corrected,1
+63262315,37586168 double-hummer alignment exceptions,1
+61594c2a,112419016 double-hummer alignment exceptions,1
+4ab78832,0:00000000 1:00085fd0 2:1eeeeeee 3:0000000b,1
+9d5913ce,109726384 double-hummer alignment exceptions,1
+1474d873,256376658 double-hummer alignment exceptions,1
+ea578233,32317536 double-hummer alignment exceptions,1
+0d6e816a,916164 floating point alignment exceptions,1
+8a7becfb,258249445 double-hummer alignment exceptions,1
+220653ab,36979606 double-hummer alignment exceptions,1
+6b8ce42e,39318488 double-hummer alignment exceptions,1
+1f93d76e,112577848 double-hummer alignment exceptions,1
+901cee88,747913248 double-hummer alignment exceptions,1
+d9bb4e8d,59798696 floating point alignment exceptions,1
+8147d4b7,37807762 double-hummer alignment exceptions,1
+7c7d9610,15469386 floating point alignment exceptions,1
+2e97b5b0,155709706 double-hummer alignment exceptions,1
+8577e552,46310056 double-hummer alignment exceptions,1
+f4b06f7a,29264576 double-hummer alignment exceptions,1
+7abc1762,41042812 double-hummer alignment exceptions,1
+f10d02c1,26037718 double-hummer alignment exceptions,1
+7d81d5fa,112672312 double-hummer alignment exceptions,1
+042225f1,42774910 double-hummer alignment exceptions,1
+e2871d7d,24112161 floating point alignment exceptions,1
+90cd28e4,259048872 double-hummer alignment exceptions,1
+7e838eab,257224629 double-hummer alignment exceptions,1
+c2dfe0cb,625776864 double-hummer alignment exceptions,1
+78f006a0,"10741 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+9bd033fe,15311157 floating point alignment exceptions,1
+b72e4beb,203 double-hummer alignment exceptions,1
+aaf829d9,29 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected,1
+2999b30f,32005554 double-hummer alignment exceptions,1
+a6ac4205,fpr20=0xffffffff ffffffff 80b66800 3fb0271d,1
+53c597d8,133081402 double-hummer alignment exceptions,1
+3e594001,1368477472 double-hummer alignment exceptions,1
+a28d8c89,630413712 double-hummer alignment exceptions,1
+b130ab0b,40334758 double-hummer alignment exceptions,1
+0a98b3cd,1317203152 double-hummer alignment exceptions,1
+2af6a52e,36233302 double-hummer alignment exceptions,1
+63ab18ef,115581664 double-hummer alignment exceptions,1
+c7855a43,5323092 floating point alignment exceptions,1
+b6066fff,1358048176 double-hummer alignment exceptions,1
+f0a23bcb,fpr29=0xffffffff ffffffff ffffffff ffffffff,1
+15c7ba03,648133344 double-hummer alignment exceptions,1
+d3b16da1,257553062 double-hummer alignment exceptions,1
+5b4bb48e,41701842 double-hummer alignment exceptions,1
+af14642e,257443135 double-hummer alignment exceptions,1
+f3bb7f72,146062264 double-hummer alignment exceptions,1
+44acd4df,32557556 double-hummer alignment exceptions,1
+47b83c6c,"44 ddr error(s) detected and corrected on rank 0, symbol 11 over 2915 seconds",1
+9e34e49a,652003200 double-hummer alignment exceptions,1
+146e09ef,instruction address: 0x000004fc,1
+40a2ecb2,24597795 floating point alignment exceptions,1
+80938977,5864349 floating point alignment exceptions,1
+68ec63b9,249654883 double-hummer alignment exceptions,1
+ebcc7e22,257311597 double-hummer alignment exceptions,1
+dfe8900e,36834764 double-hummer alignment exceptions,1
+10a57196,643838400 double-hummer alignment exceptions,1

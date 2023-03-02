@@ -1,0 +1,44 @@
+EventId,EventTemplate,Occurrences
+b542638e,message repeated <*> times: [ Failed password for root from <*> port <*> ssh2],3383
+2491ca3e,Connection closed by <*> [preauth],6380
+e35a70fe,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> <*>,12913
+00a684b8,PAM service(sshd) ignoring max retries; <*> > 3,3442
+ca409192,Failed <*> for invalid user <*> from <*> port <*> ssh2,1855
+07159a74,<*> password for <*> from <*> port <*> ssh2,12941
+54a90e3c,PAM <*> more authentication <*> logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> user=root,3274
+a998e480,fatal: Read from socket failed: Connection reset by peer [preauth],81
+2817a946,Received disconnect from <*>: 11: <*> <*> <*>,4291
+1048a82a,PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,69
+e2315f39,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,1325
+509a487f,Disconnecting: Too many authentication failures for <*> [preauth],3425
+6b674ff1,input_userauth_request: invalid user <*> [preauth],1397
+9302fad4,Invalid user <*> from <*>,1342
+0c7b42d8,"Address <*> maps to <*>, but this does not map back to the address - POSSIBLE BREAK-IN ATTEMPT!",58
+0849a7d0,pam_unix(sshd:auth): check pass; user unknown,1781
+f7fe7f88,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!,1700
+d7242a1b,error: Received disconnect from <*>: 14: No more user authentication methods available. [preauth],83
+a844f2e9,Failed none for invalid user  from <*> port 48104 ssh2,1
+911c831b,pam_unix(sshd:session): session closed for user hxu,3
+1a4f6a29,pam_unix(sshd:session): session closed for user curi,7
+d72fd2a1,PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,39
+c926c7d9,Did not receive identification string from <*>,72
+a625beb4,Received disconnect from <*>: 11:  [preauth],9
+b7a32072,pam_unix(sshd:session): session opened for user <*> by (uid=0),15
+e2e22af4,Received disconnect from <*>: 11: Closed due to user request. [preauth],45
+3a82a99b,Received disconnect from <*>: 11: Client disconnecting normally [preauth],8
+8bb6393b,Received disconnect from <*>: 11: disconnect [preauth],7
+377b0e6d,input_userauth_request: invalid user  [preauth],1
+63e0b01d,error: Received disconnect from <*>: 3: <*>: Read timed out [preauth],1
+bf9b6a0d,Bad protocol version identification <*> from <*> port <*>,2
+7f8d7ef8,PAM 1 more authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,10
+123e2bce,"Address <*> maps to <*>.magvision.com, but this does not map back to the address - POSSIBLE BREAK-IN ATTEMPT!",4
+3a7285d3,error: Received disconnect from <*>: 3: <*>: Auth fail [preauth],13
+c379a163,Bad protocol version identification <*> <*> HTTP/1.1' from <*> port <*>,3
+9b9289cb,PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,6
+5535ca2f,pam_unix(sshd:session): session closed for user suyuxin,2
+a14214b5,Server listening on <*> port 447.,1
+62784b9d,"Received disconnect from <*>: 11: Normal Shutdown, Thank you for playing [preauth]",5
+f1b6aea8,Invalid user  from <*>,2
+cfe22f2e,pam_unix(sshd:session): session closed for user fztu,2
+7e8255fb,Failed password for invalid user  from <*> port 37920 ssh2,1
+e93b7b61,pam_unix(sshd:session): session closed for user jmzhu,1

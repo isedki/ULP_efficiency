@@ -1,0 +1,58 @@
+EventId,EventTemplate,Occurrences
+7b83d3f0,warning,611
+6edfd1c7,<*> responding,134
+9050ee25,Linkerror event interval expired,959
+fea08751,normal,495
+56597868,NIFF node <*> has detected an available network connection on network <*> via interface <*>,281
+92f0ab0d,ambient<*>,609
+ffd891af,halt (command <*>,6
+8cfafe98,configured out,238
+ec4e03ec,Link error,51
+75101dcd,running,391
+28889bc4,wait (command <*>,170
+8d336518,boot (command <*>,146
+551adf73,link errors remain current,159
+04d0d857,Component State Change Component <*> is in the <*> state (HWID<*>),55
+db5aa7f9,Link in reset,29
+9811d692,Fan speeds ( 3552 <*> <*> **** 3515 <*> ),165
+fdd6a490,Link error on broadcast tree <*> 00 <*>,12
+a34b0514,member_delete (command <*>,2
+7e85bcb6,critical,59
+b4e25afc,Command has completed successfully,24
+8f3207a1,ClusterFileSystem ServerFileSystem domain <*> is no longer served by node <*>,90
+c76a5e84,active,14
+df7b42cd,Temperature <*> exceeds warning threshold,9
+eecaca39,ClusterFileSystem There is no server for ServerFileSystem domain <*>,57
+39b78785,halt (command <*> Error scrun failed\ couldn\047t send shutdown command,3
+45f1e193,Fan speeds ( 3534 <*> 3375 <*> <*> 3479 ),52
+9cac1bf6,ServerFileSystem ServerFileSystem domain <*> is full,36
+4445e8e0,risBoot (command <*>,4
+641961b9,Link ok,28
+61326117,blocked,20
+dca10390,inconsistent nodesets node-1 0x000001fe <ok> node-2 0x000001fe <ok> node-0 0x000001fe <ok> node-4 0x0001e1fe <ok> node-7 0x0001e1fe <ok> node-5 0x0001e1fe <ok> node-6 0x0001e1fe <ok> node-3 0x0001e1fe <ok>,1
+e13d082a,power/control problem,4
+a0258f40,halt (command <*> Error Couldn\047t Connect to console (state REFUSED),2
+78fe0fa3,psu failure\ ambient<*>,5
+76727c51,bootGenvmunix (command <*>,9
+b6d38bd5,clusterAddMember (command <*>,5
+71fbbc9e,NIFF node <*> detected a failed network connection on network <*> via interface alt0,9
+0af3c008,boot (command 2276) Error node went to SRM while booting,1
+36247cfe,no recent update,1
+4ddd30d6,Targeting domains <*> and nodes <*>,21
+3f77edb0,Fan speeds ( 3552 3534 3391 <*> 3515 3479 ),13
+252f035f,not-responding,1
+61a232aa,inconsistent nodesets node-161 0x000001fe <ok> node-160 0x000001fe <ok> node-164 0x4001fdfe <ok> node-162 0x4001fdfe <ok> node-167 0x4001fdfe <ok> node-163 0x4001fdfe <ok> node-165 0x4001fdfe <ok> node-166 0x4001fdfe <ok>,1
+5452c51c,Command has been aborted,1
+bd82b62d,Failed subcommands <*>,3
+1ee85f6c,starting,2
+74342872,inconsistent nodesets node-162 0x000001fe <ok> node-161 0x000001fe <ok> node-160 0x0401fdfe <ok> node-163 0x0001fdfe <ok> node-166 0x0401fdfe <ok> node-164 0x0401fdfe <ok> node-167 0x0401fdfe <ok> node-165 0x0401fdfe <ok>,1
+5f71c8f3,inconsistent nodesets node-95 0x1fffffffc <ok> node-66 0x1fffffffc <ok> node-83 0x1fffffffc <ok> node-88 0x1fffffffc <ok> node-85 0x1fffffffc <ok> node-77 0x1fffffffc <ok> node-72 0x1fffffffc <ok> node-84 0x1fffffffc <ok> node-68 0x1fffffffc <ok> node-78 0x1fffffffc <ok> node-89 0x1fffffffc <ok> node-91 0x1fffffffc <ok> node-69 0x1fffffffc <ok> node-71 0x1fffffffc <ok> node-87 0x1fffffffc <ok> node-76 0x1fffffffc <ok> node-93 0x1fffffffc <ok> node-67 0x1fffffffc <ok> node-92 0x1fffffffc <ok> node-80 0x1fffffffc <ok> node-90 0x1fffffffc <ok> node-74 0x1fffffffc <ok> node-79 0x1fffffffc <ok> node-86 0x1fffffffc <ok> node-82 0x1fffffffc <ok> node-94 0x1fffffffc <ok> node-70 0x1fffffffc <ok> node-81 0x1fffffffc <ok> node-75 0x1fffffffc <ok> node-73 0x1fffffffc <ok> node-64 0x1fffffffe <ok>,1
+580e85aa,inconsistent nodesets node-223 0x1fffffffe <ok> node-192 0x1f07ffffe <ok> node-194 0x1f07ffffe <ok> node-193 0x1f07ffffe <ok>,1
+9616ee3a,Command Failed on node-255,1
+7784634b,boot (command 3005) Error HALT asserted\ cannot continue,1
+f971a90f,update received,2
+a665936f,boot (command 3211) Error Unknown We failed to determine the state of this node,1
+ce6a1266,bootGenvmunix (command 3907) Error Timeout waiting for system to come up <ABORT code completed>,1
+603b0eb4,inconsistent nodesets node-134 0x000001fe <ok> node-128 0x000001fe <ok> node-129 0x000001fe <ok> node-135 0x0801fdfe <ok> node-133 0x0801fdfe <ok> node-131 0x0801fdfe <ok> node-132 0x0801fdfe <ok> node-130 0x0801fdfe <ok>,1
+9568af81,inconsistent nodesets node-255 0x1fffffffe <ok> node-224 0x0000000e <ok> node-226 0x0000000e <ok> node-225 0x0000000e <ok>,1
+82004600,Command Failed on node-33\ node-36\ node-41\ node-38\ node-34\ node-35\ node-37\ node-39\ node-54\ node-43\ node-42\ node-47\ node-45\ node-46\ node-44\ node-49\ node-51\ node-48\ node-52\ node-40\ node-50\ node-53\ node-55\ node-56\ node-60\ node-57\ node-59\ node-58\ node-61\ node-62\ node-63,1

@@ -1,0 +1,33 @@
+EventId,EventTemplate,Occurrences
+f831cb6d,Failed password for <*> from <*> port <*> ssh2,4281
+e35a70fe,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> <*>,4225
+00a684b8,PAM service(sshd) ignoring max retries; <*> > 3,1148
+2491ca3e,Connection closed by <*> [preauth],2087
+509a487f,Disconnecting: Too many authentication failures for <*> [preauth],1161
+e2315f39,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,416
+6b674ff1,input_userauth_request: invalid user <*> [preauth],465
+2817a946,Received disconnect from <*>: 11: <*> <*> <*>,1486
+0849a7d0,pam_unix(sshd:auth): check pass; user unknown,627
+80362e38,PAM <*> more authentication <*> logname= uid=0 euid=0 tty=ssh ruser= <*> user=root,1113
+21bb6d0e,Failed password for invalid user <*> from <*> port <*> ssh2,625
+d7242a1b,error: Received disconnect from <*>: 14: No more user authentication methods available. [preauth],28
+9302fad4,Invalid user <*> from <*>,465
+b542638e,message repeated <*> times: [ Failed password for root from <*> port <*> ssh2],1111
+f7fe7f88,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!,580
+6ff8b88b,PAM <*> more authentication <*> logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,43
+ac22ce5f,pam_unix(sshd:session): session closed for user <*>,10
+c926c7d9,Did not receive identification string from <*>,17
+0c7b42d8,"Address <*> maps to <*>, but this does not map back to the address - POSSIBLE BREAK-IN ATTEMPT!",22
+a8914100,error: Received disconnect from <*>: 13: User request [preauth],1
+e2e22af4,Received disconnect from <*>: 11: Closed due to user request. [preauth],19
+0a1f9bbf,Received disconnect from <*>: 11: [preauth],3
+bdc60fd2,error: connect_to <*> port 22: failed.,1
+a998e480,fatal: Read from socket failed: Connection reset by peer [preauth],33
+fb624da8,Accepted password for <*> from <*> port <*> ssh2,8
+587eafbe,Received disconnect from <*>: 11: <*> <*> <*> [preauth],4
+40eaca4b,Bad protocol version identification 'GET / HTTP/1.0' from <*> port 30762,1
+2702de18,Failed none for invalid user <*> from <*> port <*> ssh2,8
+41cb9a0a,Failed none for invalid user from <*> port 36949 ssh2,1
+8bb6393b,Received disconnect from <*>: 11: disconnect [preauth],3
+3a7285d3,error: Received disconnect from <*>: 3: <*>: Auth fail [preauth],4
+b7a32072,pam_unix(sshd:session): session opened for user <*> by (uid=0),4

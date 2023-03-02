@@ -1,0 +1,76 @@
+EventId,EventTemplate,Occurrences
+56597868,NIFF node <*> has detected an available network connection on network <*> via interface <*>,555
+fea08751,normal,1045
+7b83d3f0,warning,1172
+92f0ab0d,ambient<*>,1238
+04d0d857,Component State Change Component <*> is in the <*> state (HWID<*>),128
+9050ee25,Linkerror event interval expired,2002
+8d336518,boot (command <*>,282
+1517e6c6,Fan speeds ( <*> 3534 <*> **** <*> 3479 ),53
+8f3207a1,ClusterFileSystem ServerFileSystem domain <*> is no longer served by node <*>,203
+551adf73,link errors remain current,303
+8cfafe98,configured out,430
+b4e25afc,Command has completed successfully,44
+28889bc4,wait (command <*>,318
+75101dcd,running,699
+61326117,blocked,55
+eecaca39,ClusterFileSystem There is no server for ServerFileSystem domain <*>,130
+641961b9,Link ok,50
+c76a5e84,active,25
+db5aa7f9,Link in reset,48
+4ddd30d6,Targeting domains <*> and nodes <*>,46
+ec4e03ec,Link error,82
+fdd6a490,Link error on broadcast tree <*> 00 <*>,22
+8bfb00b1,inconsistent nodesets node-166 0x000001fe <ok> node-177 0x1fffffffe <ok>,1
+6edfd1c7,<*> responding,300
+7e85bcb6,critical,107
+9cac1bf6,ServerFileSystem ServerFileSystem domain <*> is full,43
+da2a0a42,inconsistent nodesets node-224 0x0123bffe <ok> node-255 0x1ffffbffe <ok> node-226 0x0123bffe <ok> node-225 0x0123bffe <ok> node-247 0x11ffbffe <ok>,1
+2fb141c5,Fan speeds ( 3552 3552 3391 <*> 3515 3497 ),13
+df7b42cd,Temperature <*> exceeds warning threshold,26
+1ee85f6c,starting,3
+d45c97a6,inconsistent nodesets node-0 0x1fffffffe <ok> node-1 0x0000000e <ok> node-2 0x0000000e <ok>,2
+3020731a,Fan speeds ( 3552 3534 <*> <*> 3515 3479 ),417
+4445e8e0,risBoot (command <*>,5
+a7b6c622,NIFF node <*> detected a failed network connection on network <*> via interface <*>,19
+5452c51c,Command has been aborted,3
+ffd891af,halt (command <*>,12
+78fe0fa3,psu failure\ ambient<*>,14
+6adb3a09,ServerFileSystem An ServerFileSystem domain panic has occurred on <*>,3
+b1b5b698,inconsistent nodesets node-191 <*> <ok> <*> <*> <*> node-160 0x1fffffffe <ok> node-161 0x1fffffffe <ok>,2
+b840612b,inconsistent nodesets node-255 0x1ffffbffe <ok> node-226 0x1fffffffe <ok> node-224 0x1fffffffe <ok> node-254 0x1fffffffe <ok> node-236 0x1fffffffe <ok> node-225 0x1fffffffe <ok> node-235 0x1fffffffe <ok> node-228 0x1fffffffe <ok> node-234 0x1fffffffe <ok> node-237 0x1fffffffe <ok> node-238 0x1fffffffe <ok> node-253 0x1fffffffe <ok> node-248 0x1fffffffe <ok> node-246 0x1fffffffe <ok> node-232 0x1fffffffe <ok> node-249 0x1fffffffe <ok> node-231 0x1fffffffe <ok> node-252 0x1fffffffe <ok> node-233 0x1fffffffe <ok> node-251 0x1fffffffe <ok> node-242 0x1fffffffe <ok> node-227 0x1fffffffe <ok> node-230 0x1fffffffe <ok> node-239 0x1fffffffe <ok> node-243 0x1fffffffe <ok> node-247 0x1fffffffe <ok> node-244 0x1fffffffe <ok> node-241 0x1fffffffe <ok> node-229 0x1fffffffe <ok> node-240 0x1fffffffe <ok> node-250 0x1fffffffe <ok>,1
+805629ee,inconsistent nodesets node-194 0x000001fe <ok> node-192 0x0801fdfe <ok>,1
+38884487,Fan speeds ( 3534 3534 3375 <*> 3497 3479 ),38
+338cdbb0,boot (command <*> Error node went to SRM while trying to boot,2
+9d687518,inconsistent nodesets node-193 0x000001fe <ok> node-194 0x000001fe <ok> node-192 0x1001fdfe <ok> node-197 0x1001fdfe <ok> node-196 0x1001fdfe <ok> node-198 0x1001fdfe <ok> node-199 0x1001fdfe <ok> node-195 0x1001fdfe <ok>,1
+39b78785,halt (command <*> Error scrun failed\ couldn\047t send shutdown command,4
+1b1380d0,inconsistent nodesets node-39 0x09fffdfe <ok> node-32 0x000001fe <ok> node-44 0x0801fdfe <ok> node-46 0x0803fdfe <ok>,1
+9364aae7,inconsistent nodesets node-160 0x1fffffffe <ok> node-162 0x1fffffffe <ok> node-161 0x1fffffffe <ok> node-189 0x1fffffffc <ok> node-191 0x1fffffffe <ok>,1
+c44c38bf,<*> (command 1904),2
+17341526,boot (command 2092) Error timeout waiting for Loading LMF licenses,1
+e13d082a,power/control problem,5
+71a8e68a,Command Failed on <*>,3
+afe57337,inconsistent nodesets node-98 0x1fffffffe <ok> node-97 0x1fffffffe <ok> node-96 0x1fffffffe <ok> node-103 0x1fbfffffe <ok> node-127 0x1fffffffe <ok>,1
+9805bb38,boot (command <*> Error HALT asserted\ cannot continue,5
+76727c51,bootGenvmunix (command <*>,6
+e3525d12,inconsistent nodesets <*> <*> <*> node-128 <*> <ok> node-130 <*> <ok> <*>,2
+304691ec,clusterAddMember (command 1905),2
+252f035f,not-responding,2
+13409879,haltcluster (command <*>,2
+558825fb,wait (command 3845) Error Unknown We failed to determine the state of this node,1
+5d04f68c,inconsistent nodesets node-65 0x000001fe <ok> node-66 0x000001fe <ok> node-67 0x000001fe <ok> node-71 0x000001fe <ok> node-69 0x000001fe <ok> node-68 0x000001fe <ok> node-70 0x000001fe <ok> node-64 0x0401fdfe <ok>,1
+ad921d60,unknown,2
+3b38bec1,closing,1
+b975407c,PSU status ( off on ),1
+fc8edb68,Failed subcommands 3825\ 3845\ 3846,1
+87a96153,inconsistent nodesets node-224 0x000001fe <ok> node-231 0x000001fe <ok> node-227 0x000001fe <ok> node-230 0x000001fe <ok> node-226 0x000001fe <ok> node-225 0x000001fe <ok> node-229 0x000001fe <ok> node-228 0x000001fe <ok> node-237 0x2001fdfe <ok>,1
+48657bc0,inconsistent nodesets node-255 0x1fffffffe <ok> node-254 0x1ffffeffe <ok> node-224 0x1ffffeffe <ok> node-226 0x1ffffeffe <ok> node-225 0x1ffffeffe <ok>,1
+cfa300cc,Link error on broadcast tree Interconnect-0N01 03 5 2,1
+83974d47,inconsistent nodesets node-161 0x000001fe <ok> node-160 0x000001fe <ok> node-162 0x0001e1fe <ok> node-163 0x0001e1fe <ok>,1
+70ff53fc,inconsistent nodesets node-127 0x1fffffffe <ok> node-96 0x1ffffbffe <ok> node-98 0x1ffffbffe <ok> node-97 0x1ffffbffe <ok>,1
+a31eeceb,member_delete (command 4184),1
+4550715e,inconsistent nodesets node-193 0x000001fe <ok> node-192 0x000001fe <ok> node-194 0x000001fe <ok> node-197 0x000001fe <ok> node-198 0x000001fe <ok> node-199 0x0801fdfe <ok> node-196 0x0801fdfe <ok> node-195 0x0801fdfe <ok>,1
+e3673d3d,inconsistent nodesets node-162 0x000001fe <ok> node-161 0x000001fe <ok> node-160 0x000001fe <ok> node-167 0x1001fdfe <ok> node-166 0x1001fdfe <ok> node-165 0x1001fdfe <ok> node-163 0x1001fdfe <ok> node-164 0x1001fdfe <ok>,1
+2b8006ec,inconsistent nodesets node-0 0x000001fe <ok> node-3 0x0001e1fe <ok> node-2 0x0001e1fe <ok> node-1 0x0001e1fe <ok> node-6 0x2001fdfe <ok> node-7 0x2001fdfe <ok> node-4 0x2001fdfe <ok>,1
+ae281e4e,inconsistent nodesets node-99 0x000001fe <ok> node-97 0x000001fe <ok> node-96 0x000001fe <ok> node-101 0x000001fe <ok> node-103 0x000001fe <ok> node-102 0x000001fe <ok> node-100 0x000001fe <ok> node-98 0x000001fe <ok> node-107 0x0101fdfe <ok> node-109 0x0101fdfe <ok> node-110 0x0101fdfe <ok> node-111 0x0101fdfe <ok> node-106 0x0101fdfe <ok> node-108 0x0101fdfe <ok> node-105 0x0101fdfe <ok> node-119 0x0101fdfe <ok>,1
+c6409432,power/control ok,2

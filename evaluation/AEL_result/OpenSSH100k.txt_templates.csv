@@ -1,0 +1,53 @@
+EventId,EventTemplate,Occurrences
+07159a74,<*> password for <*> from <*> port <*> ssh2,21590
+f7fe7f88,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!,2884
+e35a70fe,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> <*>,21517
+00a684b8,PAM service(sshd) ignoring max retries; <*> > 3,5892
+54a90e3c,PAM <*> more authentication <*> logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> user=root,5585
+e2e22af4,Received disconnect from <*>: 11: Closed due to user request. [preauth],85
+ca409192,Failed <*> for invalid user <*> from <*> port <*> ssh2,3076
+2491ca3e,Connection closed by <*> [preauth],10552
+6b674ff1,input_userauth_request: invalid user <*> [preauth],2165
+509a487f,Disconnecting: Too many authentication failures for <*> [preauth],5470
+2817a946,Received disconnect from <*>: 11: <*> <*> <*>,7147
+b542638e,message repeated <*> times: [ Failed password for root from <*> port <*> ssh2],5648
+c926c7d9,Did not receive identification string from <*>,132
+0849a7d0,pam_unix(sshd:auth): check pass; user unknown,2974
+e2315f39,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,2288
+d72fd2a1,PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,66
+9302fad4,Invalid user <*> from <*>,2259
+a998e480,fatal: Read from socket failed: Connection reset by peer [preauth],155
+1048a82a,PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,124
+d7242a1b,error: Received disconnect from <*>: 14: No more user authentication methods available. [preauth],143
+0c7b42d8,"Address <*> maps to <*>, but this does not map back to the address - POSSIBLE BREAK-IN ATTEMPT!",68
+62784b9d,"Received disconnect from <*>: 11: Normal Shutdown, Thank you for playing [preauth]",13
+9b9289cb,PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,16
+1a4f6a29,pam_unix(sshd:session): session closed for user curi,9
+911c831b,pam_unix(sshd:session): session closed for user hxu,3
+3a7285d3,error: Received disconnect from <*>: 3: <*>: Auth fail [preauth],25
+142422c8,Corrupted MAC on input. [preauth],1
+3a82a99b,Received disconnect from <*>: 11: Client disconnecting normally [preauth],15
+b7a32072,pam_unix(sshd:session): session opened for user <*> by (uid=0),19
+7f8d7ef8,PAM 1 more authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,16
+8bb6393b,Received disconnect from <*>: 11: disconnect [preauth],12
+a625beb4,Received disconnect from <*>: 11:  [preauth],18
+7ed2e3ab,Received disconnect from <*>: 11: disconnected by user [preauth],2
+e93b7b61,pam_unix(sshd:session): session closed for user jmzhu,5
+5535ca2f,pam_unix(sshd:session): session closed for user suyuxin,4
+974183b9,pam_unix(sshd:session): session closed for user xxchen,1
+a01fb392,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>.<*>,1
+f1b6aea8,Invalid user  from <*>,3
+cfe22f2e,pam_unix(sshd:session): session closed for user fztu,1
+a8914100,error: Received disconnect from <*>: 13: User request [preauth],1
+edebecd4,Failed none for invalid user  from <*> port 52876 ssh2,1
+db6246e3,Bad protocol version identification 'GET /manager/html HTTP/1.1' from <*> port 59370,1
+f32f0642,fatal: Write failed: Connection reset by peer [preauth],2
+2ef8896b,pam_unix(sshd:session): session closed for user yuewang,1
+123e2bce,"Address <*> maps to <*>.magvision.com, but this does not map back to the address - POSSIBLE BREAK-IN ATTEMPT!",2
+b16de367,Server listening on :: port 447.,1
+377b0e6d,input_userauth_request: invalid user  [preauth],1
+be9efca0,Failed password for invalid user  from <*> port 36266 ssh2,1
+616ac4ec,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=static.<*>.<*>,1
+60beff6e,fatal: no hostkey alg [preauth],2
+7c7c66ea,Server listening on <*> port 902.,1
+63e0b01d,error: Received disconnect from <*>: 3: <*>: Read timed out [preauth],1
